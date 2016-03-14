@@ -1,0 +1,9 @@
+/* --- Rem Font Size --- */
+@function rem($size) {
+  @return #{$size / $base-fs}rem;
+}
+
+/* --- Em Font Size --- */
+@function em($size, $base: 18) {
+  @return #{$size / $base}em;
+}

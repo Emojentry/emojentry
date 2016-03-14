@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  align-items: center;
+  padding: em(20) 0;
+  border-bottom: 2px solid $silver;
+}
+.header {
+  &-brand {
+    flex: 1;
+    user-select: none;
+  }
+  &-nav {
+    a:not(:last-child) {
+      margin-right: em(25);
+    }
+  }
+}

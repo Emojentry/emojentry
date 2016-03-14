@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="black bg-white sans">
+    <div class="body-wrapper">
+      {% include header.html %}
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+
+    <script src="{{ 'js/producthunt.js' | prepend: site.baseurl }}"></script>
+  </body>
+
+</html>

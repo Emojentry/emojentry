@@ -1,0 +1,30 @@
+/* --- All elements --- */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+::selection {
+  background-color: rgba(179, 205, 252, 0.5);
+}
+
+/* --- HTML & Body --- */
+html,
+body {
+  height: 100%;
+  overflow-x: hidden;
+  cursor: default;
+}
+html {
+  font-size: $base-fs * 1px;
+}
+body {
+  font-size: rem(18);
+  text-rendering: optimizeLegibility;
+}
+
+/* --- Body Wrapper --- */
+.body-wrapper {
+  max-width: $wrapper-width;
+  margin: 0 auto;
+}

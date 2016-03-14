@@ -1,0 +1,23 @@
+/* --- Text Color --- */
+.yellow { color: $yellow; }
+.black  { color: $black; }
+.gray   { color: $gray; }
+.silver { color: $silver; }
+.snow   { color: $snow; }
+.white  { color: $white; }
+
+/* --- Background Color --- */
+.bg-yellow { background-color: $yellow; }
+.bg-black  { background-color: $black; }
+.bg-gray   { background-color: $gray; }
+.bg-silver { background-color: $silver; }
+.bg-snow   { background-color: $snow; }
+.bg-white  { background-color: $white; }
+
+/* --- Font Family --- */
+.sans  { font-family: $sans; }
+.title { font-family: $title; }
+.mono  { font-family: $mono; }
+
+/* --- Text Align --- */
+.center { text-align: center; }

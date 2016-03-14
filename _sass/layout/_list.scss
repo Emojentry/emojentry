@@ -1,0 +1,51 @@
+/* --- Search Bar --- */
+.search {
+  &-form {
+    display: flex;
+  }
+  &-label {
+    width: rem(60);
+    height: rem(60);
+    fill: $black;
+  }
+  &-input {
+    flex: 1;
+    outline: none;
+    border: none;
+    height: rem(60);
+    background: transparent;
+    font: inherit;
+  }
+}
+
+/* --- List --- */
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: calc(100% + #{rem(25)});
+  margin-left: -#{rem(12.5)};
+  list-style: none;
+  &-item {
+    display: flex;
+    flex: 1 0 rem(220);
+    flex-direction: column;
+    margin: rem(25) rem(12.5) 0;
+    background-color: $snow;
+    h4 {
+      display: flex;
+      flex: 1;
+      align-items: center;
+      justify-content: center;
+    }
+    &-code {
+      display: flex;
+      code {
+        flex: 1;
+      }
+      code:first-child {
+        border-right: 1px solid $gray;
+      }
+    }
+  }
+}
