@@ -1,10 +1,17 @@
 <header>
   <div class="header-brand">
-    <h1 class="header-title">{{ site.title }}</h1>
+    {% if page.path == "index.html" %}
+      <h1 class="header-title">{{ site.title }}</h1>
+    {% else %}
+      <a class="h1" href="{{ '/' | prepend: site.baseurl }}">{{ site.title }}</h1>
+    {% endif %}
   </div>
   <nav class="header-nav">
-    <!-- <a href="#">About</a>
-    <a href="#">Roadmap</a> -->
+    {% for page in site.pages %}
+      {% if page.title %}
+      <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% endif %}
+    {% endfor %}
     <a href="{{ site.twitter-share }}">Share on Twitter</a>
   </nav>
 </header>

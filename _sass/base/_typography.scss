@@ -1,5 +1,5 @@
 /* --- Headings --- */
-h1 {
+h1, a.h1 {
   color: $yellow;
   font-size: rem(40);
   font-weight: $heavy;
@@ -14,7 +14,7 @@ h3 {
   font-weight: $u-bold;
 }
 h4 {
-  padding: em(10, 22) em(5, 22);
+  padding: em(12, 22) em(8, 22);
   background-color: $silver;
   font-family: $title;
   font-size: rem(22);
@@ -33,7 +33,7 @@ a {
 
 /* --- Code --- */
 code {
-  padding: em(15, 14) 0;
+  padding: em(15, 16) 0;
   font-family: $mono;
-  font-size: rem(14);
+  font-size: rem(16);
 }
