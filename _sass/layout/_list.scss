@@ -42,9 +42,9 @@
       display: flex;
       code {
         flex: 1;
-      }
-      code:first-child {
-        border-right: 1px solid $gray;
+        &:not(:last-child) {
+          border-right: 1px solid $gray;
+        }
       }
     }
   }
