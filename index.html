@@ -16,18 +16,20 @@ layout: default
   </div>
 
   <ul class="list center">
-    {% assign emojis = site.emojis | sort: "html" %}
-    {% for emoji in emojis %}
-      <li class="list-item">
-        <h2 class="emoji">{{ emoji.html }}</h2>
-        <h4 class="name">{{ emoji.name }}</h4>
-        <section class="list-item-code">
-          <code class="html">{{ emoji.html | escape }};</code>
-          <code class="hex">{{ emoji.hex | escape }};</code>
-        </section>
-      </li>
+    {% for group in site.emojis %}
+      {% for emoji in group.emojis %}
+        <li class="list-item">
+          <h2 class="emoji">{{ emoji.html }}</h2>
+          <h4 class="name">{{ emoji.name }}</h4>
+          <section class="list-item-code">
+            <code class="html">{{ emoji.html | escape }};</code>
+            <code class="hex">{{ emoji.hex | escape }};</code>
+          </section>
+        </li>
+      {% endfor %}
     {% endfor %}
   </ul>
+
 <section>
 
 <script>
