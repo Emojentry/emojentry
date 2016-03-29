@@ -30,7 +30,7 @@ emojis:
     html: "&#128517"
     hex:  "&#x1f605"
 
-  - name: "Smiling Face with Open Mouth and Tighly-Closed Eyes"
+  - name: "Smiling Face with Open Mouth and Tightly-Closed Eyes"
     html: "&#128518"
     hex:  "&#x1f606"
 
@@ -56,7 +56,7 @@ emojis:
 
   # Missing White Smiling Face
 
-  - name: "Face Savouring Delicious Food"
+  - name: "Face Savoring Delicious Food"
     html: "&#128523"
     hex:  "&#x1f60b"
 
@@ -88,7 +88,7 @@ emojis:
     html: "&#128540"
     hex:  "&#x1f61c"
 
-  - name: "Face with Stuck-Out Tongue and Tighly-Closed Eye"
+  - name: "Face with Stuck-Out Tongue and Tightly-Closed Eye"
     html: "&#128541"
     hex:  "&#x1f61d"
 
@@ -108,7 +108,7 @@ emojis:
   - name: "Smirking Face"
     html: "&#128527"
     hex:  "&#x1f60f"
-  
+
   - name: "Face without Mouth"
     html: "&#128566"
     hex:  "&#x1f636"
@@ -147,7 +147,7 @@ emojis:
     html: "&#128544"
     hex:  "&#x1f620"
 
-  - name: "Pounting Face"
+  - name: "Pouting Face"
     html: "&#128545"
     hex:  "&#x1f621"
 
