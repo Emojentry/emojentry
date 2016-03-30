@@ -205,6 +205,10 @@ emojis:
     html: "&#128550"
     hex:  "&#x1f626"
 
+  - name: "Anguished Face"
+    html: "&#128551"
+    hex:  "&#x1f627"
+  
   - name: "Crying Face"
     html: "&#128546"
     hex:  "&#x1f622"
