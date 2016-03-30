@@ -18,6 +18,17 @@
   }
 }
 
+/* --- Filter Buttons --- */
+.filter-groups {
+  padding-top: em(25);
+  li {
+    display: inline-block;
+    padding: 0 em(10);
+    list-style: none;
+    cursor: pointer;
+  }
+}
+
 /* --- List --- */
 .list {
   display: flex;
@@ -42,8 +53,8 @@
       display: flex;
       code {
         flex: 1;
-        &:not(:last-child) {
-          border-right: 1px solid $gray;
+        &:not(:first-child) {
+          border-left: 1px solid $gray;
         }
       }
     }

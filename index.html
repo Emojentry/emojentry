@@ -15,25 +15,29 @@ layout: default
     <input class="search search-input gray" id="search" placeholder="Search for an emoji..." />
   </div>
 
-  <ul class="list center">
-    {% assign emojis = site.emojis | sort: "html" %}
-    {% for emoji in emojis %}
-      <li class="list-item">
-        <h2 class="emoji">{{ emoji.html }}</h2>
-        <h4 class="name">{{ emoji.name }}</h4>
-        <section class="list-item-code">
-          <code class="html">{{ emoji.html | escape }};</code>
-          <code class="hex">{{ emoji.hex | escape }};</code>
-        </section>
-      </li>
+  <ul class="filter-groups center" id="js-filter">
+    <li data-group="all">All</li>
+    {% for group in site.emojis %}
+      <li data-group="{{ group.name | slugify }}">{{ group.name }}</li>
     {% endfor %}
   </ul>
-<section>
 
-<script>
-  // List.js
-  var options = {
-    valueNames: [ "emoji", "name", "html", "hex" ]
-  };
-  var userList = new List("emoji-list", options);
-</script>
+  <ul class="list center">
+    {% for group in site.emojis %}
+      {% for emoji in group.emojis %}
+        <li class="list-item">
+          <h2 class="emoji">{{ emoji.html }}</h2>
+          <h4 class="name">{{ emoji.name }}</h4>
+          <section class="list-item-code">
+            <code class="html">{{ emoji.html | escape }};</code>
+            <code class="hex">{{ emoji.hex | escape }};</code>
+            <code class="group hidden">{{ group.name | slugify }}</code>
+          </section>
+        </li>
+      {% endfor %}
+    {% endfor %}
+  </ul>
+
+</section>
+
+<script src="{{ 'js/list-options.js' | prepend: site.baseurl }}"></script>
