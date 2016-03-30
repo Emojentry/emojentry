@@ -6,6 +6,11 @@ permalink: "/changelog/"
 hero-text: "See all the modifications and changes that I have done on every new release."
 ---
 
+#### v0.3.1
+
+* Reordered the Animals
+* Added 39 new animals
+
 ### v0.3
 
 * Grouped all emojis by category
