@@ -1,186 +1,213 @@
 ---
 name: "Animals & Nature"
-
 emojis:
-  # Missing monkey Face
-
-  - name: "See-No-Evil Monkey"
-    html: "&#128584"  
-    hex:  "&#x1f648"
-
-  - name: "Hear-No-Evil Monkey"
-    html: "&#128585"
-    hex:  "&#x1f649"
-
-  - name: "Speak-No-Evil Monkey"
-    html: "&#128586"
-    hex:  "&#x1f64a"
-
-  - name: "Monkey"
-    html: "&#128018"
-    hex:  "&#x1f412"
-
-  # Missing Dog Face
-
-  - name: "Dog"
-    html: "&#128021"
-    hex:  "&#x1f415"
-
-  # Missing Poodle
-  # Missing Fox Face
-  # Missing Cat Face
-
-  - name: "Cat"
-    html: "&#128008"
-    hex:  "&#x1f408"
-
+  - name: "Dog Face"
+    html: "&#128054"
+    hex:  "&#x1f436"
+  - name: "Cat Face"
+    html: "&#128049"
+    hex:  "&#x1f431"
+  - name: "Mouse Face"
+    html: "&#128045"
+    hex:  "&#x1f42d"
+  - name: "Hamster Face"
+    html: "&#128057"
+    hex:  "&#x1f439"
+  - name: "Rabbit Face"
+    html: "&#128048"
+    hex:  "&#x1f430"
+  - name: "Bear Face"
+    html: "&#128059"
+    hex:  "&#x1f43b"
+  - name: "Panda Face"
+    html: "&#128060"
+    hex:  "&#x1f43c"
+  - name: "Koala"
+    html: "&#128040"
+    hex:  "&#x1f428"
+  - name: "Tiger Face"
+    html: "&#128047"
+    hex:  "&#x1f42f"
   # Missing Lion Face
-  # Missing Tiger Face
-  # Missing Lion
-
-  - name: "Tiger"
-    html: "&#128005"
-    hex:  "&#x1f405"
-
-  - name: "Leopard"
-    html: "&#128006"
-    hex:  "&#x1f406"
-
-  # Missing Horse Face
-
-  - name: "Horse"
-    html: "&#128014"
-    hex:  "&#x1f40e"
-
-  # Missing Unicorn Face
-  # Missing Cow Face
-
-  - name: "Ox"
-    html: "&#128002"
-    hex:  "&#x1f402"
-
-  - name: "Water Buffalo"
-    html: "&#128003"
-    hex:  "&#x1f403"
-
-  - name: "Cow"
-    html: "&#128004"
-    hex:  "&#x1f404"
-
-  # Missing Pig Face
-
-  - name: "Pig"
-    html: "&#128022"
-    hex:  "&#x1f416"
-
-  - name: "Boar"
-    html: "&#128023"
-    hex:  "&#x1f417"
-
-  # Missing Pig Nose
-
-  - name: "Ram"
-    html: "&#128015"
-    hex:  "&#x1f40f"
-
-  - name: "Sheep"
-    html: "&#128017"
-    hex:  "&#x1f411"
-
-  - name: "Goat"
-    html: "&#128016"
-    hex:  "&#x1f410"
-
-  # Missing Dromedary Camel
-  # Missing Bactrian Camel
-
-  - name: "Elephant"
-    html: "&#128024"
-    hex:  "&#x1f418"
-
-  # Missing Mouse Face
-
-  - name: "Mouse"
-    html: "&#128001"
-    hex:  "&#x1f401"
-
-  - name: "Rat"
-    html: "&#128000"
-    hex:  "&#x1f400"
-
-  # Missing Hamster Face
-  # Missing Rabbit Face
-
-  - name: "Rabbit"
-    html: "&#128007"
-    hex:  "&#x1f407"
-
-  # Missing Chipmunk
-  # Missing Bear Face
-  # Missing Koala
-  # Missing Panda
-  # Missing Paw Prints
-  # Missing Turkey
-
-  - name: "Chicken"
-    html: "&#128020"
-    hex:  "&#x1f414"
-
-  - name: "Rooster"
-    html: "&#128019"
-    hex:  "&#x1f413"
-
-  # Missing Hatching Chick
-  # Missing Baby Chick
-  # Missing Font-Facing Baby Chick
-  # Missing Bird
-  # Missing Penguin
-  # Missing Dove of Peace
-  # Missing Frog Face
-
-  - name: "Crocodile"
-    html: "&#128010"
-    hex:  "&#x1f40a"
-
-  # Missing Turtle
-
-  - name: "Snake"
-    html: "&#128013"
-    hex:  "&#x1f40d"
-
-  # Missing Dragon Face
-
-  - name: "Dragon"
-    html: "&#128009"
-    hex:  "&#x1f409"
-
-  # Missing Spouting Whale
-
-  - name: "Whale"
-    html: "&#128011"
-    hex:  "&#x1f40b"
-
-  # Missing Dolphin
-  # Missing Fish
-  # Missing Tropical Fish
-  # Missing Blowfish
-
+  - name: "Cow Face"
+    html: "&#128046"
+    hex:  "&#x1f42e"
+  - name: "Pig Face"
+    html: "&#128054"
+    hex:  "&#x1f436"
+  - name: "Pig Nose"
+    html: "&#128061"
+    hex:  "&#x1f43d"
+  - name: "Frog Face"
+    html: "&#128056"
+    hex:  "&#x1f438"
   - name: "Octopus"
     html: "&#128025"
     hex:  "&#x1f419"
-
-  # Missing Spiral Shell
-  # Missing Crab
-
+  - name: "Monkey Face"
+    html: "&#128053"  
+    hex:  "&#x1f435"
+  - name: "See-No-Evil Monkey"
+    html: "&#128584"  
+    hex:  "&#x1f648"
+  - name: "Hear-No-Evil Monkey"
+    html: "&#128585"
+    hex:  "&#x1f649"
+  - name: "Speak-No-Evil Monkey"
+    html: "&#128586"
+    hex:  "&#x1f64a"
+  - name: "Monkey"
+    html: "&#128018"
+    hex:  "&#x1f412"
+  - name: "Chicken"
+    html: "&#128020"
+    hex:  "&#x1f414"
+  - name: "Penguin"
+    html: "&#128039"
+    hex:  "&#x1f427"
+  - name: "Bird"
+    html: "&#128038"
+    hex:  "&#x1f426"
+  - name: "Baby Chick"
+    html: "&#128036"
+    hex:  "&#x1f424"
+  - name: "Hatching Chick"
+    html: "&#128035"
+    hex:  "&#x1f423"
+  # Missing Font-Facing Baby Chick
+  - name: "Wolf"
+    html: "&#128058"
+    hex:  "&#x1f43a"
+  - name: "Boar"
+    html: "&#128023"
+    hex:  "&#x1f417"
+  - name: "Horse Face"
+    html: "&#128052"
+    hex:  "&#x1f434"
+  # Missing Unicorn Face
+  - name: "Bug"
+    html: "&#128027"
+    hex:  "&#x1f41b"
   - name: "Snail"
     html: "&#128012"
     hex:  "&#x1f40c"
-
-  # Missing Bug
-  # Missing Ant
-  # Missing Honeybee
-  # Missing Lady Beetle
+  - name: "Lady Beetle"
+    html: "&#128030"
+    hex:  "&#x1f41e"
+  - name: "Honeybee"
+    html: "&#128029"
+    hex:  "&#x1f41d"
+  - name: "Ant"
+    html: "&#128028"
+    hex:  "&#x1f41c"
   # Missing Spider
-  # Missing Spider Web
   # Missing Scorpion
+  # Missing Crab
+  - name: "Snake"
+    html: "&#128013"
+    hex:  "&#x1f40d"
+  - name: "Turtle"
+    html: "&#128034"
+    hex:  "&#x1f422"
+  - name: "Tropical Fish"
+    html: "&#128031"
+    hex:  "&#x1f41f"
+  - name: "Fish"
+    html: "&#128031"
+    hex:  "&#x1f41f"
+  - name: "Blowfish"
+    html: "&#128033"
+    hex:  "&#x1f421"
+  - name: "Dolphin"
+    html: "&#128044"
+    hex:  "&#x1f42c"
+  - name: "Spouting Whale"
+    html: "&#128051"
+    hex:  "&#x1f433"
+  - name: "Whale"
+    html: "&#128011"
+    hex:  "&#x1f40b"
+  - name: "Crocodile"
+    html: "&#128010"
+    hex:  "&#x1f40a"
+  - name: "Leopard"
+    html: "&#128006"
+    hex:  "&#x1f406"
+  - name: "Tiger"
+    html: "&#128005"
+    hex:  "&#x1f405"
+  - name: "Water Buffalo"
+    html: "&#128003"
+    hex:  "&#x1f403"
+  - name: "Ox"
+    html: "&#128002"
+    hex:  "&#x1f402"
+  - name: "Cow"
+    html: "&#128004"
+    hex:  "&#x1f404"
+  - name: "Dromedary Camel"
+    html: "&#128042"
+    hex:  "&#x1f42a"
+  - name: "Bactrian Camel"
+    html: "&#128043"
+    hex:  "&#x1f42b"
+  - name: "Elephant"
+    html: "&#128024"
+    hex:  "&#x1f418"
+  - name: "Goat"
+    html: "&#128016"
+    hex:  "&#x1f410"
+  - name: "Ram"
+    html: "&#128015"
+    hex:  "&#x1f40f"
+  - name: "Sheep"
+    html: "&#128017"
+    hex:  "&#x1f411"
+  - name: "Horse"
+    html: "&#128014"
+    hex:  "&#x1f40e"
+  - name: "Pig"
+    html: "&#128022"
+    hex:  "&#x1f416"
+  - name: "Rat"
+    html: "&#128000"
+    hex:  "&#x1f400"
+  - name: "Mouse"
+    html: "&#128001"
+    hex:  "&#x1f401"
+  - name: "Rooster"
+    html: "&#128019"
+    hex:  "&#x1f413"
+  # Missing Turkey
+  # Missing Dove of Peace
+  - name: "Dog"
+    html: "&#128021"
+    hex:  "&#x1f415"
+  - name: "Poodle"
+    html: "&#128041"
+    hex:  "&#x1f429"
+  - name: "Cat"
+    html: "&#128008"
+    hex:  "&#x1f408"
+  - name: "Rabbit"
+    html: "&#128007"
+    hex:  "&#x1f407"
+  - name: "Chipmunk"
+    html: "&#128063"
+    hex:  "&#x1f43f"
+  - name: "Paw Prints"
+    html: "&#128062"
+    hex:  "&#x1f43e"
+  - name: "Dragon"
+    html: "&#128009"
+    hex:  "&#x1f409"
+  - name: "Dragon Face"
+    html: "&#128050"
+    hex:  "&#x1f432"
+
+  # Missing Nature Emojis
+
+  - name: "Spiral Shell"
+    html: "&#128026"
+    hex:  "&#x1f41a"
 ---
