@@ -6,6 +6,12 @@ permalink: "/changelog/"
 hero-text: "See all the modifications and changes that I have done on every new release."
 ---
 
+### v0.3
+
+* Grouped all emojis by category
+* Category filter!
+* Moved the list.js options to an external JavaScript file
+
 ### v0.2
 
 * New fonts for emoji's name and codes

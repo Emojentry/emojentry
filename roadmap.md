@@ -13,7 +13,6 @@ hero-text: "The open list of the tasks that should be completed in order to rele
 * Link emojis to Emojipedia.
 * Create a "copy" button for every emoji
 * Add the option to change the layout or the emoji's codes display
-* Category filers
 * Show the numbers of emojis next to the search bar
 * Rebrand Emojist
 * Change the color palette
@@ -22,3 +21,5 @@ hero-text: "The open list of the tasks that should be completed in order to rele
 * Emojis on iPad not showing in the correct size [(#1)](https://github.com/nil/emojist/issues/1)
 * Create a favicon
 * Complete the <head>
+* Redesign the filter buttons
+* Look for a better filter system (without hiding any element)
