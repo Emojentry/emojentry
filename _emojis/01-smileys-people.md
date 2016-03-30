@@ -169,6 +169,10 @@ emojis:
     html: "&#128533"
     hex:  "&#x1f615"
 
+  - name: "Slightly Frowning Face"
+    html: "&#128577"
+    hex:  "&#x1f641"
+
   - name: "Tired Face"
     html: "&#128555"
     hex:  "&#x1f62b"
@@ -208,7 +212,7 @@ emojis:
   - name: "Anguished Face"
     html: "&#128551"
     hex:  "&#x1f627"
-  
+
   - name: "Crying Face"
     html: "&#128546"
     hex:  "&#x1f622"
@@ -249,4 +253,100 @@ emojis:
   - name: "Sleeping Face"
     html: "&#128564"
     hex:  "&#x1f634"
+
+  # Missing Sleeping Symbol
+  # Missing Pile of Poo
+
+  - name: "Smiling Face with Horns"
+    html: "&#128520"
+    hex:  "&#x1f608"
+
+  # Missing Imp
+  # Missing Japanese Ogre
+  # Missing Japanese Goblin
+  # Missing Skull
+  # Missing Ghost
+  # Missing Extraterrestrial Alien
+  # Missing Robot Face
+
+  - name: "Smiling Cat Face with Open Mouth"
+    html: "&#128570"
+    hex:  "&#x1f63a"
+
+  - name: "Grinning Cat Face with Smiling Eyes"
+    html: "&#128568"
+    hex:  "&#x1f638"
+
+  - name: "Cat Face with Tears of Joy"
+    html: "&#128569"
+    hex:  "&#x1f639"
+
+  - name: "Smiling Cat Face with Heart-Shaped Eyes"
+    html: "&#128571"
+    hex:  "&#x1f63b"
+
+  - name: "Cat Face with Wry Smile"
+    html: "&#128572"
+    hex:  "&#x1f63c"
+
+  - name: "Kissing Cat Face with Closed Eyes"
+    html: "&#128573"
+    hex:  "&#x1f63d"
+
+  - name: "Weary Cat Face"
+    html: "&#128576"
+    hex:  "&#x1f640"
+
+  - name: "Crying Cat Face"
+    html: "&#128575"
+    hex:  "&#x1f63f"
+
+  - name: "Pouting Cat Face"
+    html: "&#128574"
+    hex:  "&#x1f63e"
+
+  - name: "Person Raising Both Hands in Celebration"
+    html: "&#128588"
+    hex:  "&#x1f64c"
+
+  # Missing some hands
+
+  - name: "Person with Folded Hands"
+    html: "&#128591"
+    hex:  "&#x1f64f"
+
+  # Missing some hands
+  # Missing all body parts
+  # Missing all people faces
+
+  - name: "Person Bowing Deeply"
+    html: "&#128583"
+    hex:  "&#x1f647"
+
+  # Missing Information Desk Person
+
+  - name: "Face with No Good Gesture"
+    html: "&#128581"
+    hex:  "&#x1f645"
+
+  - name: "Face with Ok Gesture"
+    html: "&#128582"
+    hex:  "&#x1f646"
+
+  - name: "Happy Person Raising One Hand"
+    html: "&#128587"
+    hex:  "&#x1f64b"
+
+  - name: "Person with Pouting Face"
+    html: "&#128590"
+    hex:  "&#x1f64e"
+
+  - name: "Person Frowning"
+    html: "&#128589"
+    hex:  "&#x1f64d"
+
+  # Missing Haircut
+  # Missing Face Massage
+  # Missing all couples, kisses and families
+  # Missing all clothes and bags
 ---
