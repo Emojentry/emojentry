@@ -1,5 +1,5 @@
 ---
-name: "Faces"
+name: "Smileys & People"
 
 emojis:
   - name: "Grinning Face"

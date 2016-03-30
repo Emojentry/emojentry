@@ -1,5 +1,5 @@
 ---
-name: "Animals"
+name: "Animals & Nature"
 
 emojis:
   # Missing monkey Face

@@ -15,6 +15,13 @@ layout: default
     <input class="search search-input gray" id="search" placeholder="Search for an emoji..." />
   </div>
 
+  <ul class="filter-groups center" id="js-filter">
+    <li data-group="all">All</li>
+    {% for group in site.emojis %}
+      <li data-group="{{ group.name | slugify }}">{{ group.name }}</li>
+    {% endfor %}
+  </ul>
+
   <ul class="list center">
     {% for group in site.emojis %}
       {% for emoji in group.emojis %}
@@ -24,18 +31,13 @@ layout: default
           <section class="list-item-code">
             <code class="html">{{ emoji.html | escape }};</code>
             <code class="hex">{{ emoji.hex | escape }};</code>
+            <code class="group hidden">{{ group.name | slugify }}</code>
           </section>
         </li>
       {% endfor %}
     {% endfor %}
   </ul>
 
-<section>
+</section>
 
-<script>
-  // List.js
-  var options = {
-    valueNames: [ "emoji", "name", "html", "hex" ]
-  };
-  var userList = new List("emoji-list", options);
-</script>
+<script src="{{ 'js/list-options.js' | prepend: site.baseurl }}"></script>
