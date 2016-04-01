@@ -28,13 +28,15 @@ emojis:
   - name: "Tiger Face"
     html: "&#128047"
     hex:  "&#x1f42f"
-  # Missing Lion Face
+  - name: "Lion Face"
+    html: "&#129409"
+    hex:  "&#x1f981"
   - name: "Cow Face"
     html: "&#128046"
     hex:  "&#x1f42e"
   - name: "Pig Face"
-    html: "&#128054"
-    hex:  "&#x1f436"
+    html: "&#128055"
+    hex:  "&#x1f437"
   - name: "Pig Nose"
     html: "&#128061"
     hex:  "&#x1f43d"
@@ -84,7 +86,9 @@ emojis:
   - name: "Horse Face"
     html: "&#128052"
     hex:  "&#x1f434"
-  # Missing Unicorn Face
+  - name: "Unicorn Face"
+    html: "&#129412"
+    hex:  "&#x1f984"
   - name: "Bug"
     html: "&#128027"
     hex:  "&#x1f41b"
@@ -101,8 +105,12 @@ emojis:
     html: "&#128028"
     hex:  "&#x1f41c"
   # Missing Spider
-  # Missing Scorpion
-  # Missing Crab
+  - name: "Scorpion"
+    html: "&#129410"
+    hex:  "&#x1f982"
+  - name: "Crab"
+    html: "&#129408"
+    hex:  "&#x1f980"
   - name: "Snake"
     html: "&#128013"
     hex:  "&#x1f40d"
@@ -178,7 +186,9 @@ emojis:
   - name: "Rooster"
     html: "&#128019"
     hex:  "&#x1f413"
-  # Missing Turkey
+  - name: "Turkey"
+    html: "&#129411"
+    hex:  "&#x1f983"
   # Missing Dove of Peace
   - name: "Dog"
     html: "&#128021"
