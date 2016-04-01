@@ -72,12 +72,18 @@ emojis:
   - name: "Face with Stuck-Out Tongue"
     html: "&#128539"
     hex:  "&#x1f61b"
-  # Missing Money-Mouth Face
-  # Missing Nerd Face
+  - name: "Money-Mouth Face"
+    html: "&#129297"
+    hex:  "&#x1f911"
+  - name: "Nerd Face"
+    html: "&#129299"
+    hex:  "&#x1f913"
   - name: "Smiling Face with Sunglasses"
     html: "&#128526"
     hex:  "&#x1f60e"
-  # Missing Hugging Face
+  - name: "Hugging Face"
+    html: "&#129303"
+    hex:  "&#x1f917"
   - name: "Smirking Face"
     html: "&#128527"
     hex:  "&#x1f60f"
@@ -179,12 +185,18 @@ emojis:
   - name: "Astonished Face"
     html: "&#128562"
     hex:  "&#x1f632"
-  # Missing Zipper-Mouth Face
+  - name: "Zipper-Mouth Face"
+    html: "&#129296"
+    hex:  "&#x1f910"
   - name: "Face with Medical Mask"
     html: "&#128567"
     hex:  "&#x1f637"
-  # Missing Face with Thermometer
-  # Missing Face with Head-Bandage
+  - name: "Face with Thermometer"
+    html: "&#129298"
+    hex:  "&#x1f912"
+  - name: "Face with Head-Bandage"
+    html: "&#129301"
+    hex:  "&#x1f915"
   - name: "Sleeping Face"
     html: "&#128564"
     hex:  "&#x1f634"
@@ -199,7 +211,9 @@ emojis:
   # Missing Skull
   # Missing Ghost
   # Missing Extraterrestrial Alien
-  # Missing Robot Face
+  - name: "Robot Face"
+    html: "&#129302"
+    hex:  "&#x1f916"
   - name: "Smiling Cat Face with Open Mouth"
     html: "&#128570"
     hex:  "&#x1f63a"
