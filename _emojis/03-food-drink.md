@@ -140,7 +140,9 @@ emojis:
   - name: "Shortcake"
     html: "&#127856"
     hex:  "&#x1f370"
-  # Missing Birthday Cake
+  - name: "Birthday Cake"
+    html: "&#127874"
+    hex:  "&#x1f382"
   - name: "Custard"
     html: "&#127854"
     hex:  "&#x1f36e"
