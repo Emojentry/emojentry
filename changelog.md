@@ -6,6 +6,10 @@ permalink: "/changelog/"
 hero-text: "See all the modifications and changes that I have done on every new release."
 ---
 
+#### v0.5
+
+* Added FuzzySearch
+
 ### v0.4
 
 * 46 new emojis
