@@ -61,7 +61,9 @@ emojis:
   - name: "Bread"
     html: "&#127838"
     hex:  "&#x1f35e"
-  # Missing Cheese Wedge
+  - name: "Cheese Wedge"
+    html: "&#129472"
+    hex:  "&#x1f9c0"
   - name: "Poultry Leg"
     html: "&#127831"
     hex:  "&#x1f357"

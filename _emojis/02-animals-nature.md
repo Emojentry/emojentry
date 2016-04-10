@@ -104,7 +104,9 @@ emojis:
   - name: "Ant"
     html: "&#128028"
     hex:  "&#x1f41c"
-  # Missing Spider
+  - name: "Spider"
+    html: "&#129375"
+    hex:  "&#x1f577"
   - name: "Scorpion"
     html: "&#129410"
     hex:  "&#x1f982"
@@ -189,7 +191,9 @@ emojis:
   - name: "Turkey"
     html: "&#129411"
     hex:  "&#x1f983"
-  # Missing Dove of Peace
+  - name: "Dove of Peace"
+    html: "&#128330"
+    hex:  "&#x1f44a"
   - name: "Dog"
     html: "&#128021"
     hex:  "&#x1f415"
@@ -214,10 +218,82 @@ emojis:
   - name: "Dragon Face"
     html: "&#128050"
     hex:  "&#x1f432"
-
-  # Missing Nature Emojis
-
+  # Cactus
+  # Christmas Tree
+  # Evergreen Tree
+  # Deciduous Tree
+  # Palm Tree
+  # Seedling
+  # Herb
+  # Shamrock
+  # Four Leaf Clover
+  # Pine Decoration
+  # Tanabata Tree
+  # Leaf Fluttering in Wind
+  # Fallen Leaf
+  # Maple Leaf
+  # Ear of Rice
+  # Hibiscus
+  # Sunflower
+  # Rose
+  # Tulip
+  # Blossom
+  # Cherry Blossom
+  # Bouquet
+  # Mushroom
+  # Chestnut
+  # Jack-O-Lantern
   - name: "Spiral Shell"
     html: "&#128026"
     hex:  "&#x1f41a"
+  - name: "Spider Web"
+    html: "&#128376"
+    hex:  "&#x1f578"
+  # Earth Globe Americas
+  # Earth Globe Europe-Africa
+  # Earth Globe Asia-Australia
+  # Full Moon Symbol
+  # Waning Gibbous Moon Symbol
+  # Last Quarter Moon Symbol
+  # Waning Crescent Moon Symbol
+  # New Moon Symbol
+  # Waxing Crescent Moon Symbol
+  # First Quarter Moon Symbol
+  # Waxing Gibbous Moon Symbol
+  # New Moon with Face
+  # Full Moon with Face
+  # First Quarter Moon with Face
+  # Last Quarter Moon with Face
+  # Sun with Face
+  # Crescent Moon
+  # White Medium Star
+  # Glowing Star
+  # Dizzy Symbol
+  # Sparkles
+  # Comet
+  # Black Sun with Rays
+  # White Sun with Small Cloud
+  # Sun Behind Cloud
+  # White Sun Behind Cloud
+  # White Sun Behind Cloud with Rain
+  # Cloud
+  # Cloud with Rain
+  # Thunder Cloud and Rain
+  # Cloud with Lightning
+  # High Voltage Sign
+  # Fire
+  # Collision Symbol
+  # Snowflake
+  # Cloud with Snow
+  # Snowman
+  # Snowman without Snow
+  # Wind Blowing Face
+  # Dash Symbol
+  # Cloud with Tornado
+  # Fog
+  # Umbrella
+  # Umbrella with Rain Drops
+  # Droplet
+  # Splashing Sweat Symbol
+  # Water Wave
 ---
