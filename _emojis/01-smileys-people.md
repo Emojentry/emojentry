@@ -540,6 +540,7 @@ emojis:
     hex:  "&#x1f452"
   - name: "Top Hat"
     html: "&#127913"
+    hex:  "&#x1f3a9"
   - name: "Helmet with White Cross"
     html: "&#9937"
     hex:  "&#x26d1"
