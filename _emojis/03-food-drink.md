@@ -162,7 +162,7 @@ emojis:
     hex:  "&#x1f37f"
   - name: "Doughnut"
     html: "&#127849"
-    hex:  "&#x1f359"
+    hex:  "&#x1f369"
   - name: "Cookie"
     html: "&#127850"
     hex:  "&#x1f36a"

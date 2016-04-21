@@ -43,6 +43,12 @@
     flex-direction: column;
     margin: rem(25) rem(12.5) 0;
     background-color: $snow;
+    .emoji {
+      height: 100px;
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: calc(100% - 30px) calc(100% - 30px);
+    }
     h4 {
       display: flex;
       flex: 1;

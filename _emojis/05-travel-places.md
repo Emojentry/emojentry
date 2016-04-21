@@ -48,7 +48,7 @@ emojis:
     hex:  "&#x1f6a8"
   - name: "Oncoming Police Car"
     html: "&#128660"
-    hex:  "&#x1f69a"
+    hex:  "&#x1f694"
   - name: "Oncoming Bus"
     html: "&#128653"
     hex:  "&#x1f68d"
@@ -123,9 +123,6 @@ emojis:
   - name: "Speedboat"
     html: "&#128676"
     hex:  "&#x1f6a4"
-  - name: "Speedboat"
-    html: "&#128676"
-    hex:  "&#x1f6a4"
   # Missing Ferry
   - name: "Passenger Ship"
     html: "&#128755"
@@ -182,10 +179,10 @@ emojis:
   # Missing National Park
   - name: "Motorway"
     html: "&#128739"
-    hex:  "&#x1f6e5"
+    hex:  "&#x1f6e3"
   - name: "Railway Track"
     html: "&#128740"
-    hex:  "&#x1f6e6"
+    hex:  "&#x1f6e4"
   # Missing Sunrise
   # Missing Sunrise over Mountains
   # Missing Desert
