@@ -7,12 +7,7 @@ port: 1515
 
 github_username:  nil
 twitter_username: desinil
-
-links:
-  changelog: "https://github.com/nil/emojist/releases"
-  roadmap: "https://github.com/nil/emojist/wiki/Roadmap"
-  github: "http://github.com/nil/emojist"
-  twitter: "https://twitter.com/home?status=%F0%9F%98%B1%20HTML%20and%20Hexadecimal%20codes%20for%20all%20the%20emojis!%20%F0%9F%91%80%F0%9F%91%89%20http%3A//emojist.ml"
+twitter-share: "https://twitter.com/home?status=%F0%9F%98%B1%20HTML%20and%20Hexadecimal%20codes%20for%20all%20the%20emojis!%20%F0%9F%91%80%F0%9F%91%89%20http%3A//emojist.ml"
 
 # Build settings
 markdown: kramdown
