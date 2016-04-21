@@ -1,3 +1,47 @@
+[class*=e1a-] {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin: -.2ex .05em 0 .1em;
+  line-height: normal;
+  vertical-align: middle;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1em 1em; }
+
+.e1a-lg {
+  width: 1.25em;
+  height: 1.25em;
+  margin: -0.25ex 0.0625em 0 0.125em;
+  background-size: 1.25em 1.25em; }
+
+.e1a-2x {
+  width: 2em;
+  height: 2em;
+  margin: -0.4ex 0.1em 0 0.2em;
+  background-size: 2em 2em; }
+
+.e1a-3x {
+  width: 3em;
+  height: 3em;
+  margin: -0.6ex 0.15em 0 0.3em;
+  background-size: 3em 3em; }
+
+.e1a-4x {
+  width: 4em;
+  height: 4em;
+  margin: -0.8ex 0.2em 0 0.4em;
+  background-size: 4em 4em; }
+
+.e1a-5x {
+  width: 5em;
+  height: 5em;
+  margin: -1ex 0.25em 0 0.5em;
+  background-size: 5em 5em; }
+
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------------ */
+
 .e1a-1f4af {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4af.svg"); }
 
@@ -283,16 +327,16 @@
 .e1a-1f44a {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f44a.svg"); }
 
-.e1a-270a {
+.e1a-/270a {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/270a.svg"); }
 
-.e1a-270c {
+.e1a-/270c {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/270c.svg"); }
 
 .e1a-1f44c {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f44c.svg"); }
 
-.e1a-270b {
+.e1a-/270b {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/270b.svg"); }
 
 .e1a-1f450 {
@@ -304,7 +348,7 @@
 .e1a-1f64f {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f64f.svg"); }
 
-.e1a-261d {
+.e1a-/261d {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/261d.svg"); }
 
 .e1a-1f446 {
@@ -331,7 +375,7 @@
 .e1a-1f596 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f596.svg"); }
 
-.e1a-270d {
+.e1a-/270d {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/270d.svg"); }
 
 .e1a-1f485 {
@@ -469,7 +513,8 @@
 .e1a-1f491 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f491.svg"); }
 
-/*
+/* ----------------------------------------------------------------------------------------- */
+
 .e1a-couple_ww {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f469-2764-1f469.svg"); }
 
@@ -529,2184 +574,2182 @@
 
 .e1a-family_mmgg {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f468-1f468-1f467-1f467.svg"); }
-*/
 
-.e1a-1f45a {
+.e1a-womans_clothes {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f45a.svg"); }
 
-.e1a-1f455 {
+.e1a-shirt {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f455.svg"); }
 
-.e1a-1f456 {
+.e1a-jeans {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f456.svg"); }
 
-.e1a-1f454 {
+.e1a-necktie {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f454.svg"); }
 
-.e1a-1f457 {
+.e1a-dress {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f457.svg"); }
 
-.e1a-1f459 {
+.e1a-bikini {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f459.svg"); }
 
-.e1a-1f458 {
+.e1a-kimono {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f458.svg"); }
 
-.e1a-1f484 {
+.e1a-lipstick {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f484.svg"); }
 
-.e1a-1f48b {
+.e1a-kiss {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f48b.svg"); }
 
-.e1a-1f463 {
+.e1a-footprints {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f463.svg"); }
 
-.e1a-1f460 {
+.e1a-high_heel {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f460.svg"); }
 
-.e1a-1f461 {
+.e1a-sandal {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f461.svg"); }
 
-.e1a-1f462 {
+.e1a-boot {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f462.svg"); }
 
-.e1a-1f45e {
+.e1a-mans_shoe {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f45e.svg"); }
 
-.e1a-1f45f {
+.e1a-athletic_shoe {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f45f.svg"); }
 
-.e1a-1f452 {
+.e1a-womans_hat {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f452.svg"); }
 
-.e1a-1f3a9 {
+.e1a-tophat {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3a9.svg"); }
 
-.e1a-26d1 {
+.e1a-helmet_with_cross {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26d1.svg"); }
 
-.e1a-1f393 {
+.e1a-mortar_board {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f393.svg"); }
 
-.e1a-1f451 {
+.e1a-crown {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f451.svg"); }
 
-.e1a-1f392 {
+.e1a-school_satchel {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f392.svg"); }
 
-.e1a-1f45d {
+.e1a-pouch {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f45d.svg"); }
 
-.e1a-1f45b {
+.e1a-purse {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f45b.svg"); }
 
-.e1a-1f45c {
+.e1a-handbag {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f45c.svg"); }
 
-.e1a-1f4bc {
+.e1a-briefcase {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4bc.svg"); }
 
-.e1a-1f453 {
+.e1a-eyeglasses {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f453.svg"); }
 
-.e1a-1f576 {
+.e1a-dark_sunglasses {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f576.svg"); }
 
-.e1a-1f48d {
+.e1a-ring {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f48d.svg"); }
 
-.e1a-1f302 {
+.e1a-closed_umbrella {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f302.svg"); }
 
-.e1a-1f436 {
+.e1a-dog {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f436.svg"); }
 
-.e1a-1f431 {
+.e1a-cat {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f431.svg"); }
 
-.e1a-1f42d {
+.e1a-mouse {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f42d.svg"); }
 
-.e1a-1f439 {
+.e1a-hamster {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f439.svg"); }
 
-.e1a-1f430 {
+.e1a-rabbit {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f430.svg"); }
 
-.e1a-1f43b {
+.e1a-bear {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f43b.svg"); }
 
-.e1a-1f43c {
+.e1a-panda_face {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f43c.svg"); }
 
-.e1a-1f428 {
+.e1a-koala {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f428.svg"); }
 
-.e1a-1f42f {
+.e1a-tiger {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f42f.svg"); }
 
-.e1a-1f981 {
+.e1a-lion_face {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f981.svg"); }
 
-.e1a-1f42e {
+.e1a-cow {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f42e.svg"); }
 
-.e1a-1f437 {
+.e1a-pig {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f437.svg"); }
 
-.e1a-1f43d {
+.e1a-pig_nose {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f43d.svg"); }
 
-.e1a-1f438 {
+.e1a-frog {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f438.svg"); }
 
-.e1a-1f419 {
+.e1a-octopus {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f419.svg"); }
 
-.e1a-1f435 {
+.e1a-monkey_face {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f435.svg"); }
 
-.e1a-1f648 {
+.e1a-see_no_evil {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f648.svg"); }
 
-.e1a-1f649 {
+.e1a-hear_no_evil {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f649.svg"); }
 
-.e1a-1f64a {
+.e1a-speak_no_evil {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f64a.svg"); }
 
-.e1a-1f412 {
+.e1a-monkey {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f412.svg"); }
 
-.e1a-1f414 {
+.e1a-chicken {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f414.svg"); }
 
-.e1a-1f427 {
+.e1a-penguin {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f427.svg"); }
 
-.e1a-1f426 {
+.e1a-bird {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f426.svg"); }
 
-.e1a-1f424 {
+.e1a-baby_chick {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f424.svg"); }
 
-.e1a-1f423 {
+.e1a-hatching_chick {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f423.svg"); }
 
-.e1a-1f425 {
+.e1a-hatched_chick {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f425.svg"); }
 
-.e1a-1f43a {
+.e1a-wolf {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f43a.svg"); }
 
-.e1a-1f417 {
+.e1a-boar {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f417.svg"); }
 
-.e1a-1f434 {
+.e1a-horse {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f434.svg"); }
 
-.e1a-1f984 {
+.e1a-unicorn {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f984.svg"); }
 
-.e1a-1f41d {
+.e1a-bee {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f41d.svg"); }
 
-.e1a-1f41b {
+.e1a-bug {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f41b.svg"); }
 
-.e1a-1f40c {
+.e1a-snail {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f40c.svg"); }
 
-.e1a-1f41e {
+.e1a-beetle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f41e.svg"); }
 
-.e1a-1f41c {
+.e1a-ant {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f41c.svg"); }
 
-.e1a-1f577 {
+.e1a-spider {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f577.svg"); }
 
-.e1a-1f982 {
+.e1a-scorpion {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f982.svg"); }
 
-.e1a-1f980 {
+.e1a-crab {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f980.svg"); }
 
-.e1a-1f40d {
+.e1a-snake {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f40d.svg"); }
 
-.e1a-1f422 {
+.e1a-turtle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f422.svg"); }
 
-.e1a-1f420 {
+.e1a-tropical_fish {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f420.svg"); }
 
-.e1a-1f41f {
+.e1a-fish {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f41f.svg"); }
 
-.e1a-1f421 {
+.e1a-blowfish {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f421.svg"); }
 
-.e1a-1f42c {
+.e1a-dolphin {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f42c.svg"); }
 
-.e1a-1f433 {
+.e1a-whale {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f433.svg"); }
 
-.e1a-1f40b {
+.e1a-whale2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f40b.svg"); }
 
-.e1a-1f40a {
+.e1a-crocodile {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f40a.svg"); }
 
-.e1a-1f406 {
+.e1a-leopard {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f406.svg"); }
 
-.e1a-1f405 {
+.e1a-tiger2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f405.svg"); }
 
-.e1a-1f403 {
+.e1a-water_buffalo {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f403.svg"); }
 
-.e1a-1f402 {
+.e1a-ox {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f402.svg"); }
 
-.e1a-1f404 {
+.e1a-cow2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f404.svg"); }
 
-.e1a-1f42a {
+.e1a-dromedary_camel {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f42a.svg"); }
 
-.e1a-1f42b {
+.e1a-camel {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f42b.svg"); }
 
-.e1a-1f418 {
+.e1a-elephant {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f418.svg"); }
 
-.e1a-1f410 {
+.e1a-goat {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f410.svg"); }
 
-.e1a-1f40f {
+.e1a-ram {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f40f.svg"); }
 
-.e1a-1f411 {
+.e1a-sheep {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f411.svg"); }
 
-.e1a-1f40e {
+.e1a-racehorse {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f40e.svg"); }
 
-.e1a-1f416 {
+.e1a-pig2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f416.svg"); }
 
-.e1a-1f400 {
+.e1a-rat {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f400.svg"); }
 
-.e1a-1f401 {
+.e1a-mouse2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f401.svg"); }
 
-.e1a-1f413 {
+.e1a-rooster {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f413.svg"); }
 
-.e1a-1f983 {
+.e1a-turkey {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f983.svg"); }
 
-.e1a-1f54a {
+.e1a-dove {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f54a.svg"); }
 
-.e1a-1f415 {
+.e1a-dog2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f415.svg"); }
 
-.e1a-1f429 {
+.e1a-poodle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f429.svg"); }
 
-.e1a-1f408 {
+.e1a-cat2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f408.svg"); }
 
-.e1a-1f407 {
+.e1a-rabbit2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f407.svg"); }
 
-.e1a-1f43f {
+.e1a-chipmunk {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f43f.svg"); }
 
-.e1a-1f43e {
+.e1a-feet {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f43e.svg"); }
 
-.e1a-1f409 {
+.e1a-dragon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f409.svg"); }
 
-.e1a-1f432 {
+.e1a-dragon_face {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f432.svg"); }
 
-.e1a-1f335 {
+.e1a-cactus {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f335.svg"); }
 
-.e1a-1f384 {
+.e1a-christmas_tree {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f384.svg"); }
 
-.e1a-1f332 {
+.e1a-evergreen_tree {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f332.svg"); }
 
-.e1a-1f333 {
+.e1a-deciduous_tree {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f333.svg"); }
 
-.e1a-1f334 {
+.e1a-palm_tree {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f334.svg"); }
 
-.e1a-1f331 {
+.e1a-seedling {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f331.svg"); }
 
-.e1a-1f33f {
+.e1a-herb {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f33f.svg"); }
 
-.e1a-2618 {
+.e1a-shamrock {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2618.svg"); }
 
-.e1a-1f340 {
+.e1a-four_leaf_clover {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f340.svg"); }
 
-.e1a-1f38d {
+.e1a-bamboo {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f38d.svg"); }
 
-.e1a-1f38b {
+.e1a-tanabata_tree {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f38b.svg"); }
 
-.e1a-1f343 {
+.e1a-leaves {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f343.svg"); }
 
-.e1a-1f342 {
+.e1a-fallen_leaf {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f342.svg"); }
 
-.e1a-1f341 {
+.e1a-maple_leaf {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f341.svg"); }
 
-.e1a-1f33e {
+.e1a-ear_of_rice {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f33e.svg"); }
 
-.e1a-1f33a {
+.e1a-hibiscus {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f33a.svg"); }
 
-.e1a-1f33b {
+.e1a-sunflower {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f33b.svg"); }
 
-.e1a-1f339 {
+.e1a-rose {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f339.svg"); }
 
-.e1a-1f337 {
+.e1a-tulip {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f337.svg"); }
 
-.e1a-1f33c {
+.e1a-blossom {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f33c.svg"); }
 
-.e1a-1f338 {
+.e1a-cherry_blossom {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f338.svg"); }
 
-.e1a-1f490 {
+.e1a-bouquet {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f490.svg"); }
 
-.e1a-1f344 {
+.e1a-mushroom {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f344.svg"); }
 
-.e1a-1f330 {
+.e1a-chestnut {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f330.svg"); }
 
-.e1a-1f383 {
+.e1a-jack_o_lantern {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f383.svg"); }
 
-.e1a-1f41a {
+.e1a-shell {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f41a.svg"); }
 
-.e1a-1f578 {
+.e1a-spider_web {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f578.svg"); }
 
-.e1a-1f30e {
+.e1a-earth_americas {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f30e.svg"); }
 
-.e1a-1f30d {
+.e1a-earth_africa {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f30d.svg"); }
 
-.e1a-1f30f {
+.e1a-earth_asia {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f30f.svg"); }
 
-.e1a-1f315 {
+.e1a-full_moon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f315.svg"); }
 
-.e1a-1f316 {
+.e1a-waning_gibbous_moon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f316.svg"); }
 
-.e1a-1f317 {
+.e1a-last_quarter_moon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f317.svg"); }
 
-.e1a-1f318 {
+.e1a-waning_crescent_moon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f318.svg"); }
 
-.e1a-1f311 {
+.e1a-new_moon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f311.svg"); }
 
-.e1a-1f312 {
+.e1a-waxing_crescent_moon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f312.svg"); }
 
-.e1a-1f313 {
+.e1a-first_quarter_moon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f313.svg"); }
 
-.e1a-1f314 {
+.e1a-waxing_gibbous_moon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f314.svg"); }
 
-.e1a-1f31a {
+.e1a-new_moon_with_face {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f31a.svg"); }
 
-.e1a-1f31d {
+.e1a-full_moon_with_face {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f31d.svg"); }
 
-.e1a-1f31b {
+.e1a-first_quarter_moon_with_face {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f31b.svg"); }
 
-.e1a-1f31c {
+.e1a-last_quarter_moon_with_face {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f31c.svg"); }
 
-.e1a-1f31e {
+.e1a-sun_with_face {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f31e.svg"); }
 
-.e1a-1f319 {
+.e1a-crescent_moon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f319.svg"); }
 
-.e1a-2b50 {
+.e1a-star {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2b50.svg"); }
 
-.e1a-1f31f {
+.e1a-star2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f31f.svg"); }
 
-.e1a-1f4ab {
+.e1a-dizzy {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4ab.svg"); }
 
-.e1a-2728 {
+.e1a-sparkles {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2728.svg"); }
 
-.e1a-2604 {
+.e1a-comet {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2604.svg"); }
 
-.e1a-2600 {
+.e1a-sunny {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2600.svg"); }
 
-.e1a-1f324 {
+.e1a-white_sun_small_cloud {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f324.svg"); }
 
-.e1a-26c5 {
+.e1a-partly_sunny {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26c5.svg"); }
 
-.e1a-1f325 {
+.e1a-white_sun_cloud {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f325.svg"); }
 
-.e1a-1f326 {
+.e1a-white_sun_rain_cloud {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f326.svg"); }
 
-.e1a-2601 {
+.e1a-cloud {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2601.svg"); }
 
-.e1a-1f327 {
+.e1a-cloud_rain {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f327.svg"); }
 
-.e1a-26c8 {
+.e1a-thunder_cloud_rain {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26c8.svg"); }
 
-.e1a-1f329 {
+.e1a-cloud_lightning {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f329.svg"); }
 
-.e1a-26a1 {
+.e1a-zap {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26a1.svg"); }
 
-.e1a-1f525 {
+.e1a-fire {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f525.svg"); }
 
-.e1a-1f4a5 {
+.e1a-boom {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4a5.svg"); }
 
-.e1a-2744 {
+.e1a-snowflake {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2744.svg"); }
 
-.e1a-1f328 {
+.e1a-cloud_snow {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f328.svg"); }
 
-.e1a-2603 {
+.e1a-snowman2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2603.svg"); }
 
-.e1a-26c4 {
+.e1a-snowman {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26c4.svg"); }
 
-.e1a-1f32c {
+.e1a-wind_blowing_face {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f32c.svg"); }
 
-.e1a-1f4a8 {
+.e1a-dash {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4a8.svg"); }
 
-.e1a-1f32a {
+.e1a-cloud_tornado {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f32a.svg"); }
 
-.e1a-1f32b {
+.e1a-fog {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f32b.svg"); }
 
-.e1a-2602 {
+.e1a-umbrella2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2602.svg"); }
 
-.e1a-2614 {
+.e1a-umbrella {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2614.svg"); }
 
-.e1a-1f4a7 {
+.e1a-droplet {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4a7.svg"); }
 
-.e1a-1f4a6 {
+.e1a-sweat_drops {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4a6.svg"); }
 
-.e1a-1f30a {
+.e1a-ocean {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f30a.svg"); }
 
-.e1a-1f34f {
+.e1a-green_apple {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f34f.svg"); }
 
-.e1a-1f34e {
+.e1a-apple {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f34e.svg"); }
 
-.e1a-1f350 {
+.e1a-pear {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f350.svg"); }
 
-.e1a-1f34a {
+.e1a-tangerine {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f34a.svg"); }
 
-.e1a-1f34b {
+.e1a-lemon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f34b.svg"); }
 
-.e1a-1f34c {
+.e1a-banana {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f34c.svg"); }
 
-.e1a-1f349 {
+.e1a-watermelon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f349.svg"); }
 
-.e1a-1f347 {
+.e1a-grapes {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f347.svg"); }
 
-.e1a-1f353 {
+.e1a-strawberry {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f353.svg"); }
 
-.e1a-1f348 {
+.e1a-melon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f348.svg"); }
 
-.e1a-1f352 {
+.e1a-cherries {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f352.svg"); }
 
-.e1a-1f351 {
+.e1a-peach {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f351.svg"); }
 
-.e1a-1f34d {
+.e1a-pineapple {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f34d.svg"); }
 
-.e1a-1f345 {
+.e1a-tomato {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f345.svg"); }
 
-.e1a-1f346 {
+.e1a-eggplant {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f346.svg"); }
 
-.e1a-1f336 {
+.e1a-hot_pepper {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f336.svg"); }
 
-.e1a-1f33d {
+.e1a-corn {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f33d.svg"); }
 
-.e1a-1f360 {
+.e1a-sweet_potato {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f360.svg"); }
 
-.e1a-1f36f {
+.e1a-honey_pot {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f36f.svg"); }
 
-.e1a-1f35e {
+.e1a-bread {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f35e.svg"); }
 
-.e1a-1f9c0 {
+.e1a-cheese {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f9c0.svg"); }
 
-.e1a-1f357 {
+.e1a-poultry_leg {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f357.svg"); }
 
-.e1a-1f356 {
+.e1a-meat_on_bone {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f356.svg"); }
 
-.e1a-1f364 {
+.e1a-fried_shrimp {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f364.svg"); }
 
-.e1a-1f373 {
+.e1a-egg {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f373.svg"); }
 
-.e1a-1f354 {
+.e1a-hamburger {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f354.svg"); }
 
-.e1a-1f35f {
+.e1a-fries {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f35f.svg"); }
 
-.e1a-1f32d {
+.e1a-hotdog {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f32d.svg"); }
 
-.e1a-1f355 {
+.e1a-pizza {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f355.svg"); }
 
-.e1a-1f35d {
+.e1a-spaghetti {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f35d.svg"); }
 
-.e1a-1f32e {
+.e1a-taco {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f32e.svg"); }
 
-.e1a-1f32f {
+.e1a-burrito {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f32f.svg"); }
 
-.e1a-1f35c {
+.e1a-ramen {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f35c.svg"); }
 
-.e1a-1f372 {
+.e1a-stew {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f372.svg"); }
 
-.e1a-1f365 {
+.e1a-fish_cake {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f365.svg"); }
 
-.e1a-1f363 {
+.e1a-sushi {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f363.svg"); }
 
-.e1a-1f371 {
+.e1a-bento {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f371.svg"); }
 
-.e1a-1f35b {
+.e1a-curry {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f35b.svg"); }
 
-.e1a-1f359 {
+.e1a-rice_ball {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f359.svg"); }
 
-.e1a-1f35a {
+.e1a-rice {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f35a.svg"); }
 
-.e1a-1f358 {
+.e1a-rice_cracker {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f358.svg"); }
 
-.e1a-1f362 {
+.e1a-oden {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f362.svg"); }
 
-.e1a-1f361 {
+.e1a-dango {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f361.svg"); }
 
-.e1a-1f367 {
+.e1a-shaved_ice {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f367.svg"); }
 
-.e1a-1f368 {
+.e1a-ice_cream {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f368.svg"); }
 
-.e1a-1f366 {
+.e1a-icecream {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f366.svg"); }
 
-.e1a-1f370 {
+.e1a-cake {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f370.svg"); }
 
-.e1a-1f382 {
+.e1a-birthday {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f382.svg"); }
 
-.e1a-1f36e {
+.e1a-custard {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f36e.svg"); }
 
-.e1a-1f36c {
+.e1a-candy {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f36c.svg"); }
 
-.e1a-1f36d {
+.e1a-lollipop {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f36d.svg"); }
 
-.e1a-1f36b {
+.e1a-chocolate_bar {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f36b.svg"); }
 
-.e1a-1f37f {
+.e1a-popcorn {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f37f.svg"); }
 
-.e1a-1f369 {
+.e1a-doughnut {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f369.svg"); }
 
-.e1a-1f36a {
+.e1a-cookie {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f36a.svg"); }
 
-.e1a-1f37a {
+.e1a-beer {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f37a.svg"); }
 
-.e1a-1f37b {
+.e1a-beers {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f37b.svg"); }
 
-.e1a-1f377 {
+.e1a-wine_glass {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f377.svg"); }
 
-.e1a-1f378 {
+.e1a-cocktail {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f378.svg"); }
 
-.e1a-1f379 {
+.e1a-tropical_drink {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f379.svg"); }
 
-.e1a-1f37e {
+.e1a-champagne {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f37e.svg"); }
 
-.e1a-1f376 {
+.e1a-sake {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f376.svg"); }
 
-.e1a-1f375 {
+.e1a-tea {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f375.svg"); }
 
-.e1a-2615 {
+.e1a-coffee {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2615.svg"); }
 
-.e1a-1f37c {
+.e1a-baby_bottle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f37c.svg"); }
 
-.e1a-1f374 {
+.e1a-fork_and_knife {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f374.svg"); }
 
-.e1a-1f37d {
+.e1a-fork_knife_plate {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f37d.svg"); }
 
-.e1a-26bd {
+.e1a-soccer {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26bd.svg"); }
 
-.e1a-1f3c0 {
+.e1a-basketball {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3c0.svg"); }
 
-.e1a-1f3c8 {
+.e1a-football {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3c8.svg"); }
 
-.e1a-26be {
+.e1a-baseball {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26be.svg"); }
 
-.e1a-1f3be {
+.e1a-tennis {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3be.svg"); }
 
-.e1a-1f3d0 {
+.e1a-volleyball {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3d0.svg"); }
 
-.e1a-1f3c9 {
+.e1a-rugby_football {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3c9.svg"); }
 
-.e1a-1f3b1 {
+.e1a-8ball {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3b1.svg"); }
 
-.e1a-26f3 {
+.e1a-golf {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26f3.svg"); }
 
-.e1a-1f3cc {
+.e1a-golfer {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3cc.svg"); }
 
-.e1a-1f3d3 {
+.e1a-ping_pong {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3d3.svg"); }
 
-.e1a-1f3f8 {
+.e1a-badminton {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3f8.svg"); }
 
-.e1a-1f3d2 {
+.e1a-hockey {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3d2.svg"); }
 
-.e1a-1f3d1 {
+.e1a-field_hockey {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3d1.svg"); }
 
-.e1a-1f3cf {
+.e1a-cricket {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3cf.svg"); }
 
-.e1a-1f3bf {
+.e1a-ski {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3bf.svg"); }
 
-.e1a-26f7 {
+.e1a-skier {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26f7.svg"); }
 
-.e1a-1f3c2 {
+.e1a-snowboarder {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3c2.svg"); }
 
-.e1a-26f8 {
+.e1a-ice_skate {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26f8.svg"); }
 
-.e1a-1f3f9 {
+.e1a-bow_and_arrow {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3f9.svg"); }
 
-.e1a-1f3a3 {
+.e1a-fishing_pole_and_fish {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3a3.svg"); }
 
-.e1a-1f6a3 {
+.e1a-rowboat {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6a3.svg"); }
 
-.e1a-1f3ca {
+.e1a-swimmer {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3ca.svg"); }
 
-.e1a-1f3c4 {
+.e1a-surfer {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3c4.svg"); }
 
-.e1a-1f6c0 {
+.e1a-bath {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6c0.svg"); }
 
-.e1a-26f9 {
+.e1a-basketball_player {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26f9.svg"); }
 
-.e1a-1f3cb {
+.e1a-lifter {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3cb.svg"); }
 
-.e1a-1f6b4 {
+.e1a-bicyclist {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6b4.svg"); }
 
-.e1a-1f6b5 {
+.e1a-mountain_bicyclist {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6b5.svg"); }
 
-.e1a-1f3c7 {
+.e1a-horse_racing {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3c7.svg"); }
 
-.e1a-1f574 {
+.e1a-levitate {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f574.svg"); }
 
-.e1a-1f3c6 {
+.e1a-trophy {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3c6.svg"); }
 
-.e1a-1f3bd {
+.e1a-running_shirt_with_sash {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3bd.svg"); }
 
-.e1a-1f3c5 {
+.e1a-medal {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3c5.svg"); }
 
-.e1a-1f396 {
+.e1a-military_medal {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f396.svg"); }
 
-.e1a-1f397 {
+.e1a-reminder_ribbon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f397.svg"); }
 
-.e1a-1f3f5 {
+.e1a-rosette {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3f5.svg"); }
 
-.e1a-1f3ab {
+.e1a-ticket {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3ab.svg"); }
 
-.e1a-1f39f {
+.e1a-tickets {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f39f.svg"); }
 
-.e1a-1f3ad {
+.e1a-performing_arts {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3ad.svg"); }
 
-.e1a-1f3a8 {
+.e1a-art {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3a8.svg"); }
 
-.e1a-1f3aa {
+.e1a-circus_tent {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3aa.svg"); }
 
-.e1a-1f3a4 {
+.e1a-microphone {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3a4.svg"); }
 
-.e1a-1f3a7 {
+.e1a-headphones {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3a7.svg"); }
 
-.e1a-1f3bc {
+.e1a-musical_score {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3bc.svg"); }
 
-.e1a-1f3b9 {
+.e1a-musical_keyboard {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3b9.svg"); }
 
-.e1a-1f3b7 {
+.e1a-saxophone {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3b7.svg"); }
 
-.e1a-1f3ba {
+.e1a-trumpet {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3ba.svg"); }
 
-.e1a-1f3b8 {
+.e1a-guitar {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3b8.svg"); }
 
-.e1a-1f3bb {
+.e1a-violin {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3bb.svg"); }
 
-.e1a-1f3ac {
+.e1a-clapper {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3ac.svg"); }
 
-.e1a-1f3ae {
+.e1a-video_game {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3ae.svg"); }
 
-.e1a-1f47e {
+.e1a-space_invader {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f47e.svg"); }
 
-.e1a-1f3af {
+.e1a-dart {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3af.svg"); }
 
-.e1a-1f3b2 {
+.e1a-game_die {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3b2.svg"); }
 
-.e1a-1f3b0 {
+.e1a-slot_machine {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3b0.svg"); }
 
-.e1a-1f3b3 {
+.e1a-bowling {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3b3.svg"); }
 
-.e1a-1f697 {
+.e1a-red_car {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f697.svg"); }
 
-.e1a-1f695 {
+.e1a-taxi {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f695.svg"); }
 
-.e1a-1f699 {
+.e1a-blue_car {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f699.svg"); }
 
-.e1a-1f68c {
+.e1a-bus {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f68c.svg"); }
 
-.e1a-1f68e {
+.e1a-trolleybus {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f68e.svg"); }
 
-.e1a-1f3ce {
+.e1a-race_car {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3ce.svg"); }
 
-.e1a-1f693 {
+.e1a-police_car {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f693.svg"); }
 
-.e1a-1f691 {
+.e1a-ambulance {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f691.svg"); }
 
-.e1a-1f692 {
+.e1a-fire_engine {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f692.svg"); }
 
-.e1a-1f690 {
+.e1a-minibus {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f690.svg"); }
 
-.e1a-1f69a {
+.e1a-truck {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f69a.svg"); }
 
-.e1a-1f69b {
+.e1a-articulated_lorry {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f69b.svg"); }
 
-.e1a-1f69c {
+.e1a-tractor {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f69c.svg"); }
 
-.e1a-1f3cd {
+.e1a-motorcycle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3cd.svg"); }
 
-.e1a-1f6b2 {
+.e1a-bike {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6b2.svg"); }
 
-.e1a-1f6a8 {
+.e1a-rotating_light {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6a8.svg"); }
 
-.e1a-1f694 {
+.e1a-oncoming_police_car {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f694.svg"); }
 
-.e1a-1f68d {
+.e1a-oncoming_bus {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f68d.svg"); }
 
-.e1a-1f698 {
+.e1a-oncoming_automobile {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f698.svg"); }
 
-.e1a-1f696 {
+.e1a-oncoming_taxi {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f696.svg"); }
 
-.e1a-1f6a1 {
+.e1a-aerial_tramway {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6a1.svg"); }
 
-.e1a-1f6a0 {
+.e1a-mountain_cableway {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6a0.svg"); }
 
-.e1a-1f69f {
+.e1a-suspension_railway {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f69f.svg"); }
 
-.e1a-1f683 {
+.e1a-railway_car {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f683.svg"); }
 
-.e1a-1f68b {
+.e1a-train {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f68b.svg"); }
 
-.e1a-1f69d {
+.e1a-monorail {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f69d.svg"); }
 
-.e1a-1f684 {
+.e1a-bullettrain_side {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f684.svg"); }
 
-.e1a-1f685 {
+.e1a-bullettrain_front {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f685.svg"); }
 
-.e1a-1f688 {
+.e1a-light_rail {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f688.svg"); }
 
-.e1a-1f69e {
+.e1a-mountain_railway {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f69e.svg"); }
 
-.e1a-1f682 {
+.e1a-steam_locomotive {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f682.svg"); }
 
-.e1a-1f686 {
+.e1a-train2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f686.svg"); }
 
-.e1a-1f687 {
+.e1a-metro {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f687.svg"); }
 
-.e1a-1f68a {
+.e1a-tram {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f68a.svg"); }
 
-.e1a-1f689 {
+.e1a-station {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f689.svg"); }
 
-.e1a-1f681 {
+.e1a-helicopter {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f681.svg"); }
 
-.e1a-1f6e9 {
+.e1a-airplane_small {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6e9.svg"); }
 
-.e1a-2708 {
+.e1a-airplane {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2708.svg"); }
 
-.e1a-1f6eb {
+.e1a-airplane_departure {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6eb.svg"); }
 
-.e1a-1f6ec {
+.e1a-airplane_arriving {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6ec.svg"); }
 
-.e1a-26f5 {
+.e1a-sailboat {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26f5.svg"); }
 
-.e1a-1f6e5 {
+.e1a-motorboat {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6e5.svg"); }
 
-.e1a-1f6a4 {
+.e1a-speedboat {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6a4.svg"); }
 
-.e1a-26f4 {
+.e1a-ferry {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26f4.svg"); }
 
-.e1a-1f6f3 {
+.e1a-cruise_ship {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6f3.svg"); }
 
-.e1a-1f680 {
+.e1a-rocket {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f680.svg"); }
 
-.e1a-1f6f0 {
+.e1a-satellite_orbital {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6f0.svg"); }
 
-.e1a-1f4ba {
+.e1a-seat {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4ba.svg"); }
 
-.e1a-2693 {
+.e1a-anchor {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2693.svg"); }
 
-.e1a-1f6a7 {
+.e1a-construction {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6a7.svg"); }
 
-.e1a-26fd {
+.e1a-fuelpump {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26fd.svg"); }
 
-.e1a-1f68f {
+.e1a-busstop {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f68f.svg"); }
 
-.e1a-1f6a6 {
+.e1a-vertical_traffic_light {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6a6.svg"); }
 
-.e1a-1f6a5 {
+.e1a-traffic_light {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6a5.svg"); }
 
-.e1a-1f3c1 {
+.e1a-checkered_flag {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3c1.svg"); }
 
-.e1a-1f6a2 {
+.e1a-ship {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6a2.svg"); }
 
-.e1a-1f3a1 {
+.e1a-ferris_wheel {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3a1.svg"); }
 
-.e1a-1f3a2 {
+.e1a-roller_coaster {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3a2.svg"); }
 
-.e1a-1f3a0 {
+.e1a-carousel_horse {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3a0.svg"); }
 
-.e1a-1f3d7 {
+.e1a-construction_site {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3d7.svg"); }
 
-.e1a-1f301 {
+.e1a-foggy {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f301.svg"); }
 
-.e1a-1f5fc {
+.e1a-tokyo_tower {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5fc.svg"); }
 
-.e1a-1f3ed {
+.e1a-factory {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3ed.svg"); }
 
-.e1a-26f2 {
+.e1a-fountain {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26f2.svg"); }
 
-.e1a-1f391 {
+.e1a-rice_scene {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f391.svg"); }
 
-.e1a-26f0 {
+.e1a-mountain {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26f0.svg"); }
 
-.e1a-1f3d4 {
+.e1a-mountain_snow {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3d4.svg"); }
 
-.e1a-1f5fb {
+.e1a-mount_fuji {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5fb.svg"); }
 
-.e1a-1f30b {
+.e1a-volcano {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f30b.svg"); }
 
-.e1a-1f5fe {
+.e1a-japan {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5fe.svg"); }
 
-.e1a-1f3d5 {
+.e1a-camping {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3d5.svg"); }
 
-.e1a-26fa {
+.e1a-tent {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26fa.svg"); }
 
-.e1a-1f3de {
+.e1a-park {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3de.svg"); }
 
-.e1a-1f6e3 {
+.e1a-motorway {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6e3.svg"); }
 
-.e1a-1f6e4 {
+.e1a-railway_track {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6e4.svg"); }
 
-.e1a-1f305 {
+.e1a-sunrise {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f305.svg"); }
 
-.e1a-1f304 {
+.e1a-sunrise_over_mountains {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f304.svg"); }
 
-.e1a-1f3dc {
+.e1a-desert {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3dc.svg"); }
 
-.e1a-1f3d6 {
+.e1a-beach {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3d6.svg"); }
 
-.e1a-1f3dd {
+.e1a-island {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3dd.svg"); }
 
-.e1a-1f307 {
+.e1a-city_sunset {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f307.svg"); }
 
-.e1a-1f306 {
+.e1a-city_dusk {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f306.svg"); }
 
-.e1a-1f3d9 {
+.e1a-cityscape {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3d9.svg"); }
 
-.e1a-1f303 {
+.e1a-night_with_stars {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f303.svg"); }
 
-.e1a-1f309 {
+.e1a-bridge_at_night {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f309.svg"); }
 
-.e1a-1f30c {
+.e1a-milky_way {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f30c.svg"); }
 
-.e1a-1f320 {
+.e1a-stars {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f320.svg"); }
 
-.e1a-1f387 {
+.e1a-sparkler {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f387.svg"); }
 
-.e1a-1f386 {
+.e1a-fireworks {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f386.svg"); }
 
-.e1a-1f308 {
+.e1a-rainbow {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f308.svg"); }
 
-.e1a-1f3d8 {
+.e1a-homes {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3d8.svg"); }
 
-.e1a-1f3f0 {
+.e1a-european_castle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3f0.svg"); }
 
-.e1a-1f3ef {
+.e1a-japanese_castle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3ef.svg"); }
 
-.e1a-1f3df {
+.e1a-stadium {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3df.svg"); }
 
-.e1a-1f5fd {
+.e1a-statue_of_liberty {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5fd.svg"); }
 
-.e1a-1f3e0 {
+.e1a-house {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3e0.svg"); }
 
-.e1a-1f3e1 {
+.e1a-house_with_garden {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3e1.svg"); }
 
-.e1a-1f3da {
+.e1a-house_abandoned {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3da.svg"); }
 
-.e1a-1f3e2 {
+.e1a-office {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3e2.svg"); }
 
-.e1a-1f3ec {
+.e1a-department_store {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3ec.svg"); }
 
-.e1a-1f3e3 {
+.e1a-post_office {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3e3.svg"); }
 
-.e1a-1f3e4 {
+.e1a-european_post_office {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3e4.svg"); }
 
-.e1a-1f3e5 {
+.e1a-hospital {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3e5.svg"); }
 
-.e1a-1f3e6 {
+.e1a-bank {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3e6.svg"); }
 
-.e1a-1f3e8 {
+.e1a-hotel {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3e8.svg"); }
 
-.e1a-1f3ea {
+.e1a-convenience_store {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3ea.svg"); }
 
-.e1a-1f3eb {
+.e1a-school {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3eb.svg"); }
 
-.e1a-1f3e9 {
+.e1a-love_hotel {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3e9.svg"); }
 
-.e1a-1f492 {
+.e1a-wedding {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f492.svg"); }
 
-.e1a-1f3db {
+.e1a-classical_building {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3db.svg"); }
 
-.e1a-26ea {
+.e1a-church {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26ea.svg"); }
 
-.e1a-1f54c {
+.e1a-mosque {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f54c.svg"); }
 
-.e1a-1f54d {
+.e1a-synagogue {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f54d.svg"); }
 
-.e1a-1f54b {
+.e1a-kaaba {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f54b.svg"); }
 
-.e1a-26e9 {
+.e1a-shinto_shrine {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26e9.svg"); }
 
-.e1a-231a {
+.e1a-watch {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/231a.svg"); }
 
-.e1a-1f4f1 {
+.e1a-iphone {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4f1.svg"); }
 
-.e1a-1f4f2 {
+.e1a-calling {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4f2.svg"); }
 
-.e1a-1f4bb {
+.e1a-computer {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4bb.svg"); }
 
-.e1a-2328 {
+.e1a-keyboard {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2328.svg"); }
 
-.e1a-1f5a5 {
+.e1a-desktop {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5a5.svg"); }
 
-.e1a-1f5a8 {
+.e1a-printer {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5a8.svg"); }
 
-.e1a-1f5b1 {
+.e1a-mouse_three_button {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5b1.svg"); }
 
-.e1a-1f5b2 {
+.e1a-trackball {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5b2.svg"); }
 
-.e1a-1f579 {
+.e1a-joystick {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f579.svg"); }
 
-.e1a-1f5dc {
+.e1a-compression {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5dc.svg"); }
 
-.e1a-1f4bd {
+.e1a-minidisc {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4bd.svg"); }
 
-.e1a-1f4be {
+.e1a-floppy_disk {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4be.svg"); }
 
-.e1a-1f4bf {
+.e1a-cd {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4bf.svg"); }
 
-.e1a-1f4c0 {
+.e1a-dvd {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4c0.svg"); }
 
-.e1a-1f4fc {
+.e1a-vhs {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4fc.svg"); }
 
-.e1a-1f4f7 {
+.e1a-camera {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4f7.svg"); }
 
-.e1a-1f4f8 {
+.e1a-camera_with_flash {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4f8.svg"); }
 
-.e1a-1f4f9 {
+.e1a-video_camera {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4f9.svg"); }
 
-.e1a-1f3a5 {
+.e1a-movie_camera {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3a5.svg"); }
 
-.e1a-1f4fd {
+.e1a-projector {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4fd.svg"); }
 
-.e1a-1f39e {
+.e1a-film_frames {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f39e.svg"); }
 
-.e1a-1f4de {
+.e1a-telephone_receiver {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4de.svg"); }
 
-.e1a-260e {
+.e1a-telephone {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/260e.svg"); }
 
-.e1a-1f4df {
+.e1a-pager {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4df.svg"); }
 
-.e1a-1f4e0 {
+.e1a-fax {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4e0.svg"); }
 
-.e1a-1f4fa {
+.e1a-tv {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4fa.svg"); }
 
-.e1a-1f4fb {
+.e1a-radio {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4fb.svg"); }
 
-.e1a-1f399 {
+.e1a-microphone2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f399.svg"); }
 
-.e1a-1f39a {
+.e1a-level_slider {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f39a.svg"); }
 
-.e1a-1f39b {
+.e1a-control_knobs {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f39b.svg"); }
 
-.e1a-23f1 {
+.e1a-stopwatch {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23f1.svg"); }
 
-.e1a-23f2 {
+.e1a-timer {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23f2.svg"); }
 
-.e1a-23f0 {
+.e1a-alarm_clock {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23f0.svg"); }
 
-.e1a-1f570 {
+.e1a-clock {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f570.svg"); }
 
-.e1a-23f3 {
+.e1a-hourglass_flowing_sand {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23f3.svg"); }
 
-.e1a-231b {
+.e1a-hourglass {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/231b.svg"); }
 
-.e1a-1f4e1 {
+.e1a-satellite {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4e1.svg"); }
 
-.e1a-1f50b {
+.e1a-battery {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f50b.svg"); }
 
-.e1a-1f50c {
+.e1a-electric_plug {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f50c.svg"); }
 
-.e1a-1f4a1 {
+.e1a-bulb {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4a1.svg"); }
 
-.e1a-1f526 {
+.e1a-flashlight {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f526.svg"); }
 
-.e1a-1f56f {
+.e1a-candle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f56f.svg"); }
 
-.e1a-1f5d1 {
+.e1a-wastebasket {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5d1.svg"); }
 
-.e1a-1f6e2 {
+.e1a-oil {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6e2.svg"); }
 
-.e1a-1f4b8 {
+.e1a-money_with_wings {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4b8.svg"); }
 
-.e1a-1f4b5 {
+.e1a-dollar {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4b5.svg"); }
 
-.e1a-1f4b4 {
+.e1a-yen {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4b4.svg"); }
 
-.e1a-1f4b6 {
+.e1a-euro {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4b6.svg"); }
 
-.e1a-1f4b7 {
+.e1a-pound {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4b7.svg"); }
 
-.e1a-1f4b0 {
+.e1a-moneybag {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4b0.svg"); }
 
-.e1a-1f4b3 {
+.e1a-credit_card {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4b3.svg"); }
 
-.e1a-1f48e {
+.e1a-gem {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f48e.svg"); }
 
-.e1a-2696 {
+.e1a-scales {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2696.svg"); }
 
-.e1a-1f527 {
+.e1a-wrench {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f527.svg"); }
 
-.e1a-1f528 {
+.e1a-hammer {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f528.svg"); }
 
-.e1a-2692 {
+.e1a-hammer_pick {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2692.svg"); }
 
-.e1a-1f6e0 {
+.e1a-tools {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6e0.svg"); }
 
-.e1a-26cf {
+.e1a-pick {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26cf.svg"); }
 
-.e1a-1f529 {
+.e1a-nut_and_bolt {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f529.svg"); }
 
-.e1a-2699 {
+.e1a-gear {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2699.svg"); }
 
-.e1a-26d3 {
+.e1a-chains {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26d3.svg"); }
 
-.e1a-1f52b {
+.e1a-gun {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f52b.svg"); }
 
-.e1a-1f4a3 {
+.e1a-bomb {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4a3.svg"); }
 
-.e1a-1f52a {
+.e1a-knife {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f52a.svg"); }
 
-.e1a-1f5e1 {
+.e1a-dagger {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5e1.svg"); }
 
-.e1a-2694 {
+.e1a-crossed_swords {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2694.svg"); }
 
-.e1a-1f6e1 {
+.e1a-shield {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6e1.svg"); }
 
-.e1a-1f6ac {
+.e1a-smoking {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6ac.svg"); }
 
-.e1a-2620 {
+.e1a-skull_crossbones {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2620.svg"); }
 
-.e1a-26b0 {
+.e1a-coffin {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26b0.svg"); }
 
-.e1a-26b1 {
+.e1a-urn {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26b1.svg"); }
 
-.e1a-1f3fa {
+.e1a-amphora {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3fa.svg"); }
 
-.e1a-1f52e {
+.e1a-crystal_ball {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f52e.svg"); }
 
-.e1a-1f4ff {
+.e1a-prayer_beads {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4ff.svg"); }
 
-.e1a-1f488 {
+.e1a-barber {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f488.svg"); }
 
-.e1a-2697 {
+.e1a-alembic {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2697.svg"); }
 
-.e1a-1f52d {
+.e1a-telescope {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f52d.svg"); }
 
-.e1a-1f52c {
+.e1a-microscope {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f52c.svg"); }
 
-.e1a-1f573 {
+.e1a-hole {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f573.svg"); }
 
-.e1a-1f48a {
+.e1a-pill {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f48a.svg"); }
 
-.e1a-1f489 {
+.e1a-syringe {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f489.svg"); }
 
-.e1a-1f321 {
+.e1a-thermometer {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f321.svg"); }
 
-.e1a-1f3f7 {
+.e1a-label {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3f7.svg"); }
 
-.e1a-1f516 {
+.e1a-bookmark {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f516.svg"); }
 
-.e1a-1f6bd {
+.e1a-toilet {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6bd.svg"); }
 
-.e1a-1f6bf {
+.e1a-shower {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6bf.svg"); }
 
-.e1a-1f6c1 {
+.e1a-bathtub {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6c1.svg"); }
 
-.e1a-1f511 {
+.e1a-key {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f511.svg"); }
 
-.e1a-1f5dd {
+.e1a-key2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5dd.svg"); }
 
-.e1a-1f6cb {
+.e1a-couch {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6cb.svg"); }
 
-.e1a-1f6cc {
+.e1a-sleeping_accommodation {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6cc.svg"); }
 
-.e1a-1f6cf {
+.e1a-bed {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6cf.svg"); }
 
-.e1a-1f6aa {
+.e1a-door {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6aa.svg"); }
 
-.e1a-1f6ce {
+.e1a-bellhop {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6ce.svg"); }
 
-.e1a-1f5bc {
+.e1a-frame_photo {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5bc.svg"); }
 
-.e1a-1f5fa {
+.e1a-map {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5fa.svg"); }
 
-.e1a-26f1 {
+.e1a-beach_umbrella {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26f1.svg"); }
 
-.e1a-1f5ff {
+.e1a-moyai {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5ff.svg"); }
 
-.e1a-1f6cd {
+.e1a-shopping_bags {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6cd.svg"); }
 
-.e1a-1f388 {
+.e1a-balloon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f388.svg"); }
 
-.e1a-1f38f {
+.e1a-flags {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f38f.svg"); }
 
-.e1a-1f380 {
+.e1a-ribbon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f380.svg"); }
 
-.e1a-1f381 {
+.e1a-gift {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f381.svg"); }
 
-.e1a-1f38a {
+.e1a-confetti_ball {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f38a.svg"); }
 
-.e1a-1f389 {
+.e1a-tada {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f389.svg"); }
 
-.e1a-1f38e {
+.e1a-dolls {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f38e.svg"); }
 
-.e1a-1f390 {
+.e1a-wind_chime {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f390.svg"); }
 
-.e1a-1f38c {
+.e1a-crossed_flags {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f38c.svg"); }
 
-.e1a-1f3ee {
+.e1a-izakaya_lantern {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3ee.svg"); }
 
-.e1a-2709 {
+.e1a-envelope {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2709.svg"); }
 
-.e1a-1f4e9 {
+.e1a-envelope_with_arrow {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4e9.svg"); }
 
-.e1a-1f4e8 {
+.e1a-incoming_envelope {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4e8.svg"); }
 
-.e1a-1f4e7 {
+.e1a-e-mail {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4e7.svg"); }
 
-.e1a-1f48c {
+.e1a-love_letter {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f48c.svg"); }
 
-.e1a-1f4ee {
+.e1a-postbox {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4ee.svg"); }
 
-.e1a-1f4ea {
+.e1a-mailbox_closed {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4ea.svg"); }
 
-.e1a-1f4eb {
+.e1a-mailbox {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4eb.svg"); }
 
-.e1a-1f4ec {
+.e1a-mailbox_with_mail {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4ec.svg"); }
 
-.e1a-1f4ed {
+.e1a-mailbox_with_no_mail {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4ed.svg"); }
 
-.e1a-1f4e6 {
+.e1a-package {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4e6.svg"); }
 
-.e1a-1f4ef {
+.e1a-postal_horn {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4ef.svg"); }
 
-.e1a-1f4e5 {
+.e1a-inbox_tray {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4e5.svg"); }
 
-.e1a-1f4e4 {
+.e1a-outbox_tray {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4e4.svg"); }
 
-.e1a-1f4dc {
+.e1a-scroll {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4dc.svg"); }
 
-.e1a-1f4c3 {
+.e1a-page_with_curl {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4c3.svg"); }
 
-.e1a-1f4d1 {
+.e1a-bookmark_tabs {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4d1.svg"); }
 
-.e1a-1f4ca {
+.e1a-bar_chart {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4ca.svg"); }
 
-.e1a-1f4c8 {
+.e1a-chart_with_upwards_trend {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4c8.svg"); }
 
-.e1a-1f4c9 {
+.e1a-chart_with_downwards_trend {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4c9.svg"); }
 
-.e1a-1f4c4 {
+.e1a-page_facing_up {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4c4.svg"); }
 
-.e1a-1f4c5 {
+.e1a-date {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4c5.svg"); }
 
-.e1a-1f4c6 {
+.e1a-calendar {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4c6.svg"); }
 
-.e1a-1f5d3 {
+.e1a-calendar_spiral {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5d3.svg"); }
 
-.e1a-1f4c7 {
+.e1a-card_index {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4c7.svg"); }
 
-.e1a-1f5c3 {
+.e1a-card_box {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5c3.svg"); }
 
-.e1a-1f5f3 {
+.e1a-ballot_box {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5f3.svg"); }
 
-.e1a-1f5c4 {
+.e1a-file_cabinet {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5c4.svg"); }
 
-.e1a-1f4cb {
+.e1a-clipboard {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4cb.svg"); }
 
-.e1a-1f5d2 {
+.e1a-notepad_spiral {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5d2.svg"); }
 
-.e1a-1f4c1 {
+.e1a-file_folder {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4c1.svg"); }
 
-.e1a-1f4c2 {
+.e1a-open_file_folder {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4c2.svg"); }
 
-.e1a-1f5c2 {
+.e1a-dividers {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5c2.svg"); }
 
-.e1a-1f5de {
+.e1a-newspaper2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5de.svg"); }
 
-.e1a-1f4f0 {
+.e1a-newspaper {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4f0.svg"); }
 
-.e1a-1f4d3 {
+.e1a-notebook {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4d3.svg"); }
 
-.e1a-1f4d5 {
+.e1a-closed_book {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4d5.svg"); }
 
-.e1a-1f4d7 {
+.e1a-green_book {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4d7.svg"); }
 
-.e1a-1f4d8 {
+.e1a-blue_book {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4d8.svg"); }
 
-.e1a-1f4d9 {
+.e1a-orange_book {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4d9.svg"); }
 
-.e1a-1f4d4 {
+.e1a-notebook_with_decorative_cover {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4d4.svg"); }
 
-.e1a-1f4d2 {
+.e1a-ledger {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4d2.svg"); }
 
-.e1a-1f4da {
+.e1a-books {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4da.svg"); }
 
-.e1a-1f4d6 {
+.e1a-book {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4d6.svg"); }
 
-.e1a-1f517 {
+.e1a-link {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f517.svg"); }
 
-.e1a-1f4ce {
+.e1a-paperclip {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4ce.svg"); }
 
-.e1a-1f587 {
+.e1a-paperclips {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f587.svg"); }
 
-.e1a-2702 {
+.e1a-scissors {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2702.svg"); }
 
-.e1a-1f4d0 {
+.e1a-triangular_ruler {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4d0.svg"); }
 
-.e1a-1f4cf {
+.e1a-straight_ruler {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4cf.svg"); }
 
-.e1a-1f4cc {
+.e1a-pushpin {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4cc.svg"); }
 
-.e1a-1f4cd {
+.e1a-round_pushpin {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4cd.svg"); }
 
-.e1a-1f6a9 {
+.e1a-triangular_flag_on_post {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6a9.svg"); }
 
-.e1a-1f3f3 {
+.e1a-flag_white {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3f3.svg"); }
 
-.e1a-1f3f4 {
+.e1a-flag_black {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3f4.svg"); }
 
-.e1a-1f510 {
+.e1a-closed_lock_with_key {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f510.svg"); }
 
-.e1a-1f512 {
+.e1a-lock {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f512.svg"); }
 
-.e1a-1f513 {
+.e1a-unlock {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f513.svg"); }
 
-.e1a-1f50f {
+.e1a-lock_with_ink_pen {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f50f.svg"); }
 
-.e1a-1f58a {
+.e1a-pen_ballpoint {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f58a.svg"); }
 
-.e1a-1f58b {
+.e1a-pen_fountain {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f58b.svg"); }
 
-.e1a-2712 {
+.e1a-black_nib {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2712.svg"); }
 
-.e1a-1f4dd {
+.e1a-pencil {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4dd.svg"); }
 
-.e1a-270f {
+.e1a-pencil2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/270f.svg"); }
 
-.e1a-1f58d {
+.e1a-crayon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f58d.svg"); }
 
-.e1a-1f58c {
+.e1a-paintbrush {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f58c.svg"); }
 
-.e1a-1f50d {
+.e1a-mag {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f50d.svg"); }
 
-.e1a-1f50e {
+.e1a-mag_right {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f50e.svg"); }
 
-.e1a-2764 {
+.e1a-heart {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2764.svg"); }
 
-.e1a-1f49b {
+.e1a-yellow_heart {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f49b.svg"); }
 
-.e1a-1f49a {
+.e1a-green_heart {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f49a.svg"); }
 
-.e1a-1f499 {
+.e1a-blue_heart {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f499.svg"); }
 
-.e1a-1f49c {
+.e1a-purple_heart {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f49c.svg"); }
 
-.e1a-1f494 {
+.e1a-broken_heart {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f494.svg"); }
 
-.e1a-2763 {
+.e1a-heart_exclamation {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2763.svg"); }
 
-.e1a-1f495 {
+.e1a-two_hearts {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f495.svg"); }
 
-.e1a-1f49e {
+.e1a-revolving_hearts {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f49e.svg"); }
 
-.e1a-1f493 {
+.e1a-heartbeat {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f493.svg"); }
 
-.e1a-1f497 {
+.e1a-heartpulse {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f497.svg"); }
 
-.e1a-1f496 {
+.e1a-sparkling_heart {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f496.svg"); }
 
-.e1a-1f498 {
+.e1a-cupid {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f498.svg"); }
 
-.e1a-1f49d {
+.e1a-gift_heart {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f49d.svg"); }
 
-.e1a-1f49f {
+.e1a-heart_decoration {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f49f.svg"); }
 
-.e1a-262e {
+.e1a-peace {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/262e.svg"); }
 
-.e1a-271d {
+.e1a-cross {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/271d.svg"); }
 
-.e1a-262a {
+.e1a-star_and_crescent {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/262a.svg"); }
 
-.e1a-1f549 {
+.e1a-om_symbol {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f549.svg"); }
 
-.e1a-2638 {
+.e1a-wheel_of_dharma {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2638.svg"); }
 
-.e1a-2721 {
+.e1a-star_of_david {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2721.svg"); }
 
-.e1a-1f52f {
+.e1a-six_pointed_star {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f52f.svg"); }
 
-.e1a-1f54e {
+.e1a-menorah {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f54e.svg"); }
 
-.e1a-262f {
+.e1a-yin_yang {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/262f.svg"); }
 
-.e1a-2626 {
+.e1a-orthodox_cross {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2626.svg"); }
 
-.e1a-1f6d0 {
+.e1a-place_of_worship {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6d0.svg"); }
 
-.e1a-26ce {
+.e1a-ophiuchus {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26ce.svg"); }
 
-.e1a-2648 {
+.e1a-aries {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2648.svg"); }
 
-.e1a-2649 {
+.e1a-taurus {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2649.svg"); }
 
-.e1a-264a {
+.e1a-gemini {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/264a.svg"); }
 
-.e1a-264b {
+.e1a-cancer {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/264b.svg"); }
 
-.e1a-264c {
+.e1a-leo {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/264c.svg"); }
 
-.e1a-264d {
+.e1a-virgo {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/264d.svg"); }
 
-.e1a-264e {
+.e1a-libra {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/264e.svg"); }
 
-.e1a-264f {
+.e1a-scorpius {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/264f.svg"); }
 
-.e1a-2650 {
+.e1a-sagittarius {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2650.svg"); }
 
-.e1a-2651 {
+.e1a-capricorn {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2651.svg"); }
 
-.e1a-2652 {
+.e1a-aquarius {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2652.svg"); }
 
-.e1a-2653 {
+.e1a-pisces {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2653.svg"); }
 
-.e1a-1f194 {
+.e1a-id {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f194.svg"); }
 
-.e1a-269b {
+.e1a-atom {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/269b.svg"); }
 
-.e1a-1f233 {
+.e1a-u7a7a {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f233.svg"); }
 
-.e1a-1f239 {
+.e1a-u5272 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f239.svg"); }
 
-.e1a-2622 {
+.e1a-radioactive {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2622.svg"); }
 
-.e1a-2623 {
+.e1a-biohazard {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2623.svg"); }
 
-.e1a-1f4f4 {
+.e1a-mobile_phone_off {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4f4.svg"); }
 
-.e1a-1f4f3 {
+.e1a-vibration_mode {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4f3.svg"); }
 
-.e1a-1f236 {
+.e1a-u6709 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f236.svg"); }
 
-.e1a-1f21a {
+.e1a-u7121 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f21a.svg"); }
 
-.e1a-1f238 {
+.e1a-u7533 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f238.svg"); }
 
-.e1a-1f23a {
+.e1a-u55b6 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f23a.svg"); }
 
-.e1a-1f237 {
+.e1a-u6708 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f237.svg"); }
 
-.e1a-2734 {
+.e1a-eight_pointed_black_star {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2734.svg"); }
 
-.e1a-1f19a {
+.e1a-vs {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f19a.svg"); }
 
-.e1a-1f251 {
+.e1a-accept {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f251.svg"); }
 
-.e1a-1f4ae {
+.e1a-white_flower {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4ae.svg"); }
 
-.e1a-1f250 {
+.e1a-ideograph_advantage {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f250.svg"); }
 
-.e1a-3299 {
+.e1a-secret {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/3299.svg"); }
 
-.e1a-3297 {
+.e1a-congratulations {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/3297.svg"); }
 
-.e1a-1f234 {
+.e1a-u5408 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f234.svg"); }
 
-.e1a-1f235 {
+.e1a-u6e80 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f235.svg"); }
 
-.e1a-1f232 {
+.e1a-u7981 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f232.svg"); }
 
-.e1a-1f170 {
+.e1a-a {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f170.svg"); }
 
-.e1a-1f171 {
+.e1a-b {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f171.svg"); }
 
-.e1a-1f18e {
+.e1a-ab {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f18e.svg"); }
 
-.e1a-1f191 {
+.e1a-cl {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f191.svg"); }
 
-.e1a-1f17e {
+.e1a-o2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f17e.svg"); }
 
-.e1a-1f198 {
+.e1a-sos {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f198.svg"); }
 
-.e1a-26d4 {
+.e1a-no_entry {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26d4.svg"); }
 
-.e1a-1f4db {
+.e1a-name_badge {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4db.svg"); }
 
-.e1a-1f6ab {
+.e1a-no_entry_sign {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6ab.svg"); }
 
-.e1a-274c {
+.e1a-x {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/274c.svg"); }
 
-.e1a-2b55 {
+.e1a-o {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2b55.svg"); }
 
-.e1a-1f4a2 {
+.e1a-anger {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4a2.svg"); }
 
-.e1a-2668 {
+.e1a-hotsprings {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2668.svg"); }
 
-.e1a-1f6b7 {
+.e1a-no_pedestrians {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6b7.svg"); }
 
-.e1a-1f6af {
+.e1a-do_not_litter {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6af.svg"); }
 
-.e1a-1f6b3 {
+.e1a-no_bicycles {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6b3.svg"); }
 
-.e1a-1f6b1 {
+.e1a-non-potable_water {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6b1.svg"); }
 
-.e1a-1f51e {
+.e1a-underage {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f51e.svg"); }
 
-.e1a-1f4f5 {
+.e1a-no_mobile_phones {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4f5.svg"); }
 
-.e1a-2757 {
+.e1a-exclamation {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2757.svg"); }
 
-.e1a-2755 {
+.e1a-grey_exclamation {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2755.svg"); }
 
-.e1a-2753 {
+.e1a-question {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2753.svg"); }
 
-.e1a-2754 {
+.e1a-grey_question {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2754.svg"); }
 
-.e1a-203c {
+.e1a-bangbang {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/203c.svg"); }
 
-.e1a-2049 {
+.e1a-interrobang {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2049.svg"); }
 
-.e1a-1f505 {
+.e1a-low_brightness {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f505.svg"); }
 
-.e1a-1f506 {
+.e1a-high_brightness {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f506.svg"); }
 
-.e1a-1f531 {
+.e1a-trident {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f531.svg"); }
 
-.e1a-269c {
+.e1a-fleur-de-lis {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/269c.svg"); }
 
-.e1a-303d {
+.e1a-part_alternation_mark {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/303d.svg"); }
 
-.e1a-26a0 {
+.e1a-warning {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26a0.svg"); }
 
-.e1a-1f6b8 {
+.e1a-children_crossing {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6b8.svg"); }
 
-.e1a-1f530 {
+.e1a-beginner {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f530.svg"); }
 
-.e1a-267b {
+.e1a-recycle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/267b.svg"); }
 
-.e1a-1f22f {
+.e1a-u6307 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f22f.svg"); }
 
-.e1a-1f4b9 {
+.e1a-chart {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4b9.svg"); }
 
-.e1a-2747 {
+.e1a-sparkle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2747.svg"); }
 
-.e1a-2733 {
+.e1a-eight_spoked_asterisk {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2733.svg"); }
 
-.e1a-274e {
+.e1a-negative_squared_cross_mark {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/274e.svg"); }
 
-.e1a-2705 {
+.e1a-white_check_mark {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2705.svg"); }
 
-.e1a-1f4a0 {
+.e1a-diamond_shape_with_a_dot_inside {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4a0.svg"); }
 
-.e1a-1f300 {
+.e1a-cyclone {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f300.svg"); }
 
-.e1a-27bf {
+.e1a-loop {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/27bf.svg"); }
 
-.e1a-1f310 {
+.e1a-globe_with_meridians {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f310.svg"); }
 
-.e1a-24c2 {
+.e1a-m {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/24c2.svg"); }
 
-.e1a-1f3e7 {
+.e1a-atm {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3e7.svg"); }
 
-.e1a-1f202 {
+.e1a-sa {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f202.svg"); }
 
-.e1a-1f6c2 {
+.e1a-passport_control {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6c2.svg"); }
 
-.e1a-1f6c3 {
+.e1a-customs {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6c3.svg"); }
 
-.e1a-1f6c4 {
+.e1a-baggage_claim {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6c4.svg"); }
 
-.e1a-1f6c5 {
+.e1a-left_luggage {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6c5.svg"); }
 
-.e1a-267f {
+.e1a-wheelchair {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/267f.svg"); }
 
-.e1a-1f6ad {
+.e1a-no_smoking {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6ad.svg"); }
 
-.e1a-1f6be {
+.e1a-wc {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6be.svg"); }
 
-.e1a-1f17f {
+.e1a-parking {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f17f.svg"); }
 
-.e1a-1f6b0 {
+.e1a-potable_water {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6b0.svg"); }
 
-.e1a-1f6b9 {
+.e1a-mens {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6b9.svg"); }
 
-.e1a-1f6ba {
+.e1a-womens {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6ba.svg"); }
 
-.e1a-1f6bc {
+.e1a-baby_symbol {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6bc.svg"); }
 
-.e1a-1f6bb {
+.e1a-restroom {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6bb.svg"); }
 
-.e1a-1f6ae {
+.e1a-put_litter_in_its_place {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f6ae.svg"); }
 
-.e1a-1f3a6 {
+.e1a-cinema {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3a6.svg"); }
 
-.e1a-1f4f6 {
+.e1a-signal_strength {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4f6.svg"); }
 
-.e1a-1f201 {
+.e1a-koko {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f201.svg"); }
 
-.e1a-1f196 {
+.e1a-ng {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f196.svg"); }
 
-.e1a-1f197 {
+.e1a-ok {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f197.svg"); }
 
-.e1a-1f199 {
+.e1a-up {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f199.svg"); }
 
-.e1a-1f192 {
+.e1a-cool {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f192.svg"); }
 
-.e1a-1f195 {
+.e1a-new {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f195.svg"); }
 
-.e1a-1f193 {
+.e1a-free {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f193.svg"); }
 
-/*
 .e1a-zero {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/0030-20e3.svg"); }
 
@@ -2736,105 +2779,104 @@
 
 .e1a-nine {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/0039-20e3.svg"); }
-*/
 
-.e1a-1f51f {
+.e1a-ten {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f51f.svg"); }
 
-.e1a-25b6 {
+.e1a-arrow_forward {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/25b6.svg"); }
 
-.e1a-23f8 {
+.e1a-pause_button {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23f8.svg"); }
 
-.e1a-23ef {
+.e1a-play_pause {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23ef.svg"); }
 
-.e1a-23f9 {
+.e1a-stop_button {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23f9.svg"); }
 
-.e1a-23fa {
+.e1a-record_button {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23fa.svg"); }
 
-.e1a-23ed {
+.e1a-track_next {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23ed.svg"); }
 
-.e1a-23ee {
+.e1a-track_previous {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23ee.svg"); }
 
-.e1a-23e9 {
+.e1a-fast_forward {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23e9.svg"); }
 
-.e1a-23ea {
+.e1a-rewind {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23ea.svg"); }
 
-.e1a-1f500 {
+.e1a-twisted_rightwards_arrows {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f500.svg"); }
 
-.e1a-1f501 {
+.e1a-repeat {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f501.svg"); }
 
-.e1a-1f502 {
+.e1a-repeat_one {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f502.svg"); }
 
-.e1a-25c0 {
+.e1a-arrow_backward {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/25c0.svg"); }
 
-.e1a-1f53c {
+.e1a-arrow_up_small {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f53c.svg"); }
 
-.e1a-1f53d {
+.e1a-arrow_down_small {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f53d.svg"); }
 
-.e1a-23eb {
+.e1a-arrow_double_up {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23eb.svg"); }
 
-.e1a-23ec {
+.e1a-arrow_double_down {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/23ec.svg"); }
 
-.e1a-27a1 {
+.e1a-arrow_right {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/27a1.svg"); }
 
-.e1a-2b05 {
+.e1a-arrow_left {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2b05.svg"); }
 
-.e1a-2b06 {
+.e1a-arrow_up {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2b06.svg"); }
 
-.e1a-2b07 {
+.e1a-arrow_down {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2b07.svg"); }
 
-.e1a-2197 {
+.e1a-arrow_upper_right {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2197.svg"); }
 
-.e1a-2198 {
+.e1a-arrow_lower_right {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2198.svg"); }
 
-.e1a-2199 {
+.e1a-arrow_lower_left {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2199.svg"); }
 
-.e1a-2196 {
+.e1a-arrow_upper_left {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2196.svg"); }
 
-.e1a-2195 {
+.e1a-arrow_up_down {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2195.svg"); }
 
-.e1a-2194 {
+.e1a-left_right_arrow {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2194.svg"); }
 
-.e1a-1f504 {
+.e1a-arrows_counterclockwise {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f504.svg"); }
 
-.e1a-21aa {
+.e1a-arrow_right_hook {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/21aa.svg"); }
 
-.e1a-21a9 {
+.e1a-leftwards_arrow_with_hook {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/21a9.svg"); }
 
-.e1a-2934 {
+.e1a-arrow_heading_up {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2934.svg"); }
 
-.e1a-2935 {
+.e1a-arrow_heading_down {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2935.svg"); }
 
 .e1a-hash {
@@ -2843,273 +2885,273 @@
 .e1a-asterisk {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/002a-20e3.svg"); }
 
-.e1a-2139 {
+.e1a-information_source {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2139.svg"); }
 
-.e1a-1f524 {
+.e1a-abc {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f524.svg"); }
 
-.e1a-1f521 {
+.e1a-abcd {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f521.svg"); }
 
-.e1a-1f520 {
+.e1a-capital_abcd {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f520.svg"); }
 
-.e1a-1f523 {
+.e1a-symbols {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f523.svg"); }
 
-.e1a-1f3b5 {
+.e1a-musical_note {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3b5.svg"); }
 
-.e1a-1f3b6 {
+.e1a-notes {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3b6.svg"); }
 
-.e1a-3030 {
+.e1a-wavy_dash {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/3030.svg"); }
 
-.e1a-27b0 {
+.e1a-curly_loop {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/27b0.svg"); }
 
-.e1a-2714 {
+.e1a-heavy_check_mark {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2714.svg"); }
 
-.e1a-1f503 {
+.e1a-arrows_clockwise {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f503.svg"); }
 
-.e1a-2795 {
+.e1a-heavy_plus_sign {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2795.svg"); }
 
-.e1a-2796 {
+.e1a-heavy_minus_sign {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2796.svg"); }
 
-.e1a-2797 {
+.e1a-heavy_division_sign {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2797.svg"); }
 
-.e1a-2716 {
+.e1a-heavy_multiplication_x {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2716.svg"); }
 
-.e1a-1f4b2 {
+.e1a-heavy_dollar_sign {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4b2.svg"); }
 
-.e1a-1f4b1 {
+.e1a-currency_exchange {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4b1.svg"); }
 
-.e1a-00a9 {
+.e1a-copyright {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/00a9.svg"); }
 
-.e1a-00ae {
+.e1a-registered {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/00ae.svg"); }
 
-.e1a-2122 {
+.e1a-tm {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2122.svg"); }
 
-.e1a-1f51a {
+.e1a-end {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f51a.svg"); }
 
-.e1a-1f519 {
+.e1a-back {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f519.svg"); }
 
-.e1a-1f51b {
+.e1a-on {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f51b.svg"); }
 
-.e1a-1f51d {
+.e1a-top {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f51d.svg"); }
 
-.e1a-1f51c {
+.e1a-soon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f51c.svg"); }
 
-.e1a-2611 {
+.e1a-ballot_box_with_check {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2611.svg"); }
 
-.e1a-1f518 {
+.e1a-radio_button {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f518.svg"); }
 
-.e1a-26aa {
+.e1a-white_circle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26aa.svg"); }
 
-.e1a-26ab {
+.e1a-black_circle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/26ab.svg"); }
 
-.e1a-1f534 {
+.e1a-red_circle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f534.svg"); }
 
-.e1a-1f535 {
+.e1a-large_blue_circle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f535.svg"); }
 
-.e1a-1f538 {
+.e1a-small_orange_diamond {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f538.svg"); }
 
-.e1a-1f539 {
+.e1a-small_blue_diamond {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f539.svg"); }
 
-.e1a-1f536 {
+.e1a-large_orange_diamond {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f536.svg"); }
 
-.e1a-1f537 {
+.e1a-large_blue_diamond {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f537.svg"); }
 
-.e1a-1f53a {
+.e1a-small_red_triangle {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f53a.svg"); }
 
-.e1a-25aa {
+.e1a-black_small_square {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/25aa.svg"); }
 
-.e1a-25ab {
+.e1a-white_small_square {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/25ab.svg"); }
 
-.e1a-2b1b {
+.e1a-black_large_square {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2b1b.svg"); }
 
-.e1a-2b1c {
+.e1a-white_large_square {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2b1c.svg"); }
 
-.e1a-1f53b {
+.e1a-small_red_triangle_down {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f53b.svg"); }
 
-.e1a-25fc {
+.e1a-black_medium_square {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/25fc.svg"); }
 
-.e1a-25fb {
+.e1a-white_medium_square {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/25fb.svg"); }
 
-.e1a-25fe {
+.e1a-black_medium_small_square {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/25fe.svg"); }
 
-.e1a-25fd {
+.e1a-white_medium_small_square {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/25fd.svg"); }
 
-.e1a-1f532 {
+.e1a-black_square_button {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f532.svg"); }
 
-.e1a-1f533 {
+.e1a-white_square_button {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f533.svg"); }
 
-.e1a-1f508 {
+.e1a-speaker {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f508.svg"); }
 
-.e1a-1f509 {
+.e1a-sound {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f509.svg"); }
 
-.e1a-1f50a {
+.e1a-loud_sound {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f50a.svg"); }
 
-.e1a-1f507 {
+.e1a-mute {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f507.svg"); }
 
-.e1a-1f4e3 {
+.e1a-mega {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4e3.svg"); }
 
-.e1a-1f4e2 {
+.e1a-loudspeaker {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4e2.svg"); }
 
-.e1a-1f514 {
+.e1a-bell {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f514.svg"); }
 
-.e1a-1f515 {
+.e1a-no_bell {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f515.svg"); }
 
-.e1a-1f0cf {
+.e1a-black_joker {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f0cf.svg"); }
 
-.e1a-1f004 {
+.e1a-mahjong {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f004.svg"); }
 
-.e1a-2660 {
+.e1a-spades {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2660.svg"); }
 
-.e1a-2663 {
+.e1a-clubs {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2663.svg"); }
 
-.e1a-2665 {
+.e1a-hearts {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2665.svg"); }
 
-.e1a-2666 {
+.e1a-diamonds {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2666.svg"); }
 
-.e1a-1f3b4 {
+.e1a-flower_playing_cards {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f3b4.svg"); }
 
-.e1a-1f4ad {
+.e1a-thought_balloon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4ad.svg"); }
 
-.e1a-1f5ef {
+.e1a-anger_right {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f5ef.svg"); }
 
-.e1a-1f4ac {
+.e1a-speech_balloon {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f4ac.svg"); }
 
-.e1a-1f550 {
+.e1a-clock1 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f550.svg"); }
 
-.e1a-1f551 {
+.e1a-clock2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f551.svg"); }
 
-.e1a-1f552 {
+.e1a-clock3 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f552.svg"); }
 
-.e1a-1f553 {
+.e1a-clock4 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f553.svg"); }
 
-.e1a-1f554 {
+.e1a-clock5 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f554.svg"); }
 
-.e1a-1f555 {
+.e1a-clock6 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f555.svg"); }
 
-.e1a-1f556 {
+.e1a-clock7 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f556.svg"); }
 
-.e1a-1f557 {
+.e1a-clock8 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f557.svg"); }
 
-.e1a-1f558 {
+.e1a-clock9 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f558.svg"); }
 
-.e1a-1f559 {
+.e1a-clock10 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f559.svg"); }
 
-.e1a-1f55a {
+.e1a-clock11 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f55a.svg"); }
 
-.e1a-1f55b {
+.e1a-clock12 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f55b.svg"); }
 
-.e1a-1f55c {
+.e1a-clock130 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f55c.svg"); }
 
-.e1a-1f55d {
+.e1a-clock230 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f55d.svg"); }
 
-.e1a-1f55e {
+.e1a-clock330 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f55e.svg"); }
 
-.e1a-1f55f {
+.e1a-clock430 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f55f.svg"); }
 
-.e1a-1f560 {
+.e1a-clock530 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f560.svg"); }
 
-.e1a-1f561 {
+.e1a-clock630 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f561.svg"); }
 
-.e1a-1f562 {
+.e1a-clock730 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f562.svg"); }
 
-.e1a-1f563 {
+.e1a-clock830 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f563.svg"); }
 
-.e1a-1f564 {
+.e1a-clock930 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f564.svg"); }
 
-.e1a-1f565 {
+.e1a-clock1030 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f565.svg"); }
 
-.e1a-1f566 {
+.e1a-clock1130 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f566.svg"); }
 
-.e1a-1f567 {
+.e1a-clock1230 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f567.svg"); }
-/*
+
 .e1a-eye_in_speech_bubble {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f441-1f5e8.svg"); }
 
@@ -3883,4 +3925,3 @@
 
 .e1a-flag_mf {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f1f2-1f1eb.svg"); }
-*/
