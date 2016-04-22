@@ -76,7 +76,9 @@ emojis:
   - name: "Hatching Chick"
     html: "&#128035"
     hex:  "&#x1f423"
-  # Missing Font-Facing Baby Chick
+  - name: "Font-Facing Baby Chick"
+    html: "&#128037"
+    hex:  "&#x1f425"
   - name: "Wolf"
     html: "&#128058"
     hex:  "&#x1f43a"
@@ -89,6 +91,9 @@ emojis:
   - name: "Unicorn Face"
     html: "&#129412"
     hex:  "&#x1f984"
+  - name: "Honeybee"
+    html: "&#128029"
+    hex:  "&#x1f41d"
   - name: "Bug"
     html: "&#128027"
     hex:  "&#x1f41b"
@@ -98,9 +103,6 @@ emojis:
   - name: "Lady Beetle"
     html: "&#128030"
     hex:  "&#x1f41e"
-  - name: "Honeybee"
-    html: "&#128029"
-    hex:  "&#x1f41d"
   - name: "Ant"
     html: "&#128028"
     hex:  "&#x1f41c"
@@ -218,82 +220,174 @@ emojis:
   - name: "Dragon Face"
     html: "&#128050"
     hex:  "&#x1f432"
-  # Cactus
-  # Christmas Tree
-  # Evergreen Tree
-  # Deciduous Tree
-  # Palm Tree
-  # Seedling
-  # Herb
-  # Shamrock
-  # Four Leaf Clover
-  # Pine Decoration
-  # Tanabata Tree
-  # Leaf Fluttering in Wind
-  # Fallen Leaf
-  # Maple Leaf
-  # Ear of Rice
-  # Hibiscus
-  # Sunflower
-  # Rose
-  # Tulip
-  # Blossom
-  # Cherry Blossom
-  # Bouquet
-  # Mushroom
-  # Chestnut
-  # Jack-O-Lantern
+  - name: "Cactus"
+    html: "&#127797"
+    hex:  "&#x1f335"
+  # Missing Christmas Tree
+  - name: "Evergreen Tree"
+    html: "&#127794"
+    hex:  "&#x1f332"
+  - name: "Deciduous Tree"
+    html: "&#127795"
+    hex:  "&#x1f333"
+  - name: "Palm Tree"
+    html: "&#127796"
+    hex:  "&#x1f334"
+  - name: "Seedling"
+    html: "&#127793"
+    hex:  "&#x1f331"
+  - name: "Herb"
+    html: "&#127807"
+    hex:  "&#x1f33f"
+  # Missing Shamrock
+  - name: "Four Leaf Clover"
+    html: "&#127808"
+    hex:  "&#x1f340"
+  # Missing Pine Decoration
+  # Missing Tanabata Tree
+  - name: "Leaf Fluttering in Wind"
+    html: "&#127811"
+    hex:  "&#x1f343"
+  - name: "Fallen Leaf"
+    html: "&#127810"
+    hex:  "&#x1f342"
+  - name: "Maple Leaf"
+    html: "&#127809"
+    hex:  "&#x1f341"
+  - name: "Ear of Rice"
+    html: "&#127806"
+    hex:  "&#x1f33e"
+  - name: "Hibiscus"
+    html: "&#127802"
+    hex:  "&#x1f33a"
+  - name: "Sunflower"
+    html: "&#127803"
+    hex:  "&#x1f33b"
+  - name: "Rose"
+    html: "&#127801"
+    hex:  "&#x1f339"
+  - name: "Tulip"
+    html: "&#127799"
+    hex:  "&#x1f337"
+  - name: "Blossom"
+    html: "&#127804"
+    hex:  "&#x1f33c"
+  - name: "Cherry Blossom"
+    html: "&#127800"
+    hex:  "&#x1f338"
+  # Missing Bouquet
+  - name: "Mushroom"
+    html: "&#127812"
+    hex:  "&#x1f344"
+  - name: "Chestnut"
+    html: "&#127792"
+    hex:  "&#x1f330"
+  # Missing Jack-O-Lantern
   - name: "Spiral Shell"
     html: "&#128026"
     hex:  "&#x1f41a"
   - name: "Spider Web"
     html: "&#128376"
     hex:  "&#x1f578"
-  # Earth Globe Americas
-  # Earth Globe Europe-Africa
-  # Earth Globe Asia-Australia
-  # Full Moon Symbol
-  # Waning Gibbous Moon Symbol
-  # Last Quarter Moon Symbol
-  # Waning Crescent Moon Symbol
-  # New Moon Symbol
-  # Waxing Crescent Moon Symbol
-  # First Quarter Moon Symbol
-  # Waxing Gibbous Moon Symbol
-  # New Moon with Face
-  # Full Moon with Face
-  # First Quarter Moon with Face
-  # Last Quarter Moon with Face
-  # Sun with Face
-  # Crescent Moon
-  # White Medium Star
-  # Glowing Star
-  # Dizzy Symbol
-  # Sparkles
-  # Comet
-  # Black Sun with Rays
-  # White Sun with Small Cloud
-  # Sun Behind Cloud
-  # White Sun Behind Cloud
-  # White Sun Behind Cloud with Rain
-  # Cloud
-  # Cloud with Rain
-  # Thunder Cloud and Rain
-  # Cloud with Lightning
-  # High Voltage Sign
-  # Fire
-  # Collision Symbol
-  # Snowflake
-  # Cloud with Snow
-  # Snowman
-  # Snowman without Snow
-  # Wind Blowing Face
-  # Dash Symbol
-  # Cloud with Tornado
-  # Fog
-  # Umbrella
-  # Umbrella with Rain Drops
-  # Droplet
-  # Splashing Sweat Symbol
-  # Water Wave
+  - name: "Earth Globe Americas"
+    html: "&#127758"
+    hex:  "&#x1f30e"
+  - name: "Earth Globe Europe-Africa"
+    html: "&#127757"
+    hex:  "&#x1f30d"
+  - name: "Earth Globe Asia-Australia"
+    html: "&#127759"
+    hex:  "&#x1f30f"
+  - name: "Full Moon Symbol"
+    html: "&#127765"
+    hex:  "&#x1f315"
+  - name: "Waning Gibbous Moon Symbol"
+    html: "&#127766"
+    hex:  "&#x1f316"
+  - name: "Last Quarter Moon Symbol"
+    html: "&#127767"
+    hex:  "&#x1f317"
+  - name: "Waning Crescent Moon Symbol"
+    html: "&#127768"
+    hex:  "&#x1f318"
+  - name: "New Moon Symbol"
+    html: "&#127761"
+    hex:  "&#x1f311"
+  - name: "Waxing Crescent Moon Symbol"
+    html: "&#127762"
+    hex:  "&#x1f312"
+  - name: "First Quarter Moon Symbol"
+    html: "&#127763"
+    hex:  "&#x1f313"
+  - name: "Waxing Gibbous Moon Symbol"
+    html: "&#127764"
+    hex:  "&#x1f314"
+  - name: "New Moon with Face"
+    html: "&#127770"
+    hex:  "&#x1f31a"
+  - name: "Full Moon with Face"
+    html: "&#127773"
+    hex:  "&#x1f31d"
+  - name: "First Quarter Moon with Face"
+    html: "&#127771"
+    hex:  "&#x1f31b"
+  - name: "Last Quarter Moon with Face"
+    html: "&#127772"
+    hex:  "&#x1f31c"
+  - name: "Sun with Face"
+    html: "&#127774"
+    hex:  "&#x1f31e"
+  - name: "Crescent Moon"
+    html: "&#127769"
+    hex:  "&#x1f319"
+  # Missing White Medium Star
+  - name: "Glowing Star"
+    html: "&#127775"
+    hex:  "&#x1f31f"
+  # Missing Dizzy Symbol
+  # Missing Sparkles
+  # Missing Comet
+  # Missing Black Sun with Rays
+  - name: "White Sun with Small Cloud"
+    html: "&#127780"
+    hex:  "&#x1f324"
+  # Missing Sun Behind Cloud
+  - name: "White Sun Behind Cloud"
+    html: "&#127781"
+    hex:  "&#x1f325"
+  - name: "White Sun Behind Cloud with Rain"
+    html: "&#127782"
+    hex:  "&#x1f326"
+  # Missing Cloud
+  - name: "Cloud with Rain"
+    html: "&#127783"
+    hex:  "&#x1f327"
+  # Missing Thunder Cloud and Rain
+  - name: "Cloud with Lightning"
+    html: "&#127785"
+    hex:  "&#x1f329"
+  # Missing High Voltage Sign
+  # Missing Fire
+  # Missing Collision Symbol
+  # Missing Snowflake
+  - name: "Cloud with Snow"
+    html: "&#127784"
+    hex:  "&#x1f328"
+  # Missing Snowman
+  # Missing Snowman without Snow
+  - name: "Wind Blowing Face"
+    html: "&#127788"
+    hex:  "&#x1f32c"
+  # Missing Dash Symbol
+  - name: "Cloud with Tornado"
+    html: "&#127786"
+    hex:  "&#x1f32a"
+  - name: "Fog"
+    html: "&#127787"
+    hex:  "&#x1f32b"
+  # Missing Umbrella
+  # Missing Umbrella with Rain Drops
+  # Missing Droplet
+  # Missing Splashing Sweat Symbol
+  # Missing Water Wave
 ---

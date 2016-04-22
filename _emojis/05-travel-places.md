@@ -158,7 +158,9 @@ emojis:
   # Missing Roller Coaster
   # Missing Carousel Horse
   # Missing Building Construction
-  # Missing Foggy
+  - name: "Foggy"
+    html: "&#127745"
+    hex:  "&#x1f301"
   - name: "Tokyo Tower"
     html: "&#128508"
     hex:  "&#x1f5fc"
@@ -170,7 +172,9 @@ emojis:
   - name: "Mount Fuji"
     html: "&#128507"
     hex:  "&#x1f5fb"
-  # Missing Volcano
+  - name: "Volcano"
+    html: "&#127755"
+    hex:  "&#x1f30b"
   - name: "Silhouette of Japan"
     html: "&#128510"
     hex:  "&#x1f5fe"
@@ -183,21 +187,39 @@ emojis:
   - name: "Railway Track"
     html: "&#128740"
     hex:  "&#x1f6e4"
-  # Missing Sunrise
-  # Missing Sunrise over Mountains
+  - name: "Sunrise"
+    html: "&#127749"
+    hex:  "&#x1f305"
+  - name: "Sunrise over Mountains"
+    html: "&#127748"
+    hex:  "&#x1f304"
   # Missing Desert
   # Missing Beach with Umbrella
   # Missing Desert Island
-  # Missing Sunset over Buildings
-  # Missing Cityscape at Dusk
+  - name: "Sunset over Buildings"
+    html: "&#127751"
+    hex:  "&#x1f307"
+  - name: "Cityscape at Dusk"
+    html: "&#127750"
+    hex:  "&#x1f306"
   # Missing Cityscape
-  # Missing Night with Stars
-  # Missing Bridge at Night
-  # Missing Milky Way
-  # Missing Shooting Star
+  - name: "Night with Stars"
+    html: "&#127747"
+    hex:  "&#x1f303"
+  - name: "Bridge at Night"
+    html: "&#127753"
+    hex:  "&#x1f309"
+  - name: "Milky Way"
+    html: "&#127756"
+    hex:  "&#x1f30c"
+  - name: "Shooting Star"
+    html: "&#127776"
+    hex:  "&#x1f320"
   # Missing Firework Sparkle
   # Missing Fireworks
-  # Missing Rainbow
+  - name: "Rainbow"
+    html: "&#127752"
+    hex:  "&#x1f308"
   # Missing House Buildings
   # Missing European Castle
   # Missing Japanese Castle

@@ -190,7 +190,9 @@ emojis:
   - name: "Teacup Without Handle"
     html: "&#127861"
     hex:  "&#x1f375"
-  # Missing Hot Beverage
+  - name: "Hot Beverage"
+    html: "&#9749"
+    hex:  "&#x2615"
   - name: "Baby Bottle"
     html: "&#127868"
     hex:  "&#x1f37c"

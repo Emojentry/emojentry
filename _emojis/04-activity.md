@@ -1,14 +1,18 @@
 ---
 name: "Activity"
 emojis:
-  # Missing Soccer Ball
+  - name: "Soccer Ball"
+    html: "&#9917"
+    hex:  "&#x26bd"
   - name: "Basketball and Hoop"
     html: "&#127936"
     hex:  "&#x1f3c0"
   - name: "American Football"
     html: "&#127944"
     hex:  "&#x1f3c8"
-  # Missing Baseball
+  - name: "Baseball"
+    html: "&#9918"
+    hex:  "&#x26be"
   - name: "Tennis Racquet and Ball"
     html: "&#127934"
     hex:  "&#x1f3be"
@@ -21,7 +25,9 @@ emojis:
   - name: "Billiards"
     html: "&#127921"
     hex:  "&#x1f3b1"
-  # Missing Flag in Hole
+  - name: "Flag in Hole"
+    html: "&#9971"
+    hex:  "&#x26f3"
   - name: "Golfer"
     html: "&#127948"
     hex:  "&#x1f3cc"
@@ -43,11 +49,15 @@ emojis:
   - name: "Ski and Ski Boot"
     html: "&#127935"
     hex:  "&#x1f3bf"
-  # Missing Skier
+  - name: "Skier"
+    html: "&#9975"
+    hex:  "&#x26f7"
   - name: "Snowboarder"
     html: "&#127938"
     hex:  "&#x1f3c2"
-  # Missing Ice Skate
+  - name: "Ice Skate"
+    html: "&#9976"
+    hex:  "&#x26f8"
   - name: "Bow and Arrow"
     html: "&#127993"
     hex:  "&#x1f3f9"
@@ -66,7 +76,9 @@ emojis:
   - name: "Bath"
     html: "&#128704"
     hex:  "&#x1f6c0"
-  # Missing Person with Ball
+  - name: "Person with Ball"
+    html: "&#9977"
+    hex:  "&#x26f9"
   - name: "Weight Lifter"
     html: "&#127947"
     hex:  "&#x1f3cb"

@@ -22,16 +22,29 @@ layout: default
     {% endfor %}
   </ul>
 
+  <!-- <ul class="list center">
+    {% for group in site.emojis %}
+      {% for emoji in group.emojis %}
+        <li class="list-item" data-group="{{ group.name | slugify }}">
+          <div class="emoji">{{ emoji.html }}</div>
+          <h4 class="name">{{ emoji.name }}</h4>
+          <section class="list-item-code">
+            <code class="html">{{ emoji.html }};</code>
+            <code class="hex">{{ emoji.hex }};</code>
+          </section>
+        </li>
+      {% endfor %}
+    {% endfor %}
+  </ul> -->
   <ul class="list center">
     {% for group in site.emojis %}
       {% for emoji in group.emojis %}
-        <li class="list-item">
+        <li class="list-item" data-group="{{ group.name | slugify }}">
           <div class="emoji e1a-{{ emoji.hex | remove: '&#x' }}"></div>
           <h4 class="name">{{ emoji.name }}</h4>
           <section class="list-item-code">
             <code class="html">{{ emoji.html | escape }};</code>
             <code class="hex">{{ emoji.hex | escape }};</code>
-            <code class="group hidden">{{ group.name | slugify }}</code>
           </section>
         </li>
       {% endfor %}

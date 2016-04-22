@@ -1,22 +1,22 @@
 // List.js
 var emojiList = new List("emoji-list", {
   plugins: [ ListFuzzySearch() ],
-  valueNames: [ "emoji", "name", "html", "hex", "group" ]
+  valueNames: [ "name", "html", "hex", { data: ["group"] } ]
 });
 
 // Filter Buttons
-var buttons = document.querySelectorAll("#js-filter li");
-for (i = 0; i < buttons.length; i++) {
-  buttons[i].onclick = function () {
-    var num = this.dataset.group;
+var btns = document.querySelectorAll("#js-filter li");
+for (i = 0; i < btns.length; i++) {
+  btns[i].onclick = function() {
+    var group = this.dataset.group;
     emojiList.filter(function(item) {
-      if (item.values().group == num) {
+      if (item.values().group == group) {
         return true;
       } else {
         return false;
       }
     });
-    if (num == "all") {
+    if (group == "all") {
       emojiList.filter();
     }
   }
