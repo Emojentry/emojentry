@@ -109,21 +109,27 @@ emojis:
   - name: "Small Airplane"
     html: "&#128745"
     hex:  "&#x1f6e9"
-  # Missing Airplane
+  - name: "Airplane"
+    html: "&#9992"
+    hex:  "&#x2708"
   - name: "Airplane Departure"
     html: "&#128747"
     hex:  "&#x1f6eb"
   - name: "Airplane Arriving"
     html: "&#128748"
     hex:  "&#x1f6ec"
-  # Missing Sailboat
+  - name: "Sailboat"
+    html: "&#9973"
+    hex:  "&#x26f5"
   - name: "Motor Boat"
     html: "&#128741"
     hex:  "&#x1f6e5"
   - name: "Speedboat"
     html: "&#128676"
     hex:  "&#x1f6a4"
-  # Missing Ferry
+  - name: "Ferry"
+    html: "&#9972"
+    hex:  "&#x26f4"
   - name: "Passenger Ship"
     html: "&#128755"
     hex:  "&#x1f6f3"
@@ -136,11 +142,15 @@ emojis:
   - name: "Seat"
     html: "&#128186"
     hex:  "&#x1f4ba"
-  # Missing Anchor
+  - name: "Anchor"
+    html: "&#9875"
+    hex:  "&#x2693"
   - name: "Construction Sign"
     html: "&#128679"
     hex:  "&#x1f6a7"
-  # Missing Fuel Pump
+  - name: "Fuel Pump"
+    html: "&#9981"
+    hex:  "&#x26fd"
   - name: "Bus Stop"
     html: "&#128655"
     hex:  "&#x1f68f"
@@ -165,9 +175,13 @@ emojis:
     html: "&#128508"
     hex:  "&#x1f5fc"
   # Missing Factory
-  # Missing Fountain
+  - name: "Fountain"
+    html: "&#9970"
+    hex:  "&#x26f2"
   # Missing Moon Viewing Ceremony
-  # Missing Mountain
+  - name: "Mountain"
+    html: "&#9968"
+    hex:  "&#x26f0"
   # Missing Snow Capped Mountain
   - name: "Mount Fuji"
     html: "&#128507"
@@ -179,7 +193,9 @@ emojis:
     html: "&#128510"
     hex:  "&#x1f5fe"
   # Missing Camping
-  # Missing Tent
+  - name: "Tent"
+    html: "&#9978"
+    hex:  "&#x26fa"
   # Missing National Park
   - name: "Motorway"
     html: "&#128739"
@@ -244,7 +260,9 @@ emojis:
     html: "&#128146"
     hex:  "&#x1f492"
   # Missing Classical Building
-  # Missing Church
+  - name: "Church"
+    html: "&#9962"
+    hex:  "&#x26ea"
   - name: "Mosque"
     html: "&#128332"
     hex:  "&#x1f54c"
@@ -254,5 +272,7 @@ emojis:
   - name: "Kaaba"
     html: "&#128331"
     hex:  "&#x1f54b"
-  # Missing Shinto Shrine
+  - name: "Shinto Shrine"
+    html: "&#9961"
+    hex:  "&#x26e9"
 ---

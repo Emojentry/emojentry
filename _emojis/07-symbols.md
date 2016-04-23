@@ -78,25 +78,57 @@ emojis:
   - name: "Place of Worship"
     html: "&#128720"
     hex:  "&#x1f6d0"
-  # Missing Ophiuchus
-  # Missing Aries
-  # Missing Taurus
-  # Missing Gemini
-  # Missing Cancer
-  # Missing Leo
-  # Missing Virgo
-  # Missing Libra
-  # Missing Scorpius
-  # Missing Sagittarius
-  # Missing Capricorn
-  # Missing Aquarius
-  # Missing Pisces
+  - name: "Ophiuchus"
+    html: "&#9934"
+    hex:  "&#x26ce"
+  - name: "Aries"
+    html: "&#9800"
+    hex:  "&#x2648"
+  - name: "Taurus"
+    html: "&#9801"
+    hex:  "&#x2649"
+  - name: "Gemini"
+    html: "&#9802"
+    hex:  "&#x264a"
+  - name: "Cancer"
+    html: "&#9803"
+    hex:  "&#x264b"
+  - name: "Leo"
+    html: "&#9804"
+    hex:  "&#x264c"
+  - name: "Virgo"
+    html: "&#9805"
+    hex:  "&#x264d"
+  - name: "Libra"
+    html: "&#9806"
+    hex:  "&#x264e"
+  - name: "Scorpius"
+    html: "&#9807"
+    hex:  "&#x264f"
+  - name: "Sagittarius"
+    html: "&#9808"
+    hex:  "&#x2650"
+  - name: "Capricorn"
+    html: "&#9809"
+    hex:  "&#x2651"
+  - name: "Aquarius"
+    html: "&#9810"
+    hex:  "&#x2652"
+  - name: "Pisces"
+    html: "&#9811"
+    hex:  "&#x2653"
   # Missing Squared ID
-  # Missing Atom Symbol
+  - name: "Atom Symbol"
+    html: "&#9883"
+    hex:  "&#x269b"
   # Missing Squared CJK Unified Ideograph-7a7a
   # Missing Squared CJK Unified Ideograph-5272
-  # Missing Radioactive Sign
-  # Missing Biohazard Sign
+  - name: "Radioactive Sign"
+    html: "&#9762"
+    hex:  "&#x2622"
+  - name: "Biohazard Sign"
+    html: "&#9763"
+    hex:  "&#x2623"
   - name: "Mobile Phone Off"
     html: "&#128244"
     hex:  "&#x1f4f4"
@@ -126,7 +158,9 @@ emojis:
   # Missing Squared CL
   # Missing Negative Squared Latin Capital Letter O
   # Missing Squared SOS
-  # Missing No Entry
+  - name: "No Entry"
+    html: "&#9940"
+    hex:  "&#x26d4"
   - name: "Name Badge"
     html: "&#128219"
     hex:  "&#x1f4db"
@@ -163,10 +197,18 @@ emojis:
   - name: "No Mobile Phones"
     html: "&#128245"
     hex:  "&#x1f4f5"
-  # Missing Heavy Exclamation Mark Symbol
-  # Missing White Exclamation Mark Ornament
-  # Missing Black Question Mark Ornament
-  # Missing White Question Mark Ornament
+  - name: "Heavy Exclamation Mark Symbol"
+    html: "&#10071"
+    hex:  "&#x2757"
+  - name: "White Exclamation Mark Ornament"
+    html: "&#10083"
+    hex:  "&#x2763"
+  - name: "Black Question Mark Ornament"
+    html: "&#10067"
+    hex:  "&#x2753"
+  - name: "White Question Mark Ornament"
+    html: "&#10068"
+    hex:  "&#x2754"
   # Missing Double Exclamation Mark
   # Missing Exclamation Question Mark
   - name: "Hundred Points Symbol"
@@ -181,9 +223,13 @@ emojis:
   - name: "Trident Emblem"
     html: "&#128305"
     hex:  "&#x1f531"
-  # Missing Fleur-De-Lis
+  - name: "Fleur-De-Lis"
+    html: "&#9884"
+    hex:  "&#x269c"
   # Missing Part Alternation Mark
-  # Missing Warning Sign
+  - name: "Warning Sign"
+    html: "&#9888"
+    hex:  "&#x26a0"
   - name: "Children Crossing"
     html: "&#128296"
     hex:  "&#x1f6b8"
@@ -197,8 +243,12 @@ emojis:
     hex:  "&#x1f44b9"
   # Missing Sparkle
   # Missing Eight Spoked Asterisk
-  # Missing Negative Squared Cross Mark
-  # Missing White Heavy Check Mark
+  - name: "Negative Squared Cross Mark"
+    html: "&#10062"
+    hex:  "&#x274e"
+  - name: "White Heavy Check Mark"
+    html: "&#9989"
+    hex:  "&#x2705"
   - name: "Diamond Shape with a Dot Inside"
     html: "&#128160"
     hex:  "&#x1f44a0"
@@ -335,14 +385,25 @@ emojis:
   # Missing Multiple Musical Notes
   # Missing Wavy Dash
   # Missing Curly Loop
-  # Missing Heavy Check Mark
+  # Missing
+  - name: "Heavy Check Mark"
+    html: "&#10004"
+    hex:  "&#x2714"
   - name: "Clockwise Downwards and Upwards Open Circle Arrows"
     html: "&#128259"
     hex:  "&#x1f503"
-  # Missing Heavy Plus Sign
-  # Missing Heavy Minus Sign
-  # Missing Heavy Division Sign
-  # Missing Heavy Multiplication X
+  - name: "Heavy Plus Sign"
+    html: "&#10133"
+    hex:  "&#x2795"
+  - name: "Heavy Minus Sign"
+    html: "&#10134"
+    hex:  "&#x2796"
+  - name: "Heavy Division Sign"
+    html: "&#10135"
+    hex:  "&#x2797"
+  - name: "Heavy Multiplication X"
+    html: "&#10006"
+    hex:  "&#x2716"
   - name: "Heavy Dollar Sign"
     html: "&#128178"
     hex:  "&#x1f4b2"
@@ -367,12 +428,18 @@ emojis:
   - name: "Soon with Rightwards Arrow Above"
     html: "&#128284"
     hex:  "&#x1f51c"
-  # Missing Ballot Box with Check
+  - name: "Ballot Box with Check"
+    html: "&#9745"
+    hex:  "&#x2611"
   - name: "Radio Button"
     html: "&#128280"
     hex:  "&#x1f518"
-  # Missing Medium White Circle
-  # Missing Medium Black Circle
+  - name: "Medium White Circle"
+    html: "&#9898"
+    hex:  "&#x26aa"
+  - name: "Medium Black Circle"
+    html: "&#9899"
+    hex:  "&#x26ab"
   - name: "Large Red Circle"
     html: "&#128308"
     hex:  "&#x1f534"
@@ -437,10 +504,18 @@ emojis:
     hex:  "&#x1f515"
   # Missing Playing Card Black Joker
   # Missing Mahjong Tile Red Dragon
-  # Missing Black Spade Suit
-  # Missing Black Club Suit
-  # Missing Black Heart Suit
-  # Missing Black Diamond Suit
+  - name: "Black Spade Suit"
+    html: "&#2824"
+    hex:  "&#x2660"
+  - name: "Black Club Suit"
+    html: "&#2827"
+    hex:  "&#x2663"
+  - name: "Black Heart Suit"
+    html: "&#2829"
+    hex:  "&#x2665"
+  - name: "Black Diamond Suit"
+    html: "&#2830"
+    hex:  "&#x2666"
   # Missing Flower Playing Cards
   - name: "Thought Balloon"
     html: "&#128173"

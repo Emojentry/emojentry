@@ -145,23 +145,33 @@ emojis:
   - name: "Gem Stone"
     html: "&#128142"
     hex:  "&#x1f48e"
-  # Missing Scales
+  - name: "Scales"
+    html: "&#9878"
+    hex:  "&#x2696"
   - name: "Wrench"
     html: "&#128295"
     hex:  "&#x1f527"
   - name: "Hammer"
     html: "&#128296"
     hex:  "&#x1f528"
-  # Missing Hammer and Pick
+  - name: "Hammer and Pick"
+    html: "&#9874"
+    hex:  "&#x2692"
   - name: "Hammer and Wrench"
     html: "&#128736"
     hex:  "&#x1f6e0"
-  # Missing Pick
+  - name: "Pick"
+    html: "&#9935"
+    hex:  "&#x26cf"
   - name: "Nut and Bolt"
     html: "&#128297"
     hex:  "&#x1f529"
-  # Missing Gear
-  # Missing Chains
+  - name: "Gear"
+    html: "&#9881"
+    hex:  "&#x2699"
+  - name: "Chains"
+    html: "&#9939"
+    hex:  "&#x26d3"
   - name: "Pistol"
     html: "&#128299"
     hex:  "&#x1f52b"
@@ -174,16 +184,24 @@ emojis:
   - name: "Dagger Knife"
     html: "&#128481"
     hex:  "&#x1f5e1"
-  # Missing Crossed Swords
+  - name: "Crossed Swords"
+    html: "&#9876"
+    hex:  "&#x2694"
   - name: "Shield"
     html: "&#128737"
     hex:  "&#x1f6e1"
   - name: "Smoking Symbol"
     html: "&#128684"
     hex:  "&#x1f6ac"
-  # Missing Skull and Crossbones
-  # Missing Coffin
-  # Missing Funeral Urn
+  - name: "Skull and Crossbones"
+    html: "&#9760"
+    hex:  "&#x2620"
+  - name: "Coffin"
+    html: "&#9904"
+    hex:  "&#x26b0"
+  - name: "Funeral Urn"
+    html: "&#9905"
+    hex:  "&#x26b1"
   # Missing Amphora
   - name: "Crystal Ball"
     html: "&#128302"
@@ -194,7 +212,9 @@ emojis:
   - name: "Barber Pole"
     html: "&#128136"
     hex:  "&#x1f488"
-  # Missing Alembic
+  - name: "Alembic"
+    html: "&#9879"
+    hex:  "&#x2697"
   - name: "Telescope"
     html: "&#128301"
     hex:  "&#x1f52d"
@@ -251,7 +271,9 @@ emojis:
   - name: "World Map"
     html: "&#128506"
     hex:  "&#x1f5fa"
-  # Missing Umbrella on Ground
+  - name: "Umbrella on Groundp"
+    html: "&#9969"
+    hex:  "&#x26f1"
   - name: "Moyai"
     html: "&#128511"
     hex:  "&#x1f5ff"
@@ -268,7 +290,9 @@ emojis:
   # Missing Wind Chime
   # Missing Crossed Flags
   # Missing Izakaya Lantern
-  # Missing Envelope
+  - name: "Envelope"
+    html: "&#9993"
+    hex:  "&#x2709"
   - name: "Envelope with Downwards Arrow Above"
     html: "&#128233"
     hex:  "&#x1f4e9"
