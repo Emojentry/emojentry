@@ -275,7 +275,9 @@ emojis:
   - name: "Cherry Blossom"
     html: "&#127800"
     hex:  "&#x1f338"
-  # Missing Bouquet
+  - name: "Bouquet"
+    html: "&#128144"
+    hex:  "&#x1f490"
   - name: "Mushroom"
     html: "&#127812"
     hex:  "&#x1f344"
@@ -344,7 +346,9 @@ emojis:
   - name: "Glowing Star"
     html: "&#127775"
     hex:  "&#x1f31f"
-  # Missing Dizzy Symbol
+  - name: "Dizzy Symbol"
+    html: "&#128171"
+    hex:  "&#x1f4ab"
   # Missing Sparkles
   # Missing Comet
   # Missing Black Sun with Rays
@@ -367,8 +371,12 @@ emojis:
     html: "&#127785"
     hex:  "&#x1f329"
   # Missing High Voltage Sign
-  # Missing Fire
-  # Missing Collision Symbol
+  - name: "Fire"
+    html: "&#128293"
+    hex:  "&#x1f525"
+  - name: "Collision Symbol"
+    html: "&#128165"
+    hex:  "&#x1f4a5"
   # Missing Snowflake
   - name: "Cloud with Snow"
     html: "&#127784"
@@ -378,7 +386,9 @@ emojis:
   - name: "Wind Blowing Face"
     html: "&#127788"
     hex:  "&#x1f32c"
-  # Missing Dash Symbol
+  - name: "Dash Symbol"
+    html: "&#128168"
+    hex:  "&#x1f4a8"
   - name: "Cloud with Tornado"
     html: "&#127786"
     hex:  "&#x1f32a"
@@ -387,7 +397,11 @@ emojis:
     hex:  "&#x1f32b"
   # Missing Umbrella
   # Missing Umbrella with Rain Drops
-  # Missing Droplet
-  # Missing Splashing Sweat Symbol
+  - name: "Droplet"
+    html: "&#128167"
+    hex:  "&#x1f4a7"
+  - name: "Splashing Sweat Symbol"
+    html: "&#128166"
+    hex:  "&#x1f4a6"
   # Missing Water Wave
 ---

@@ -240,7 +240,9 @@ emojis:
   # Missing Convenience Store
   # Missing School
   # Missing Love Hotel
-  # Missing Wedding
+  - name: "Wedding"
+    html: "&#128146"
+    hex:  "&#x1f492"
   # Missing Classical Building
   # Missing Church
   - name: "Mosque"

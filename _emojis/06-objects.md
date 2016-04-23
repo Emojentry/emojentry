@@ -2,7 +2,9 @@
 name: "Objects"
 
 emojis:
-  # Missing Watch
+  - name: "Watch"
+    html: "&#8986"
+    hex:  "&#x231a"
   - name: "Mobile Phone"
     html: "&#128241"
     hex:  "&#x1f4f1"
@@ -12,7 +14,9 @@ emojis:
   - name: "Personal Computer"
     html: "&#128187"
     hex:  "&#x1f4bb"
-  # Missing Keyboard
+  - name: "Keyboard"
+    html: "&#9000"
+    hex:  "&#x2328"
   - name: "Desktop Computer"
     html: "&#128421"
     hex:  "&#x1f5a5"
@@ -55,15 +59,21 @@ emojis:
   - name: "Video Camera"
     html: "&#128249"
     hex:  "&#x1f4f9"
-  # Missing Movie Camera
+  - name: "Movie Camera"
+    html: "&#127909"
+    hex:  "&#x1f3a5"
   - name: "Film Projector"
     html: "&#128253"
     hex:  "&#x1f4fd"
-  # Missing Film Frames
+  - name: "Film Frames"
+    html: "&#127902"
+    hex:  "&#x1f39e"
   - name: "Telephone Receiver"
     html: "&#128222"
     hex:  "&#x1f4de"
-  # Missing Black Telephone
+  - name: "Black Telephone"
+    html: "&#9742"
+    hex:  "&#x260e"
   - name: "Pager"
     html: "&#128223"
     hex:  "&#x1f4df"
@@ -397,7 +407,9 @@ emojis:
   - name: "Linked Paperclips"
     html: "&#128391"
     hex:  "&#x1f587"
-  # Missing Black Scissors
+  - name: "Black Scissors"
+    html: "&#9986"
+    hex:  "&#x2702"
   - name: "Triangular Ruler"
     html: "&#128208"
     hex:  "&#x1f4d0"
@@ -436,11 +448,15 @@ emojis:
   - name: "Lower Left Fountain Pen"
     html: "&#128395"
     hex:  "&#x1f58b"
-  # Missing Black Nib
+  - name: "Black Nib"
+    html: "&#10002"
+    hex:  "&#x2712"
   - name: "Memo"
     html: "&#128221"
     hex:  "&#x1f4dd"
-  # Missing Pencil
+  - name: "Pencil"
+    html: "&#128221"
+    hex:  "&#x9999"
   - name: "Lower Left Crayon"
     html: "&#128397"
     hex:  "&#x1f58d"
