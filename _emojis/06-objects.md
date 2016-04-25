@@ -86,17 +86,33 @@ emojis:
   - name: "Radio"
     html: "&#128251"
     hex:  "&#x1f4fb"
-  # Missing Studio Microphone
-  # Missing Level Slider
-  # Missing Control Knobs
-  # Missing Stopwatch
-  # Missing Timer Clock
-  # Missing Alarm Clock
+  - name: "Studio Microphone"
+    html: "&#127897"
+    hex:  "&#x1f399"
+  - name: "Level Slider"
+    html: "&#127898"
+    hex:  "&#x1f39a"
+  - name: "Control Knobs"
+    html: "&#127899"
+    hex:  "&#x1f39b"
+  - name: "Stopwatch"
+    html: "&#9201"
+    hex:  "&#x23f1"
+  - name: "Timer Clock"
+    html: "&#9202"
+    hex:  "&#x23f2"
+  - name: "Alarm Clock"
+    html: "&#9200"
+    hex:  "&#x23f0"
   - name: "Mantelpiece Clock"
     html: "&#128368"
     hex:  "&#x1f570"
-  # Missing Hourglass with Flowing Sand
-  # Missing Hourglass
+  - name: "Hourglass with Flowing Sand"
+    html: "&#9203"
+    hex:  "&#x23f3"
+  - name: "Hourglass"
+    html: "&#8987"
+    hex:  "&#x231b"
   - name: "Satellite Antenna"
     html: "&#128225"
     hex:  "&#x1f4e1"
@@ -202,7 +218,9 @@ emojis:
   - name: "Funeral Urn"
     html: "&#9905"
     hex:  "&#x26b1"
-  # Missing Amphora
+  - name: "Amphora"
+    html: "&#127994"
+    hex:  "&#x1f3fa"
   - name: "Crystal Ball"
     html: "&#128302"
     hex:  "&#x1f52e"
@@ -230,8 +248,12 @@ emojis:
   - name: "Syringe"
     html: "&#128137"
     hex:  "&#x1f489"
-  # Missing Thermometer
-  # Missing Label
+  - name: "Thermometer"
+    html: "&#127777"
+    hex:  "&#x1f321"
+  - name: "Label"
+    html: "&#127991"
+    hex:  "&#x1f3f7"
   - name: "Bookmark"
     html: "&#128278"
     hex:  "&#x1f516"
@@ -280,16 +302,36 @@ emojis:
   - name: "Shopping Bags"
     html: "&#128717"
     hex:  "&#x1f6cd"
-  # Missing Balloon
-  # Missing Carp Streamer
-  # Missing Ribbon
-  # Missing Wrapped Present
-  # Missing Confetti Ball
-  # Missing Party Popper
-  # Missing Japanese Dolls
-  # Missing Wind Chime
-  # Missing Crossed Flags
-  # Missing Izakaya Lantern
+  - name: "Balloon"
+    html: "&#127880"
+    hex:  "&#x1f388"
+  - name: "Carp Streamer"
+    html: "&#127887"
+    hex:  "&#x1f38f"
+  - name: "Ribbon"
+    html: "&#127872"
+    hex:  "&#x1f380"
+  - name: "Wrapped Present"
+    html: "&#127873"
+    hex:  "&#x1f381"
+  - name: "Confetti Ball"
+    html: "&#127882"
+    hex:  "&#x1f38a"
+  - name: "Party Popper"
+    html: "&#127881"
+    hex:  "&#x1f389"
+  - name: "Japanese Dolls"
+    html: "&#127886"
+    hex:  "&#x1f38e"
+  - name: "Wind Chime"
+    html: "&#127888"
+    hex:  "&#x1f390"
+  - name: "Crossed Flags"
+    html: "&#127884"
+    hex:  "&#x1f38c"
+  - name: "Izakaya Lantern"
+    html: "&#127982"
+    hex:  "&#x1f3ee"
   - name: "Envelope"
     html: "&#9993"
     hex:  "&#x2709"
@@ -449,11 +491,12 @@ emojis:
   - name: "Triangular Flag on Post"
     html: "&#128681"
     hex:  "&#x1f6a9"
-  - name: "Triangular Flag on Post"
-    html: "&#128681"
-    hex:  "&#x1f6a9"
-  # Missing Waving White Flag
-  # Missing Waving Black Flag
+  - name: "Waving White Flag"
+    html: "&#127987"
+    hex:  "&#x1f3f3"
+  - name: "Waving Black Flag"
+    html: "&#127988"
+    hex:  "&#x1f3f4"
   - name: "Closed Lock with Key"
     html: "&#128272"
     hex:  "&#x1f510"
@@ -479,8 +522,8 @@ emojis:
     html: "&#128221"
     hex:  "&#x1f4dd"
   - name: "Pencil"
-    html: "&#128221"
-    hex:  "&#x9999"
+    html: "&#9999"
+    hex:  "&#x270f"
   - name: "Lower Left Crayon"
     html: "&#128397"
     hex:  "&#x1f58d"

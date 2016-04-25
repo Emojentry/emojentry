@@ -22,25 +22,13 @@ layout: default
     {% endfor %}
   </ul>
 
-  <!-- <ul class="list center">
-    {% for group in site.emojis %}
-      {% for emoji in group.emojis %}
-        <li class="list-item" data-group="{{ group.name | slugify }}">
-          <div class="emoji">{{ emoji.html }}</div>
-          <h4 class="name">{{ emoji.name }}</h4>
-          <section class="list-item-code">
-            <code class="html">{{ emoji.html }};</code>
-            <code class="hex">{{ emoji.hex }};</code>
-          </section>
-        </li>
-      {% endfor %}
-    {% endfor %}
-  </ul> -->
   <ul class="list center">
     {% for group in site.emojis %}
       {% for emoji in group.emojis %}
         <li class="list-item" data-group="{{ group.name | slugify }}">
-          <div class="emoji e1a-{{ emoji.hex | remove: '&#x' }}"></div>
+          <svg class="emoji">
+            <use xlink:href="#emoji-{{ emoji.hex | remove: '&#x' | replace: ';', '-' }}" />
+          </svg>
           <h4 class="name">{{ emoji.name }}</h4>
           <section class="list-item-code">
             <code class="html">{{ emoji.html | escape }};</code>
@@ -53,4 +41,6 @@ layout: default
 
 </section>
 
+<script src="{{ 'js/list.js' | prepend: site.baseurl }}"></script>
 <script src="{{ 'js/list-options.js' | prepend: site.baseurl }}"></script>
+<script src="{{ 'js/producthunt.js' | prepend: site.baseurl }}"></script>

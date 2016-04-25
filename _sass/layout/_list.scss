@@ -44,10 +44,9 @@
     margin: rem(25) rem(12.5) 0;
     background-color: $snow;
     .emoji {
-      height: 100px;
-      background-repeat: no-repeat;
-      background-position: center center;
-      background-size: calc(100% - 30px) calc(100% - 30px);
+      width: 70px;
+      height: 70px;
+      margin: 15px auto;
     }
     h4 {
       display: flex;
