@@ -117,12 +117,18 @@ emojis:
   - name: "Pisces"
     html: "&#9811"
     hex:  "&#x2653"
-  # Missing Squared ID
+  - name: "Squared ID"
+    html: "&#127380"
+    hex:  "&#x1f194"
   - name: "Atom Symbol"
     html: "&#9883"
     hex:  "&#x269b"
-  # Missing Squared CJK Unified Ideograph-7a7a
-  # Missing Squared CJK Unified Ideograph-5272
+  - name: "Squared CJK Unified Ideograph-7a7a"
+    html: "&#127539"
+    hex:  "&#x1f233"
+  - name: "Squared CJK Unified Ideograph-5272"
+    html: "&#127545"
+    hex:  "&#x1f239"
   - name: "Radioactive Sign"
     html: "&#9762"
     hex:  "&#x2622"
@@ -135,29 +141,65 @@ emojis:
   - name: "Vibration Mode"
     html: "&#128243"
     hex:  "&#x1f4f3"
-  # Missing Squared CJK Unified Ideograph-6709
-  # Missing Squared CJK Unified Ideograph-7121
-  # Missing Squared CJK Unified Ideograph-7533
-  # Missing Squared CJK Unified Ideograph-55b6
-  # Missing Squared CJK Unified Ideograph-6708
-  # Missing Eight Pointed Black Star
-  # Missing Squared VS
-  # Missing Circled Ideograph Accent
+  - name: "Squared CJK Unified Ideograph-6709"
+    html: "&#127542"
+    hex:  "&#x1f236"
+  - name: "Squared CJK Unified Ideograph-7121"
+    html: "&#127514"
+    hex:  "&#x1f21a"
+  - name: "Squared CJK Unified Ideograph-7533"
+    html: "&#127544"
+    hex:  "&#x1f238"
+  - name: "Squared CJK Unified Ideograph-55b6"
+    html: "&#127546"
+    hex:  "&#x1f23a"
+  - name: "Squared CJK Unified Ideograph-6708"
+    html: "&#127543"
+    hex:  "&#x1f237"
+  - name: "Eight Pointed Black Star"
+    html: "&#10036"
+    hex:  "&#x2734"
+  - name: "Squared VS"
+    html: "&#127386"
+    hex:  "&#x1f19a"
+  - name: "Circled Ideograph Accent"
+    html: "&#127569"
+    hex:  "&#x1f251"
   - name: "White Flower"
     html: "&#128174"
     hex:  "&#x1f4ae"
-  # Missing Circled Ideograph Advantage
+  - name: "Circled Ideograph Advantage"
+    html: "&#127568"
+    hex:  "&#x1f250"
   # Missing Circled Ideograph Secret
   # Missing Circled Ideograph Congratulations
-  # Missing Squared CJK Unified Ideograph-5408
-  # Missing Squared CJK Unified Ideograph-6e80
-  # Missing Squared CJK Unified Ideograph-7981
-  # Missing Negative Squared Latin Capital Letter A
-  # Missing Negative Squared Latin Capital Letter B
-  # Missing Negative Squared AB
-  # Missing Squared CL
-  # Missing Negative Squared Latin Capital Letter O
-  # Missing Squared SOS
+  - name: "Squared CJK Unified Ideograph-5408"
+    html: "&#127540"
+    hex:  "&#x1f234"
+  - name: "Squared CJK Unified Ideograph-6e80"
+    html: "&#127541"
+    hex:  "&#x1f235"
+  - name: "Squared CJK Unified Ideograph-7981"
+    html: "&#127538"
+    hex:  "&#x1f232"
+  - name: "Negative Squared Latin Capital Letter A"
+    html: "&#127344"
+    hex:  "&#x1f170"
+  - name: "Negative Squared Latin Capital Letter B"
+    html: "&#127345"
+    hex:  "&#x1f171"
+  - name: "Negative Squared AB"
+    html: "&#127374"
+    hex:  "&#x1f18e"
+  - name: "Squared CL"
+    html: "&#127377"
+    hex:  "&#x1f191"
+  - name: "Negative Squared Latin Capital Letter O"
+    html: "&#127358"
+    hex:  "&#x1f17e"
+  - name: "Squared SOS"
+    html: "&#127384"
+    hex:  "&#x1f198"
   - name: "No Entry"
     html: "&#9940"
     hex:  "&#x26d4"
@@ -237,7 +279,9 @@ emojis:
     html: "&#128304"
     hex:  "&#x1f530"
   # Missing Black Universal Recycling Symbol
-  # Missing Squared CJK Unified Ideograph-6307
+  - name: "Squared CJK Unified Ideograph-6307"
+    html: "&#127535"
+    hex:  "&#x1f22f"
   - name: "Chart with Upwards Trend and Yen Sign"
     html: "&#128185"
     hex:  "&#x1f44b9"
@@ -257,7 +301,9 @@ emojis:
   # Missing Globe with Meridians
   # Missing Circled Latin Capital Letter M
   # Missing Automated Teller Machine
-  # Missing Squared Katakana Sa
+  - name: "Squared Katakana Sa"
+    html: "&#127490"
+    hex:  "&#x1f202"
   - name: "Passport Control"
     html: "&#128706"
     hex:  "&#x1f6c2"
@@ -277,7 +323,9 @@ emojis:
   - name: "Water Closet"
     html: "&#128702"
     hex:  "&#x1f6be"
-  # Missing Negative Squared Latin Capital Letter P
+  - name: "Negative Squared Latin Capital Letter P"
+    html: "&#127359"
+    hex:  "&#x1f17f"
   - name: "Potable Water Symbol"
     html: "&#128688"
     hex:  "&#x1f6b0"
@@ -296,17 +344,33 @@ emojis:
   - name: "Put Litter In Its Place Symbol"
     html: "&#128686"
     hex:  "&#x1f6ae"
-  # Missing Cinema
+  - name: "Cinema"
+    html: "&#127910"
+    hex:  "&#x1f3a6"
   - name: "Antenna with Bars"
     html: "&#128246"
     hex:  "&#x1f4f6"
-  # Missing Squared Katakana Koko
-  # Missing Squared NG
-  # Missing Squared OK
-  # Missing Squared Up with Exclamation Mark
-  # Missing Squared Cool
-  # Missing Squared New
-  # Missing Squared Free
+  - name: "Squared Katakana Koko"
+    html: "&#127489"
+    hex:  "&#x1f201"
+  - name: "Squared NG"
+    html: "&#127382"
+    hex:  "&#x1f196"
+  - name: "Squared OK"
+    html: "&#127383"
+    hex:  "&#x1f197"
+  - name: "Squared Up with Exclamation Mark"
+    html: "&#127385"
+    hex:  "&#x1f199"
+  - name: "Squared Cool"
+    html: "&#127378"
+    hex:  "&#x1f192"
+  - name: "Squared New"
+    html: "&#127381"
+    hex:  "&#x1f195"
+  - name: "Squared Free"
+    html: "&#127379"
+    hex:  "&#x1f193"
   # Missing Keycap Digit Zero
   # Missing Keycap Digit One
   # Missing Keycap Digit Two
@@ -502,8 +566,12 @@ emojis:
   - name: "Bell with Cancellation Stroke"
     html: "&#128277"
     hex:  "&#x1f515"
-  # Missing Playing Card Black Joker
-  # Missing Mahjong Tile Red Dragon
+  - name: "Playing Card Black Joker"
+    html: "&#127183"
+    hex:  "&#x1f0cf"
+  - name: "Mahjong Tile Red Dragon"
+    html: "&#126980"
+    hex:  "&#x1f004"
   - name: "Black Spade Suit"
     html: "&#2824"
     hex:  "&#x2660"
@@ -516,7 +584,9 @@ emojis:
   - name: "Black Diamond Suit"
     html: "&#2830"
     hex:  "&#x2666"
-  # Missing Flower Playing Cards
+  - name: "Flower Playing Cards"
+    html: "&#127924"
+    hex:  "&#x1f3b4"
   - name: "Thought Balloon"
     html: "&#128173"
     hex:  "&#x1f4ad"
