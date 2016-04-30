@@ -498,13 +498,23 @@ emojis:
   - name: "Anticlockwise Downwards and Upwards Open Circle Arrows"
     html: "&#128260"
     hex:  "&#x1f504"
-  # Missing Rightwards Arrow with Hook
-  # Missing Leftwards Arrow with Hook
-  # Missing Arrow Pointing Rightwards Then Curving Upwards
-  # Missing Arrow Pointing Rightwards Then Curving Downwards
+  - name: "Rightwards Arrow with Hook"
+    html: "&#8618"
+    hex:  "&#x21aa"
+  - name: "Leftwards Arrow with Hook"
+    html: "&#8617"
+    hex:  "&#x21a9"
+  - name: "Arrow Pointing Rightwards Then Curving Upwards"
+    html: "&#10548"
+    hex:  "&#x2934"
+  - name: "Arrow Pointing Rightwards Then Curving Downwards"
+    html: "&#10549"
+    hex:  "&#x2935"
   # Missing Keycap Digit Sign
   # Missing Keycap Asterisk
-  # Missing Information Source
+  - name: "Input Symbol for Latin Letters"
+    html: "&#8505"
+    hex:  "&#x2139"
   - name: "Input Symbol for Latin Letters"
     html: "&#128292"
     hex:  "&#x1f524"
@@ -517,11 +527,18 @@ emojis:
   - name: "Input Symbol for Symbols"
     html: "&#128291"
     hex:  "&#x1f523"
-  # Missing Musical Note
-  # Missing Multiple Musical Notes
-  # Missing Wavy Dash
-  # Missing Curly Loop
-  # Missing
+  - name: "Musical Note"
+    html: "&#127925"
+    hex:  "&#x1f3b5"
+  - name: "Multiple Musical Notes"
+    html: "&#127926"
+    hex:  "&#x1f3b6"
+  - name: "Wavy Dash"
+    html: "&#12336"
+    hex:  "&#x3030"
+  - name: "Curly Loop"
+    html: "&#10160"
+    hex:  "&#x27b0"
   - name: "Heavy Check Mark"
     html: "&#10004"
     hex:  "&#x2714"
@@ -546,9 +563,15 @@ emojis:
   - name: "Currency Exchange"
     html: "&#128177"
     hex:  "&#x1f4b1"
-  # Missing Copyright Sign
-  # Missing Registered Sign
-  # Missing Trade Mark Sign
+  - name: "Copyright Sign"
+    html: "&#169"
+    hex:  "&#xa9"
+  - name: "Registered Sign"
+    html: "&#170"
+    hex:  "&#xaa"
+  - name: "Trade Mark Sign"
+    html: "&#8482"
+    hex:  "&#x2122"
   - name: "End with Leftwards Arrow Above"
     html: "&#128282"
     hex:  "&#x1f51a"
