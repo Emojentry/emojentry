@@ -1,6 +1,5 @@
 ---
 name: "Smileys & People"
-
 emojis:
   - name: "Grinning Face"
     html: "&#128512"

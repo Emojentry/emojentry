@@ -1,6 +1,5 @@
 ---
 name: "Symbols"
-
 emojis:
   - name: "Heavy Black Heart"
     html: "&#10084"
@@ -171,8 +170,12 @@ emojis:
   - name: "Circled Ideograph Advantage"
     html: "&#127568"
     hex:  "&#x1f250"
-  # Missing Circled Ideograph Secret
-  # Missing Circled Ideograph Congratulations
+  - name: "Circled Ideograph Secret"
+    html: "&#12953"
+    hex:  "&#x3299"
+  - name: "Circled Ideograph Congratulations"
+    html: "&#12951"
+    hex:  "&#x3297"
   - name: "Squared CJK Unified Ideograph-5408"
     html: "&#127540"
     hex:  "&#x1f234"
@@ -251,8 +254,12 @@ emojis:
   - name: "White Question Mark Ornament"
     html: "&#10068"
     hex:  "&#x2754"
-  # Missing Double Exclamation Mark
-  # Missing Exclamation Question Mark
+  - name: "Double Exclamation Mark"
+    html: "&#8252"
+    hex:  "&#x203c"
+  - name: "Exclamation Question Mark"
+    html: "&#8265"
+    hex:  "&#x2049"
   - name: "Hundred Points Symbol"
     html: "&#128175"
     hex:  "&#x1f4af"
@@ -268,7 +275,9 @@ emojis:
   - name: "Fleur-De-Lis"
     html: "&#9884"
     hex:  "&#x269c"
-  # Missing Part Alternation Mark
+  - name: "Part Alternation Mark"
+    html: "&#12349"
+    hex:  "&#x303d"
   - name: "Warning Sign"
     html: "&#9888"
     hex:  "&#x26a0"
@@ -278,15 +287,21 @@ emojis:
   - name: "Japanese Symbol for Beginner"
     html: "&#128304"
     hex:  "&#x1f530"
-  # Missing Black Universal Recycling Symbol
+  - name: "Black Universal Recycling Symbol"
+    html: "&#9851"
+    hex:  "&#x267b"
   - name: "Squared CJK Unified Ideograph-6307"
     html: "&#127535"
     hex:  "&#x1f22f"
   - name: "Chart with Upwards Trend and Yen Sign"
     html: "&#128185"
     hex:  "&#x1f44b9"
-  # Missing Sparkle
-  # Missing Eight Spoked Asterisk
+  - name: "Sparkle"
+    html: "&#10055"
+    hex:  "&#x2747"
+  - name: "Sparkle"
+    html: "&#10035"
+    hex:  "&#x2733"
   - name: "Negative Squared Cross Mark"
     html: "&#10062"
     hex:  "&#x274e"
@@ -296,11 +311,21 @@ emojis:
   - name: "Diamond Shape with a Dot Inside"
     html: "&#128160"
     hex:  "&#x1f44a0"
-  # Missing Cyclone
-  # Missing Double Curly Loop
-  # Missing Globe with Meridians
-  # Missing Circled Latin Capital Letter M
-  # Missing Automated Teller Machine
+  - name: "Cyclone"
+    html: "&#127744"
+    hex:  "&#x1f300"
+  - name: "Double Curly Loop"
+    html: "&#10175"
+    hex:  "&#x27bf"
+  - name: "Globe with Meridians"
+    html: "&#127760"
+    hex:  "&#x1f310"
+  - name: "Circled Latin Capital Letter M"
+    html: "&#9410"
+    hex:  "&#x24c2"
+  - name: "Automated Teller Machine"
+    html: "&#127975"
+    hex:  "&#x1f3e7"
   - name: "Squared Katakana Sa"
     html: "&#127490"
     hex:  "&#x1f202"
@@ -316,7 +341,9 @@ emojis:
   - name: "Left Luggage"
     html: "&#128709"
     hex:  "&#x1f6c5"
-  # Missing Wheelchair
+  - name: "Wheelchair Symbol"
+    html: "&#9855"
+    hex:  "&#x267f"
   - name: "No Smoking Symbol"
     html: "&#128685"
     hex:  "&#x1f6ad"

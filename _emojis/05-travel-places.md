@@ -1,6 +1,5 @@
 ---
 name: "Travel & Places"
-
 emojis:
   - name: "Automobile"
     html: "&#128663"

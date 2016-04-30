@@ -1,6 +1,5 @@
 ---
 name: "Objects"
-
 emojis:
   - name: "Watch"
     html: "&#8986"
