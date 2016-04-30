@@ -414,14 +414,30 @@ emojis:
   - name: "Input Symbol for Numbers"
     html: "&#128290"
     hex:  "&#x1f522"
-  # Missing Black Right-Pointing Triangle
-  # Missing Double Vertical Bar
-  # Missing Black Right-Pointing Double Triangle with Double Vertical Bar
-  # Missing Black Circle for Record
-  # Missing Black Right-Pointing Double Triangle with Vertical Bar
-  # Missing Black Left-Pointing Double Triangle with Vertical Bar
-  # Missing Black Right-Pointing Double Triangle
-  # Missing Black Left-Pointing Double Triangle
+  - name: "Black Right-Pointing Triangle"
+    html: "&#128290"
+    hex:  "&#x25b6"
+  - name: "Double Vertical Bar"
+    html: "&#9208"
+    hex:  "&#x23f8"
+  - name: "Black Right-Pointing Double Triangle with Double Vertical Bar"
+    html: "&#9199"
+    hex:  "&#x23ef"
+  - name: "Black Circle for Record"
+    html: "&#9210"
+    hex:  "&#x23fa"
+  - name: "Black Right-Pointing Double Triangle with Vertical Bar"
+    html: "&#9197"
+    hex:  "&#x23ed"
+  - name: "Black Left-Pointing Double Triangle with Vertical Bar"
+    html: "&#9198"
+    hex:  "&#x23ee"
+  - name: "Black Right-Pointing Double Triangle"
+    html: "&#9193"
+    hex:  "&#x23e9"
+  - name: "Black Right-Pointing Double Triangle"
+    html: "&#9194"
+    hex:  "&#x23ea"
   - name: "Twisted Rightwards Arrows"
     html: "&#128256"
     hex:  "&#x1f500"
@@ -431,25 +447,54 @@ emojis:
   - name: "Clockwise Rightwards and Leftwards Open Circle Arrows with Circled One Overlay"
     html: "&#128258"
     hex:  "&#x1f502"
-  # Missing Black Left-Pointing Triangle
+  - name: "Black Left-Pointing Triangle"
+    html: "&#9664"
+    hex:  "&#x25c0"
   - name: "Up-Pointing Small Red Triangle"
     html: "&#128316"
     hex:  "&#x1f53c"
   - name: "Down-Pointing Small Red Triangle"
     html: "&#128317"
     hex:  "&#x1f53d"
-  # Missing Black Up-Pointing Double Triangle
-  # Missing Black Down-Pointing Double Triangle
-  # Missing Black Rightwards Arrow
-  # Missing Leftwards Black Arrow
-  # Missing Upwards Black Arrow
-  # Missing Downwards Black Arrow
-  # Missing North East Arrow
-  # Missing South East Arrow
-  # Missing South West Arrow
-  # Missing North West Arrow
-  # Missing Up Down Arrow
-  # Missing Left Right Arrow
+  - name: "Black Up-Pointing Double Triangle"
+    html: "&#9195"
+    hex:  "&#x23eb"
+  - name: "Black Down-Pointing Double Triangle"
+    html: "&#9196"
+    hex:  "&#x23ec"
+  - name: "Black Rightwards Arrow"
+    html: "&#10145"
+    hex:  "&#x27a1"
+  - name: "Leftwards Black Arrow"
+    html: "&#11013"
+    hex:  "&#x2b05"
+  - name: "Upwards Black Arrow"
+    html: "&#11014"
+    hex:  "&#x2b06"
+  - name: "Upwards Black Arrow"
+    html: "&#11014"
+    hex:  "&#x2b06"
+  - name: "Downwards Black Arrow"
+    html: "&#11015"
+    hex:  "&#x2b07"
+  - name: "North East Arrow"
+    html: "&#8599"
+    hex:  "&#x2197"
+  - name: "South East Arrow"
+    html: "&#8600"
+    hex:  "&#x2198"
+  - name: "South West Arrow"
+    html: "&#8601"
+    hex:  "&#x2199"
+  - name: "North West Arrow"
+    html: "&#8602"
+    hex:  "&#x219a"
+  - name: "Up Down Arrow"
+    html: "&#8597"
+    hex:  "&#x2195"
+  - name: "Up Down Arrow"
+    html: "&#8598"
+    hex:  "&#x2196"
   - name: "Anticlockwise Downwards and Upwards Open Circle Arrows"
     html: "&#128260"
     hex:  "&#x1f504"

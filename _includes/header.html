@@ -1,10 +1,6 @@
 <header>
   <div class="header-brand">
-    {% if page.path == "index.html" %}
-      <h1 class="header-title">{{ site.title }}</h1>
-    {% else %}
-      <a class="h1" href="{{ '/' | prepend: site.baseurl }}">{{ site.title }}</h1>
-    {% endif %}
+    <h1 class="header-title">{{ site.title }}</h1><sup>Beta</sup>
   </div>
   <nav class="header-nav">
     <a href="{{ site.links.changelog }}">Changelog</a>

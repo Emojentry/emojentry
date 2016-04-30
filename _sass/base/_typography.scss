@@ -1,5 +1,6 @@
 /* --- Headings --- */
-h1, a.h1 {
+h1 {
+  display: inline-block;
   color: $yellow;
   font-size: rem(40);
   font-weight: $heavy;
@@ -36,4 +37,11 @@ code {
   padding: em(15, 16) 0;
   font-family: $mono;
   font-size: rem(16);
+}
+
+/* --- Sup --- */
+sup {
+  position: relative;
+  top: rem(-10);
+  left: rem(5);
 }
