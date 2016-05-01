@@ -1,11 +1,18 @@
-# Site settings
-title: Emojist
+# Site Info
+title: "Emojist"
+info:
+  short: "Emojis and their entries"
+  long: "Emojist is the only site where you can find an open-sourced list with all the emojis that are currently available and their entries."
+
+# Author Info
+author:
+  name: "Nil Vila"
+  website: "http://desinil.ga"
+  github: "nil"
+  twitter: "desinil"
 
 baseurl: ""
 port: 1515
-
-github_username:  nil
-twitter_username: desinil
 
 links:
   changelog: "https://github.com/nil/emojist/releases"
@@ -21,4 +28,3 @@ sass:
 #Collections
 collections:
   - emojis
-  - faces

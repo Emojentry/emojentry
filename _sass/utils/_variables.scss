@@ -6,17 +6,32 @@ $silver: #E6E8E9;
 $snow:   #F2F3F4;
 $white:  #FBFCFD;
 
+$blue:   #57A1CE;
+$black:  #2F2F30;
+$gray-5: #696E74;
+$gray-4: #ACB5BC;
+$gray-3: #D5D7DA;
+$gray-2: #EEEFF0;
+$gray-1: #F7F8F9;
+$white:  #FEFEFE;
+
 /* --- Font Family --- */
-$sans:  "Catamaran", "Helvetica", "Arial", sans-serif;
-$title: "Roboto Condensed", "Helvetica", "Arial", sans-serif;
-$mono:  "Inconsolata", "Consolas", monospace;
+$sans:  "Roboto Condensed", sans-serif;
+$title: "Roboto", sans-serif;
+$mono:  "Inconsolata", monospace;
+// $sans:  "Catamaran", "Helvetica", "Arial", sans-serif;
+// $title: "Roboto Condensed", "Helvetica", "Arial", sans-serif;
+// $mono:  "Inconsolata", "Consolas", monospace;
 
 /* --- Font Weight --- */
 $book:   400;
 $medium: 500;
 $bold:   700;
-$u-bold: 800;
 $heavy:  900;
+
+/* --- Motion --- */
+$time: 300ms;
+$ease: cubic-bezier(0.18, 0.68, 0.31, 1.05);
 
 /* --- Base --- */
 $base-fs: 20;

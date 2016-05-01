@@ -1,17 +1,34 @@
+// Header
 header {
   display: flex;
   align-items: center;
-  padding: em(20) 0;
-  border-bottom: 2px solid $silver;
+  padding: em(25) 0;
+  border-bottom: 2px solid $gray-3;
 }
-.header {
-  &-brand {
-    flex: 1;
-    user-select: none;
+
+// Logo
+.header-logo {
+  display: flex;
+  flex: 1;
+  user-select: none;
+  svg {
+    height: rem(50);
+    padding-right: em(8);
+    fill: $blue;
   }
-  &-nav {
-    a:not(:last-child) {
-      margin-right: em(25);
+  &-link {
+    &:hover {
+      opacity: 0.5;
     }
+  }
+  sup {
+    margin-left: rem(5);
+  }
+}
+
+// Navigation
+.header-nav {
+  a:not(:last-child) {
+    margin-right: em(15);
   }
 }

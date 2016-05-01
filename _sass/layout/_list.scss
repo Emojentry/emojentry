@@ -1,35 +1,4 @@
-/* --- Search Bar --- */
-.search {
-  &-form {
-    display: flex;
-  }
-  &-label {
-    width: rem(60);
-    height: rem(60);
-    fill: $black;
-  }
-  &-input {
-    flex: 1;
-    outline: none;
-    border: none;
-    height: rem(60);
-    background: transparent;
-    font: inherit;
-  }
-}
-
-/* --- Filter Buttons --- */
-.filter-groups {
-  padding-top: em(25);
-  li {
-    display: inline-block;
-    padding: 0 em(10);
-    list-style: none;
-    cursor: pointer;
-  }
-}
-
-/* --- List --- */
+// list
 .list {
   display: flex;
   flex-wrap: wrap;
@@ -42,11 +11,11 @@
     flex: 1 0 rem(220);
     flex-direction: column;
     margin: rem(25) rem(12.5) 0;
-    background-color: $snow;
+    background-color: $gray-2;
     .emoji {
-      width: 70px;
-      height: 70px;
-      margin: 15px auto;
+      width: rem(65);
+      height: rem(65);
+      margin: rem(15) auto;
     }
     h4 {
       display: flex;
@@ -59,9 +28,33 @@
       code {
         flex: 1;
         &:not(:first-child) {
-          border-left: 1px solid $gray;
+          border-left: 1px solid $gray-4;
         }
       }
+      &.codes-top {
+        border-bottom: 1px solid $gray-4;
+      }
+    }
+  }
+}
+
+// Actions
+.item-actions {
+  display: flex;
+  cursor: pointer;
+  background: $gray-1;
+  border-bottom: 1px solid $gray-4;
+  a, .item-copy {
+    flex: 1;
+    height: rem(40);
+    padding: rem(10);
+    fill: $black;
+    transition: all $time $ease;
+    &:not(:last-child) {
+      border-right: 1px solid $gray-4;
+    }
+    &:hover {
+      fill: $blue;
     }
   }
 }

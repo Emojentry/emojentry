@@ -1,0 +1,42 @@
+<section class="search bg-gray-3">
+  <label class="search-label" for="search">
+    <svg class="icon search-icon">
+      <use xlink:href="#icon-search" />
+    </svg>
+  </label>
+  <input id="search" class="search search-form gray-5" placeholder="Look for any emoji..." />
+  <ul class="filter bg-gray-2" id="js-filter">
+    <li data-group="all">
+      <svg class="icon filter-icon">
+        <use xlink:href="#icon-all" />
+      </svg>
+    </li>
+    {% for group in site.emojis %}
+      <li data-group="{{ group.name | slugify }}" data-tooltip="{{ group.name }}">
+        <svg class="icon filter-icon">
+          <use xlink:href="#icon-{{ group.name | slugify }}" />
+        </svg>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+
+<!-- <div class="search-form">
+  <label class="search-label" for="search">
+    <svg class="icon icon-search">
+      <use xlink:href="#icon-search" />
+    </svg>
+  </label>
+  <input class="search search-input gray fuzzy-search" id="search" placeholder="Look for any emoji..." />
+  <div class="filter-groups" id="js-filter">
+    <li data-group="all" class="icon">All</li>
+    {% for group in site.emojis %}
+      <li data-group="{{ group.name | slugify }}" data-name="{{ group.name }}">
+        <svg class="icon icon-filter">
+          <use xlink:href="#icon-{{ group.name | slugify }}" />
+        </svg>
+      </li>
+    {% endfor %}
+  </div>
+</div> -->

@@ -1,16 +1,8 @@
 <section class="hero center">
   <h3 id="js-heading">
-    {% if page.title %}
-      {{ page.title }}
-    {% else %}
-      Hello, Emoji Lover!
-    {% endif %}
+    Welcome, Emoji Lover!
   </h3>
-  <p class="gray">
-    {% if page.hero-text %}
-      {{ page.hero-text }}
-    {% else %}
-      {{ site.title }} is a list which allows you to copy the HTML and Hexadecimal codes from all the emojis that are currently available. Created by <a href="http://desinil.ga" target="_blank">Nil Vila</a>.
-    {% endif %}
+  <p class="gray-5 title">
+    {{ site.info.long }} Created by <a href="{{ site.author.website }}" target="_blank">Nil Vila</a> on <a href="{{ site.links.github }}" target="_blank">Github</a>.
   </p>
 </section>
