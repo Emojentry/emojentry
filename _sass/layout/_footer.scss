@@ -1,3 +1,26 @@
-footer {
-  padding: rem(40);
+.footer {
+  font-size: em(17);
+  @media (min-width: $break-large) {
+    width: 60%;
+    margin: 0 auto;
+  }
+  &-grid {
+    display: flex;
+    @media (max-width: $break-medium) {
+      flex-direction: column;
+    }
+  }
+  &-column {
+    flex: 1;
+  }
+  a {
+    display: block;
+    margin: rem(3) rem(7);
+    @media (max-width: $break-medium) {
+      display: inline-block;
+    }
+  }
+  p {
+    padding: em(20) 0 em(40);
+  }
 }
