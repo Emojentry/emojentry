@@ -16,7 +16,9 @@ body {
   cursor: default;
 }
 html {
-  font-size: $base-fs * 1px;
+  font-size: $base-fs * 0.9px;
+  font-size: calc(0.77em + 1vmin);
+  font-size: calc(1.1em + 0.25vmin)
 }
 body {
   font-size: rem(18);

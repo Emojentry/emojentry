@@ -4,6 +4,13 @@ header {
   align-items: center;
   padding: em(25) 0;
   border-bottom: 2px solid $gray-3;
+  @media (max-width: $wrapper-width) {
+    padding-left: em(20);
+    padding-right: em(20);
+  }
+  @media (max-width: $break-medium) {
+    flex-direction: column;
+  }
 }
 
 // Logo
@@ -30,5 +37,8 @@ header {
 .header-nav {
   a:not(:last-child) {
     margin-right: em(15);
+  }
+  @media (max-width: $break-medium) {
+    margin-top: em(10);
   }
 }

@@ -1,8 +1,21 @@
 // Search Bar
 .search {
-  display: flex;
-  height: rem(60);
+  &-container {
+    display: flex;
+    @media (max-width: $break-large) {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
   &-form {
+    display: flex;
+    flex: 1;
+    height: rem(60);
+    @media (max-width: $break-large) {
+      width: 100%;
+    }
+  }
+  &-input {
     flex: 1;
     height: 100%;
     background: transparent;
@@ -21,15 +34,22 @@
 
 // Filters
 .filter {
-  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   list-style: none;
+  // @media (max-width: $break-large) {
+  //   height: rem(60);
+  // }
   li {
     width: rem(60);
-    height: 100%;
+    height: rem(60);
     float: left;
     cursor: pointer;
-    &:not(:last-child) {
-      border-right: 2px solid $gray-4;
+    @media (min-width: $break-medium) {
+      &:not(:last-child) {
+        border-right: 2px solid $gray-4;
+      }
     }
   }
   &-icon {

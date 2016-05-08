@@ -19,9 +19,6 @@ $white:  #FEFEFE;
 $sans:  "Roboto Condensed", sans-serif;
 $title: "Roboto", sans-serif;
 $mono:  "Inconsolata", monospace;
-// $sans:  "Catamaran", "Helvetica", "Arial", sans-serif;
-// $title: "Roboto Condensed", "Helvetica", "Arial", sans-serif;
-// $mono:  "Inconsolata", "Consolas", monospace;
 
 /* --- Font Weight --- */
 $book:   400;
@@ -32,6 +29,10 @@ $heavy:  900;
 /* --- Motion --- */
 $time: 300ms;
 $ease: cubic-bezier(0.18, 0.68, 0.31, 1.05);
+
+/* --- Responsive --- */
+$break-large:  900px;
+$break-medium: 600px;
 
 /* --- Base --- */
 $base-fs: 20;

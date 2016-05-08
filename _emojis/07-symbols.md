@@ -511,7 +511,9 @@ emojis:
     html: "&#10549"
     hex:  "&#x2935"
   # Missing Keycap Digit Sign
-  # Missing Keycap Asterisk
+  - name: "Keycap Asterisk"
+    html: "&#42;&#8419"
+    hex:  "&#x2a;&#x20e3"
   - name: "Input Symbol for Latin Letters"
     html: "&#8505"
     hex:  "&#x2139"
@@ -620,17 +622,34 @@ emojis:
   - name: "Up-Pointing Red Triangle"
     html: "&#128314"
     hex:  "&#x1f53a"
-  # Missing Black Small Square
-  # Missing White Small Square
-  # Missing Black Large Square
-  # Missing White Large Square
+  - name: "Black Small Square"
+    html: "&#9642"
+    hex:  "&#x25aa"
+  - name: "White Small Square"
+    html: "&#9643"
+    hex:  "&#x25ab"
+  - name: "Black Large Square"
+    html: "&#11035"
+    hex:  "&#x2b1b"
+  - name: "White Large Square"
+    html: "&#11036"
+    hex:  "&#x2b1c"
   - name: "Down-Pointing Red Triangle"
     html: "&#128315"
     hex:  "&#x1f53b"
-  # Missing Black Medium Square
-  # Missing White Medium Square
-  # Missing Black Medium Small Square
-  # Missing White Medium Small Square
+  - name: "Black Medium Square"
+    html: "&#9724"
+    hex:  "&#x25fc"
+  - name: "White Medium Square"
+    html: "&#9723"
+    hex:  "&#x25fb"
+    hex:  "&#x25fc"
+  - name: "Black Medium Small Square"
+    html: "&#9726"
+    hex:  "&#x25fe"
+  - name: "White Medium Small Square"
+    html: "&#9725"
+    hex:  "&#x25fd"
   - name: "Black Square Button"
     html: "&#128306"
     hex:  "&#x1f532"
@@ -763,5 +782,7 @@ emojis:
   - name: "Clock Face Twelve-Thirty"
     html: "&#128359"
     hex:  "&#x1f567"
-  # Missing Eye in Speech Bubble
+  - name: "Eye in Speech Bubble"
+    html: "&#128065;&#128488"
+    hex:  "&#x1f441;&#x1f5e8"
 ---
