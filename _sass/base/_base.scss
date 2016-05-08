@@ -1,4 +1,4 @@
-/* --- All elements --- */
+// All Elements
 * {
   padding: 0;
   margin: 0;
@@ -8,7 +8,7 @@
   background-color: rgba(179, 205, 252, 0.5);
 }
 
-/* --- HTML & Body --- */
+// HTML & Body
 html,
 body {
   height: 100%;
@@ -17,15 +17,15 @@ body {
 }
 html {
   font-size: $base-fs * 0.9px;
-  font-size: calc(0.77em + 1vmin);
   font-size: calc(1.1em + 0.25vmin)
 }
 body {
   font-size: rem(18);
   text-rendering: optimizeLegibility;
+  line-height: $base-lh;
 }
 
-/* --- Body Wrapper --- */
+// Body Wrapper
 .body-wrapper {
   max-width: $wrapper-width;
   margin: 0 auto;

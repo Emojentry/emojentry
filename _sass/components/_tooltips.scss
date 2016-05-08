@@ -18,6 +18,8 @@
       padding: em(7, 14) 0;
       margin-left: rem(-70);
       background: $gray-5;
+      font-family: $sans;
+      line-height: $base-lh;
       content: attr(data-tooltip);
     }
     &:after{

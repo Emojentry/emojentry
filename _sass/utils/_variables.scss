@@ -1,11 +1,4 @@
-/* --- Colors --- */
-$yellow: #FFBF19;
-$black:  #1B1D23;
-$gray:   #70727B;
-$silver: #E6E8E9;
-$snow:   #F2F3F4;
-$white:  #FBFCFD;
-
+// Colors
 $blue:   #57A1CE;
 $black:  #2F2F30;
 $gray-5: #696E74;
@@ -15,27 +8,28 @@ $gray-2: #EEEFF0;
 $gray-1: #F7F8F9;
 $white:  #FEFEFE;
 
-/* --- Font Family --- */
+// Font Family
 $sans:  "Roboto Condensed", sans-serif;
 $title: "Roboto", sans-serif;
 $mono:  "Inconsolata", monospace;
 
-/* --- Font Weight --- */
+// Font Weight
 $book:   400;
 $medium: 500;
 $bold:   700;
 $heavy:  900;
 
-/* --- Motion --- */
+// Motion
 $time: 300ms;
 $ease: cubic-bezier(0.18, 0.68, 0.31, 1.05);
 
-/* --- Responsive --- */
+// Responsive
 $break-large:  900px;
 $break-medium: 600px;
 
-/* --- Base --- */
+// Base
 $base-fs: 20;
+$base-lh: 1.4;
 
-/* --- Wrapper --- */
+// Wrapper
 $wrapper-width: 1200px;

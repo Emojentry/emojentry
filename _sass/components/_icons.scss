@@ -1,5 +1,17 @@
-// Icons
-.icon {
-  width: 100%;
-  height: 100%;
+// Material Icons
+.material-icons,
+.filter li:first-child {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// Search
+.search-container .material-icons {
+  font-size: em(35);
+}
+
+// List
+.list .material-icons {
+  font-size: em(20);
 }

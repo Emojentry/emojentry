@@ -1,5 +1,6 @@
 ---
 name: "Symbols"
+icon: "spellcheck"
 emojis:
   - name: "Heavy Black Heart"
     html: "&#10084"

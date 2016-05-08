@@ -28,10 +28,11 @@ h4 {
 }
 
 // Links
-a {
+a, .link {
   color: $black;
   text-decoration: none;
   transition: all $time $ease;
+  cursor: pointer;
   &:hover {
     color: $blue;
   }

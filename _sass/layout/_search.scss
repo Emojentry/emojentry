@@ -28,7 +28,6 @@
     width: rem(60);
     height: 100%;
     padding: rem(10);
-    fill: $black;
   }
 }
 
@@ -38,76 +37,18 @@
   flex-wrap: wrap;
   justify-content: center;
   list-style: none;
-  // @media (max-width: $break-large) {
-  //   height: rem(60);
-  // }
   li {
     width: rem(60);
     height: rem(60);
     float: left;
-    cursor: pointer;
+    &:first-child {
+      font-weight: 900;
+      text-transform: uppercase;
+    }
     @media (min-width: $break-medium) {
       &:not(:last-child) {
         border-right: 2px solid $gray-4;
       }
     }
   }
-  &-icon {
-    padding: rem(12.5);
-    fill: $black;
-    transition: all $time $ease;
-    &:hover {
-      fill: $blue;
-    }
-  }
 }
-
-// // Search Bar
-// .search {
-//   &-form {
-//     display: flex;
-//   }
-//   &-label {
-//     width: rem(60);
-//     height: rem(60);
-//     background: red;
-//   }
-//   &-input {
-//     flex: 1;
-//     outline: none;
-//     border: none;
-//     height: rem(60);
-//     background: transparent;
-//     font: inherit;
-//   }
-// }
-//
-// // Filter Buttons
-// .filter {
-//   &-groups {
-//     display: flex;
-//     li {
-//       display: flex;
-//       justify-content: center;
-//       align-items: center;
-//       width: rem(60);
-//       height: rem(60);
-//       cursor: pointer;
-//       background-color: yellow;
-//     }
-//   }
-// }
-//
-// // Icons
-// .icon {
-//   width: 100%;
-//   height: 100%;
-//   padding: rem(10);
-//   fill: currentColor;
-//   color: $black;
-//   &:not(.icon-search) {
-//     &:hover {
-//       color: $blue;
-//     }
-//   }
-// }

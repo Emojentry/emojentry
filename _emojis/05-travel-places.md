@@ -1,5 +1,6 @@
 ---
 name: "Travel & Places"
+icon: "directions_car"
 emojis:
   - name: "Automobile"
     html: "&#128663"

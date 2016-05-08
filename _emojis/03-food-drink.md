@@ -1,5 +1,6 @@
 ---
 name: "Food & Drink"
+icon: "restaurant"
 emojis:
   - name: "Green Apple"
     html: "&#127823"

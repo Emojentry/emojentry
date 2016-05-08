@@ -1,11 +1,4 @@
-/* --- Text Color --- */
-.yellow { color: $yellow; }
-.black  { color: $black; }
-.gray   { color: $gray; }
-.silver { color: $silver; }
-.snow   { color: $snow; }
-.white  { color: $white; }
-
+// Text Color
 .blue   { color: $blue; }
 .black  { color: $black; }
 .gray-5 { color: $gray-5; }
@@ -15,14 +8,7 @@
 .gray-1 { color: $gray-1; }
 .white  { color: $white; }
 
-/* --- Background Color --- */
-.bg-yellow { background-color: $yellow; }
-.bg-black  { background-color: $black; }
-.bg-gray   { background-color: $gray; }
-.bg-silver { background-color: $silver; }
-.bg-snow   { background-color: $snow; }
-.bg-white  { background-color: $white; }
-
+// Background Color
 .bg-blue   { background-color: $blue; }
 .bg-black  { background-color: $black; }
 .bg-gray-5 { background-color: $gray-5; }
@@ -32,15 +18,13 @@
 .bg-gray-1 { background-color: $gray-1; }
 .bg-white  { background-color: $white; }
 
-/* --- Font Family --- */
+// Font Family
 .sans  { font-family: $sans; }
 .title { font-family: $title; }
 .mono  { font-family: $mono; }
 
-/* --- Text Align --- */
+// Text Align
 .center { text-align: center; }
 
-/* --- Display --- */
-.hidden {
-  display: none;
-}
+// Display
+.hidden { display: none; }

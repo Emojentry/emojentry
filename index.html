@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<!-- " -->
 
 <!--- List Section --->
 <section id="emoji-list">
@@ -12,21 +11,20 @@ layout: default
     {% for group in site.emojis %}
       {% for emoji in group.emojis %}
         <li class="list-item" data-group="{{ group.name | slugify }}">
-          <svg class="emoji">
+          <div class="emoji">
+            <div class="emojione-{{ emoji.hex | remove: '&#x' | replace: ';', '-' }}"></div>
+          </div>
+          <!-- <svg class="emoji">
             <use xlink:href="#emoji-{{ emoji.hex | remove: '&#x' | replace: ';', '-' }}" />
-          </svg>
+          </svg> -->
           <h4 class="name">{{ emoji.name }}</h4>
           <section class="item-actions">
-            <a href="http://emojipedia.org/{{ emoji.html }}" target="_blank" data-tooltip="Emojipedia">
-              <svg class="icon action-icon">
-                <use xlink:href="#icon-book" />
-              </svg>
+            <a href="http://emojipedia.org/{{ emoji.html }}" target="_blank" data-tooltip="Emojipedia" class="material-icons">
+              import_contacts
             </a>
-            <div class="item-copy" data-tooltip="Copy" data-copy="{{ emoji.html }}">
-              <svg class="icon action-icon">
-                <use xlink:href="#icon-clipboard" />
-              </svg>
-            </a>
+            <div class="item-copy link material-icons" data-tooltip="Copy" data-copy="{{ emoji.html }}">
+              content_paste
+            </div>
           </section>
           <section class="list-item-code">
             <code class="html">{{ emoji.html | escape }};</code>

@@ -1,4 +1,4 @@
-// list
+// List
 .list {
   display: flex;
   flex-wrap: wrap;
@@ -41,20 +41,14 @@
 // Actions
 .item-actions {
   display: flex;
-  cursor: pointer;
   background: $gray-1;
   border-bottom: 1px solid $gray-4;
   a, .item-copy {
     flex: 1;
     height: rem(40);
     padding: rem(10);
-    fill: $black;
-    transition: all $time $ease;
     &:not(:last-child) {
       border-right: 1px solid $gray-4;
-    }
-    &:hover {
-      fill: $blue;
     }
   }
 }

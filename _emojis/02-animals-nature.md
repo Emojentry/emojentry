@@ -1,5 +1,6 @@
 ---
 name: "Animals & Nature"
+icon: "pets"
 emojis:
   - name: "Dog Face"
     html: "&#128054"

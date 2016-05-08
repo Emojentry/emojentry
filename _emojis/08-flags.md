@@ -1,5 +1,6 @@
 ---
 name: "Flags"
+icon: "flag"
 emojis:
   - name: "Flag for Ascension Island"
     html: "&#127462;&#127464"

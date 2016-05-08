@@ -1,5 +1,6 @@
 ---
 name: "Activity"
+icon: "pool"
 emojis:
   - name: "Soccer Ball"
     html: "&#9917"
