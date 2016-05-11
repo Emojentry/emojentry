@@ -12,11 +12,8 @@ layout: default
       {% for emoji in group.emojis %}
         <li class="list-item" data-group="{{ group.name | slugify }}">
           <div class="emoji">
-            <div class="emojione-{{ emoji.hex | remove: '&#x' | replace: ';', '-' }}"></div>
+            <div class="emojione-{% if emoji.img %}{{ emoji.img }}{% else %}{{ emoji.hex | remove: '&#x' | replace: ';', '-' }}{% endif %}"></div>
           </div>
-          <!-- <svg class="emoji">
-            <use xlink:href="#emoji-{{ emoji.hex | remove: '&#x' | replace: ';', '-' }}" />
-          </svg> -->
           <h4 class="name">{{ emoji.name }}</h4>
           <section class="item-actions">
             <a href="http://emojipedia.org/{{ emoji.html }}" target="_blank" data-tooltip="Emojipedia" class="material-icons">
