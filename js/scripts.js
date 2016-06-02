@@ -45,3 +45,19 @@ for (i = 0; i < copBtns.length; i++) {
     }, 1500);
   }
 }
+
+// AutoSelect
+var codes = document.querySelectorAll(".list-item-code code");
+for (i = 0; i < codes.length; i++) {
+  codes[i].onclick = function(el) {
+    if (document.selection) {
+        var range = document.body.createTextRange();
+        range.moveToElementText(this);
+        range.select();
+    } else if (window.getSelection) {
+        var range = document.createRange();
+        range.selectNode(this);
+        window.getSelection().addRange(range);
+    }
+  }
+}

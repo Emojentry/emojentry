@@ -23,9 +23,15 @@ layout: default
               content_paste
             </div>
           </section>
-          <section class="list-item-code">
+          <section class="list-item-code codes-top">
             <code class="html">{{ emoji.html | escape }};</code>
             <code class="hex">{{ emoji.hex | escape }};</code>
+          </section>
+          <section class="list-item-code codes-bottom">
+            <code class="unicode">{{ emoji.uni }}</code>
+            {% if emoji.shor %}
+              <code class="short">{{ emoji.shor }}</code>
+            {% endif %}
           </section>
         </li>
       {% endfor %}
