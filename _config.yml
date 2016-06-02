@@ -17,7 +17,7 @@ port: 1515
 
 links:
   github: "http://github.com/nil/emojist"
-  ph: "#"
+  ph: "https://www.producthunt.com/tech/emojist-2"
 
 share:
   twitter: "https://twitter.com/home?status=%F0%9F%93%A3%20The%20easiest%20way%20to%20know%20the%20entries%20of%20any%20emoji%20is%20using%20Emojist!%20%F0%9F%98%B1%20Check%20it%20on%20http%3A//emojist.tk%20%F0%9F%91%88%F0%9F%91%80"
