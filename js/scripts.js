@@ -1,10 +1,12 @@
+---
+---
 // Product Hunt
 var u = window.location.href;
 var h = document.querySelector("#js-heading");
 var n = document.querySelector(".header-nav");
 
 if (u.includes("producthunt")) {
-  var t = h.innerHTML.replace("Emoji Lover", "<a href='#' target='_blank'>Product Hunter</a>");
+  var t = h.innerHTML.replace("Emoji Lover", "<a href='{{ site.links.ph }}' target='_blank'>Product Hunter</a>");
   h.innerHTML = t;
 };
 
