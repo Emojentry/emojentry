@@ -13,7 +13,7 @@
   &-column {
     flex: 1;
   }
-  a {
+  a:not(.link) {
     display: block;
     margin: rem(3) rem(7);
     @media (max-width: $break-medium) {
