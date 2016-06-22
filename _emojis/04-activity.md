@@ -114,7 +114,7 @@ emojis:
     html: "&#128692"
     hex:  "&#x1f6b4"
     uni:  "U+1F6B4"
-  - name: "Bicyclist"
+  - name: "Mountain Bicyclist"
     html: "&#128693"
     hex:  "&#x1f6b5"
     uni:  "U+1F6B5"
