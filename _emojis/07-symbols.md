@@ -2,6 +2,10 @@
 name: "Symbols"
 icon: "spellcheck"
 emojis:
+  - name: "Black Heart"
+    html: "&#128420"
+    hex:  "&#x1f5a4"
+    uni:  "U+1F5A4"
   - name: "Heavy Black Heart"
     html: "&#10084"
     hex:  "&#x2764"
