@@ -122,7 +122,7 @@ emojis:
     html: "&#129420"
     hex:  "&#x1f98c"
     uni:  "U+1F98C"
-  - name: "Wolf"
+  - name: "Wolf Face"
     html: "&#128058"
     hex:  "&#x1f43a"
     uni:  "U+1F43A"
