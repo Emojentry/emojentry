@@ -705,9 +705,9 @@ emojis:
   # Missing Couple With Heart (Woman, Woman)
   # Missing Couple With Heart (Man, Man)
   - name: "Kiss"
-    html: "&#128139"
-    hex:  "&#x1f48b"
-    uni:  "U+1F48B"
+    html: "&#128143"
+    hex:  "&#x1f48f"
+    uni:  "U+1F48F"
   # Missing Kiss (Woman, Woman)
   # Missing Kiss (Man, Man)
   - name: "Pregnant Woman"
