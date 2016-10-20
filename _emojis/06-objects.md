@@ -394,7 +394,7 @@ emojis:
     html: "&#128506"
     hex:  "&#x1f5fa"
     uni:  "U+1F5FA"
-  - name: "Umbrella on Groundp"
+  - name: "Umbrella on Ground"
     html: "&#9969"
     hex:  "&#x26f1"
     uni:  "U+26F1"
