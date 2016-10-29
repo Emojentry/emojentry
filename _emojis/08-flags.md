@@ -349,6 +349,7 @@ emojis:
   - name: "Flag for India"
     html: "&#127470;&#127475"
     hex:  "&#x1f1ee;&#x1f1f3"
+    uni:  "U+1F1EE U+1F1F3"
   - name: "Flag for Indonesia"
     html: "&#127470;&#127465"
     hex:  "&#x1f1ee;&#x1f1e9"
